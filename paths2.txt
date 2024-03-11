@@ -1,0 +1,9 @@
+DISFA03,/mnt/hdd/dataset/DISFA/LeftVideoSN003_comp_sequence/1_1
+DISFA06,/mnt/hdd/dataset/DISFA/LeftVideoSN006_comp_sequence/1_1
+DISFA11,/mnt/hdd/dataset/DISFA/LeftVideoSN011_comp_sequence/1_1
+DISFA12,/mnt/hdd/dataset/DISFA/LeftVideoSN012_comp_sequence/1_1
+DISFA16,/mnt/hdd/dataset/DISFA/LeftVideoSN016_comp_sequence/1_1
+DISFA18,/mnt/hdd/dataset/DISFA/LeftVideoSN018_comp_sequence/1_1
+DISFA23,/mnt/hdd/dataset/DISFA/LeftVideoSN023_comp_sequence/1_1
+DISFA25,/mnt/hdd/dataset/DISFA/LeftVideoSN025_comp_sequence/1_1
+DISFA27,/mnt/hdd/dataset/DISFA/LeftVideoSN027_comp_sequence/1_1

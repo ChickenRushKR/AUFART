@@ -1,0 +1,16 @@
+2023-11-29 22:45:52.954 | INFO     | decalib.trainer_detail:prepare_data:254 - ---- training data numbers: 
+2023-11-29 22:45:57.941 | INFO     | decalib.trainer_detail:fit:290 - ExpName: deca_detail 
+Epoch: 0, Iter: 0/10369, Time: 2023-11-29-22:45:57 
+photo_detail: 0.0921, z_reg: 0.0000, z_diff: 0.0000, au_D: 0.0808, all_loss: 0.1729, 
+2023-11-29 22:49:30.998 | INFO     | decalib.trainer_detail:fit:290 - ExpName: deca_detail 
+Epoch: 0, Iter: 200/10369, Time: 2023-11-29-22:49:30 
+photo_detail: 0.0871, z_reg: 0.0000, z_diff: 0.0001, au_D: 0.0712, all_loss: 0.1584, 
+2023-11-29 22:53:04.020 | INFO     | decalib.trainer_detail:fit:290 - ExpName: deca_detail 
+Epoch: 0, Iter: 400/10369, Time: 2023-11-29-22:53:03 
+photo_detail: 0.0825, z_reg: 0.0000, z_diff: 0.0000, au_D: 0.0701, all_loss: 0.1527, 
+2023-11-29 22:56:36.488 | INFO     | decalib.trainer_detail:fit:290 - ExpName: deca_detail 
+Epoch: 0, Iter: 600/10369, Time: 2023-11-29-22:56:36 
+photo_detail: 0.0876, z_reg: 0.0000, z_diff: 0.0000, au_D: 0.0660, all_loss: 0.1536, 
+2023-11-29 23:00:09.442 | INFO     | decalib.trainer_detail:fit:290 - ExpName: deca_detail 
+Epoch: 0, Iter: 800/10369, Time: 2023-11-29-23:00:09 
+photo_detail: 0.0999, z_reg: 0.0000, z_diff: 0.0000, au_D: 0.0674, all_loss: 0.1673, 

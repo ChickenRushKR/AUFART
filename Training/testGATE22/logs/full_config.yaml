@@ -1,0 +1,131 @@
+!!python/object/new:yacs.config.CfgNode
+dictitems:
+  cfg_file: configs/release_version/deca_coarse.yml
+  dataset: !!python/object/new:yacs.config.CfgNode
+    dictitems:
+      K: 1
+      batch_size: 16
+      image_size: 224
+      isSingle: false
+      lmksize: 68
+      mediapipePath: /mnt/hdd/EncoderTrainingCode/Code/data/mediapipe_landmark_embedding.npz
+      num_workers: 3
+      scale_max: 1.8
+      scale_min: 1.4
+      training_data:
+      - selfDataset
+      trans_scale: 0.0
+    state:
+      __deprecated_keys__: !!set {}
+      __immutable__: false
+      __new_allowed__: false
+      __renamed_keys__: {}
+  deca_dir: /mnt/hdd/EncoderTrainingCode/Code
+  device: cuda:1
+  device_id: 0,1
+  emotion_checkpoint: /mnt/hdd/EncoderTrainingCode/Code/data/dataloader_idx_0=1.27607644.ckpt
+  exp_name: deca_coarse
+  loss: !!python/object/new:yacs.config.CfgNode
+    dictitems:
+      au_D: 0.0
+      expression: 0.9
+      eyed: 0.06
+      focalAU: true
+      lipd: 1.0
+      lmk: 0.2
+      lmk_dense: 0.1
+      mainAU: 0.8
+      mrf: 0.05
+      photo: 0.0
+      photo_D: 2.0
+      reg_cam: 0.0
+      reg_diff: 0.005
+      reg_exp: 1.0e-05
+      reg_jaw_pose: 0.1
+      reg_light: 0
+      reg_pose: 0.0
+      reg_shape: 0
+      reg_sym: 0.005
+      reg_tex: 0
+      reg_z: 0.005
+      relative_d: 0.5
+      subAU: 0.5
+      useSeg: true
+      useWlmk: true
+      use_gender_prior: false
+      weightedAU: false
+    state:
+      __deprecated_keys__: !!set {}
+      __immutable__: false
+      __new_allowed__: false
+      __renamed_keys__: {}
+  mode: train
+  model: !!python/object/new:yacs.config.CfgNode
+    dictitems:
+      dense_template_path: /mnt/hdd/EncoderTrainingCode/Code/data/texture_data_256.npy
+      extract_tex: true
+      face_eye_mask_path: /mnt/hdd/EncoderTrainingCode/Code/data/uv_face_eye_mask.png
+      face_mask_path: /mnt/hdd/EncoderTrainingCode/Code/data/uv_face_mask.png
+      fixed_displacement_path: /mnt/hdd/EncoderTrainingCode/Code/data/fixed_displacement_256.npy
+      flame_lmk_embedding_path: /mnt/hdd/EncoderTrainingCode/Code/data/landmark_embedding.npy
+      flame_mask_path: /home/cine/LGAI/Final_Code/TestPart/data/FLAME_masks.pkl
+      flame_model_path: /mnt/hdd/EncoderTrainingCode/Code/data/generic_model.pkl
+      fr_model_path: /mnt/hdd/EncoderTrainingCode/Code/data/resnet50_ft_weight.pkl
+      jaw_type: aa
+      max_z: 0.01
+      mean_tex_path: /mnt/hdd/EncoderTrainingCode/Code/data/mean_texture.jpg
+      mp_lmk_embedding_path: /mnt/hdd/EncoderTrainingCode/Code/data/mediapipe_landmark_embedding.npz
+      n_cam: 3
+      n_detail: 128
+      n_exp: 50
+      n_light: 27
+      n_pose: 6
+      n_shape: 100
+      n_tex: 50
+      param_list:
+      - shape
+      - tex
+      - exp
+      - pose
+      - cam
+      - light
+      tex_path: /mnt/hdd/EncoderTrainingCode/Code/data/FLAME_albedo_from_BFM.npz
+      tex_type: BFM
+      topology_path: /mnt/hdd/EncoderTrainingCode/Code/data/head_template.obj
+      use_tex: true
+      uv_size: 256
+    state:
+      __deprecated_keys__: !!set {}
+      __immutable__: false
+      __new_allowed__: false
+      __renamed_keys__: {}
+  output_dir: Training/testGATE22
+  pretrained_modelpath: ''
+  pretrained_modelpath_224: /mnt/hdd/EncoderTrainingCode/Code/data/deca_model.tar
+  rasterizer_type: pytorch3d
+  train: !!python/object/new:yacs.config.CfgNode
+    dictitems:
+      checkpoint_steps: 1000
+      eval_steps: 5000
+      log_dir: logs
+      log_steps: 200
+      lr: 0.0001
+      max_epochs: 15
+      max_steps: 200000000
+      resume: true
+      stepLR_steps: 10000
+      train_detail: false
+      vis_au: true
+      vis_dir: train_images
+      vis_steps: 200
+      write_summary: true
+    state:
+      __deprecated_keys__: !!set {}
+      __immutable__: false
+      __new_allowed__: false
+      __renamed_keys__: {}
+state:
+  __deprecated_keys__: !!set {}
+  __immutable__: false
+  __new_allowed__: false
+  __renamed_keys__: {}

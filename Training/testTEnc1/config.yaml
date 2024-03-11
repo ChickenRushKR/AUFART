@@ -1,0 +1,40 @@
+
+
+output_dir: "Training/testTEnc1" 
+pretrained_modelpath: ""
+
+# dataset added
+# predicts 236 parameters..
+dataset:
+
+  batch_size: 16
+  K: 1
+loss:
+ photo: 0.0
+ mainAU: 0.5
+ subAU: 0.25
+ weightedAU: False
+ focalAU: True
+ lipd: 0.6
+ reg_jaw_pose: 0.1
+ reg_exp: 0.000005
+ reg_pose: 0.0
+ reg_cam: 0.0
+ lmk: 0.3
+ lmk_dense: 0.1
+ expression: 0.2
+
+train:
+  resume: True
+  max_epochs: 11
+  max_steps: 200000000
+  log_steps: 200
+  vis_steps: 200
+  stepLR_steps: 10000
+  checkpoint_steps: 1000
+  vis_au: True
+  lr: 0.0001
+#  val_steps: 500
+#  eval_steps: 50000
+
+# python main_train_deca_release.py --cfg configs/release_version/deca_coarse.yml

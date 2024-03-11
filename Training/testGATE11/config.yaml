@@ -1,0 +1,37 @@
+
+
+output_dir: "Training/testGATE11" # Emotion loss increase
+pretrained_modelpath: ""
+
+# dataset added
+# no au loss
+dataset:
+
+  batch_size: 16
+  K: 1
+loss:
+ photo: 0.
+ mainAU: 0.15
+ subAU: 0.7
+ weightedAU: False
+ focalAU: False
+ lipd: 1.2
+ reg_jaw_pose: 1.1
+ reg_exp: 0.00008
+ lmk: 0.0
+ lmk_dense: 0.5
+ expression: 0.45
+
+train:
+  resume: True
+  max_epochs: 10
+  max_steps: 200000000
+  log_steps: 500
+  vis_steps: 250
+  checkpoint_steps: 1000
+  vis_au: True
+  lr: 0.0001
+#  val_steps: 500
+#  eval_steps: 50000
+
+# python main_train_deca_release.py --cfg configs/release_version/deca_coarse.yml

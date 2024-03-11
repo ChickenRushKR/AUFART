@@ -1,0 +1,34 @@
+
+
+output_dir: "Training/testGATE" #MEFL->ANFL
+pretrained_modelpath: ""
+# AU Loss 0.5, 0.5 / jaw pose reg 1->0.8 / Dataset CELEB, FFHQ, VGGFace2-HQ, Affwild2
+# pretrained_modelpath: "/mnt/hdd/EncoderTrainingCode/Code/data/model_new.tar"
+#pretrained_modelpath: "/media/cine/First/data/model.tar"
+# error fixed
+dataset:
+
+  batch_size: 16
+  K: 1
+loss:
+ photo: 0.
+ mainAU: 0.5
+ subAU: 0.5
+ weightedAU: True
+ lipd: 1.2
+ reg_jaw_pose: 0.8
+ lmk: 1.0
+ lmk_dense: 1.0
+ expression: 0.4
+
+train:
+  resume: True
+  max_epochs: 10
+  max_steps: 200000000
+  log_steps: 500
+  vis_steps: 500
+  checkpoint_steps: 1000
+#  val_steps: 500
+#  eval_steps: 50000
+
+# python main_train_deca_release.py --cfg configs/release_version/deca_coarse.yml

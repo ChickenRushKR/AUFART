@@ -1,0 +1,40 @@
+
+
+output_dir: "Training/testGATE14" # Emotion loss increase
+pretrained_modelpath: ""
+
+# dataset added
+# add headpose and cam residuals
+dataset:
+
+  batch_size: 16
+  K: 1
+loss:
+ photo: 0.
+ mainAU: 1.0
+ subAU: 0.7
+ weightedAU: True
+ focalAU: False
+ lipd: 1.2
+ reg_jaw_pose: 1.1
+ reg_exp: 0.00008
+ reg_pose: 0.000001
+ reg_cam: 0.000001
+ lmk: 0.1
+ lmk_dense: 0.5
+ expression: 1.0
+
+train:
+  resume: True
+  max_epochs: 15
+  max_steps: 200000000
+  log_steps: 250
+  vis_steps: 250
+  stepLR_steps: 10000
+  checkpoint_steps: 1000
+  vis_au: False
+  lr: 0.0001
+#  val_steps: 500
+#  eval_steps: 50000
+
+# python main_train_deca_release.py --cfg configs/release_version/deca_coarse.yml

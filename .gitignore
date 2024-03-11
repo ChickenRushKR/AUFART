@@ -1,3 +1,10 @@
 *.tar
 *.jpg
 *.png
+*.pyc
+data/*
+*.pth
+*.0
+*.mp4
+*.csv
+*.zip

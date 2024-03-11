@@ -1,0 +1,6 @@
+RAV03angry,/mnt/hdd/CINeLabDataset2/Actor03/angry/images
+RAV03happy,/mnt/hdd/CINeLabDataset2/Actor03/happy/images
+RAV03sad,/mnt/hdd/CINeLabDataset2/Actor03/sad/images
+RAV16angry,/mnt/hdd/CINeLabDataset2/Actor16/angry/images
+RAV16happy,/mnt/hdd/CINeLabDataset2/Actor16/happy/images
+RAV16sad,/mnt/hdd/CINeLabDataset2/Actor16/sad/images

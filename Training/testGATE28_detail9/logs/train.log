@@ -1,0 +1,23 @@
+2023-12-11 14:08:35.265 | INFO     | decalib.trainer_detail:prepare_data:256 - ---- training data numbers: 
+2023-12-11 14:08:40.576 | INFO     | decalib.trainer_detail:fit:292 - ExpName: deca_detail 
+Epoch: 0, Iter: 0/10369, Time: 2023-12-11-14:08:40 
+photo_detail: 0.0425, z_reg: 0.0002, z_diff: 0.0000, z_sym: 0.2955, au_D: 0.0168, all_loss: 0.3550, 
+2023-12-11 14:12:36.354 | INFO     | decalib.trainer_detail:fit:292 - ExpName: deca_detail 
+Epoch: 0, Iter: 200/10369, Time: 2023-12-11-14:12:36 
+photo_detail: 0.0426, z_reg: 0.0002, z_diff: 0.0000, z_sym: 0.0357, au_D: 0.0123, all_loss: 0.0908, 
+2023-12-11 14:16:29.623 | INFO     | decalib.trainer_detail:fit:292 - ExpName: deca_detail 
+Epoch: 0, Iter: 400/10369, Time: 2023-12-11-14:16:29 
+photo_detail: 0.0411, z_reg: 0.0002, z_diff: 0.0000, z_sym: 0.0246, au_D: 0.0123, all_loss: 0.0783, 
+2023-12-11 14:45:38.590 | INFO     | decalib.trainer_detail:prepare_data:256 - ---- training data numbers: 
+2023-12-11 14:47:28.792 | INFO     | decalib.trainer_detail:prepare_data:256 - ---- training data numbers: 
+2023-12-11 14:47:33.684 | INFO     | decalib.trainer_detail:fit:292 - ExpName: deca_detail 
+Epoch: 0, Iter: 0/20739, Time: 2023-12-11-14:47:33 
+photo_detail: 0.1701, photo_detail_mrf: nan, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.8611, all_loss: nan, 
+2023-12-11 14:49:37.015 | INFO     | decalib.trainer_detail:fit:292 - ExpName: deca_detail 
+Epoch: 0, Iter: 200/20739, Time: 2023-12-11-14:49:37 
+photo_detail: nan, photo_detail_mrf: nan, z_reg: nan, z_diff: nan, z_sym: nan, all_loss: nan, 
+2023-12-11 14:50:39.900 | INFO     | decalib.trainer_detail:prepare_data:256 - ---- training data numbers: 
+2023-12-11 15:07:58.499 | INFO     | decalib.trainer_detail:prepare_data:256 - ---- training data numbers: 
+2023-12-11 15:08:03.509 | INFO     | decalib.trainer_detail:fit:292 - ExpName: deca_detail 
+Epoch: 0, Iter: 0/20739, Time: 2023-12-11-15:08:03 
+photo_detail: 0.1701, photo_detail_mrf: nan, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.8611, all_loss: nan, 

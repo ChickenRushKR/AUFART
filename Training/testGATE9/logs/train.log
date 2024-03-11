@@ -1,0 +1,583 @@
+2023-10-30 16:48:49.354 | INFO     | decalib.trainer:prepare_data:338 - ---- training data numbers: 
+2023-10-30 16:49:00.903 | INFO     | decalib.trainer:fit:374 - ExpName: deca_coarse 
+Epoch: 0, Iter: 0/18204, Time: 2023-10-30-16:49:00 
+landmark_dense: 0.0133, eye_distance: 0.0534, lip_distance: 0.0576, expression: 0.1196, auloss: 0.1098, shape_reg: 0.0000, expression_reg: 0.0000, tex_reg: 0.0000, light_reg: 0.0000, reg_jawpose_roll: 0.0920, reg_jawpose_close: 0.0000, all_loss: 0.4458, 
+2023-10-30 16:55:12.080 | INFO     | decalib.trainer:fit:374 - ExpName: deca_coarse 
+Epoch: 0, Iter: 500/18204, Time: 2023-10-30-16:55:11 
+landmark_dense: 0.0133, eye_distance: 0.0379, lip_distance: 0.0485, expression: 0.0698, auloss: 0.1056, shape_reg: 0.0000, expression_reg: 0.0067, tex_reg: 0.0000, light_reg: 0.0000, reg_jawpose_roll: 0.0001, reg_jawpose_close: 0.0000, all_loss: 0.2818, 
+2023-10-30 17:03:50.878 | INFO     | decalib.trainer:prepare_data:340 - ---- training data numbers: 
+2023-10-30 17:04:26.907 | INFO     | decalib.trainer:fit:376 - ExpName: deca_coarse 
+Epoch: 0, Iter: 0/18204, Time: 2023-10-30-17:04:26 
+landmark_dense: 0.0133, eye_distance: 0.0534, lip_distance: 0.0576, expression: 0.1196, auloss: 0.1098, shape_reg: 0.0000, expression_reg: 0.0000, tex_reg: 0.0000, light_reg: 0.0000, reg_jawpose_roll: 0.0920, reg_jawpose_close: 0.0000, all_loss: 0.4458, 
+2023-10-30 17:12:27.711 | INFO     | decalib.trainer:prepare_data:341 - ---- training data numbers: 
+2023-10-30 17:12:32.882 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 0, Iter: 0/18204, Time: 2023-10-30-17:12:32 
+landmark_dense: 0.0133, eye_distance: 0.0534, lip_distance: 0.0576, expression: 0.1196, auloss: 0.1098, expression_reg: 0.0000, reg_jawpose_roll: 0.0920, reg_jawpose_close: 0.0000, all_loss: 0.4458, 
+2023-10-30 17:20:16.085 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 0, Iter: 500/18204, Time: 2023-10-30-17:20:15 
+landmark_dense: 0.0138, eye_distance: 0.0373, lip_distance: 0.0571, expression: 0.0744, auloss: 0.1052, expression_reg: 0.0069, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2948, 
+2023-10-30 17:21:07.229 | INFO     | decalib.trainer:prepare_data:341 - ---- training data numbers: 
+2023-10-30 17:22:30.843 | INFO     | decalib.trainer:prepare_data:341 - ---- training data numbers: 
+2023-10-30 17:22:37.868 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 0, Iter: 0/18204, Time: 2023-10-30-17:22:37 
+landmark_dense: 0.0133, eye_distance: 0.0534, lip_distance: 0.0576, expression: 0.1196, auloss: 0.1098, expression_reg: 0.0000, reg_jawpose_roll: 0.0920, reg_jawpose_close: 0.0000, all_loss: 0.4458, 
+2023-10-30 17:23:29.583 | INFO     | decalib.trainer:prepare_data:341 - ---- training data numbers: 
+2023-10-30 17:24:42.129 | INFO     | decalib.trainer:prepare_data:341 - ---- training data numbers: 
+2023-10-30 17:24:49.715 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 0, Iter: 0/9102, Time: 2023-10-30-17:24:49 
+landmark_dense: 0.0157, eye_distance: 0.1336, lip_distance: 0.0551, expression: 0.1143, auloss: 0.1094, expression_reg: 0.0001, reg_jawpose_roll: 0.1837, reg_jawpose_close: 0.0000, all_loss: 0.6118, 
+2023-10-30 17:26:27.534 | INFO     | decalib.trainer:prepare_data:341 - ---- training data numbers: 
+2023-10-30 17:26:34.980 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 0, Iter: 0/9102, Time: 2023-10-30-17:26:34 
+landmark_dense: 0.0157, eye_distance: 0.1336, lip_distance: 0.0551, expression: 0.1143, auloss: 0.1094, expression_reg: 0.0001, reg_jawpose_roll: 0.1837, reg_jawpose_close: 0.0000, all_loss: 0.6118, 
+2023-10-30 17:28:14.602 | INFO     | decalib.trainer:prepare_data:341 - ---- training data numbers: 
+2023-10-30 17:28:37.296 | INFO     | decalib.trainer:prepare_data:341 - ---- training data numbers: 
+2023-10-30 17:28:45.038 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 0, Iter: 0/9102, Time: 2023-10-30-17:28:45 
+landmark_dense: 0.0157, eye_distance: 0.1336, lip_distance: 0.0551, expression: 0.1143, auloss: 0.1094, expression_reg: 0.0001, reg_jawpose_roll: 0.1837, reg_jawpose_close: 0.0000, all_loss: 0.6118, 
+2023-10-30 17:41:15.025 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 0, Iter: 500/9102, Time: 2023-10-30-17:41:14 
+landmark_dense: 0.0131, eye_distance: 0.0747, lip_distance: 0.0459, expression: 0.0790, auloss: 0.1072, expression_reg: 0.0066, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.3266, 
+2023-10-30 17:53:43.684 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 0, Iter: 1000/9102, Time: 2023-10-30-17:53:43 
+landmark_dense: 0.0134, eye_distance: 0.0487, lip_distance: 0.0372, expression: 0.0444, auloss: 0.1055, expression_reg: 0.0121, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2613, 
+2023-10-30 18:06:12.769 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 0, Iter: 1500/9102, Time: 2023-10-30-18:06:12 
+landmark_dense: 0.0113, eye_distance: 0.0664, lip_distance: 0.0272, expression: 0.0433, auloss: 0.1059, expression_reg: 0.0108, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0002, all_loss: 0.2651, 
+2023-10-30 18:18:41.325 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 0, Iter: 2000/9102, Time: 2023-10-30-18:18:40 
+landmark_dense: 0.0129, eye_distance: 0.0511, lip_distance: 0.0254, expression: 0.0459, auloss: 0.1047, expression_reg: 0.0144, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2544, 
+2023-10-30 18:31:13.906 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 0, Iter: 2500/9102, Time: 2023-10-30-18:31:13 
+landmark_dense: 0.0138, eye_distance: 0.0562, lip_distance: 0.0265, expression: 0.0473, auloss: 0.1062, expression_reg: 0.0111, reg_jawpose_roll: 0.0001, reg_jawpose_close: 0.0000, all_loss: 0.2611, 
+2023-10-30 18:43:44.434 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 0, Iter: 3000/9102, Time: 2023-10-30-18:43:44 
+landmark_dense: 0.0119, eye_distance: 0.0681, lip_distance: 0.0226, expression: 0.0529, auloss: 0.1057, expression_reg: 0.0170, reg_jawpose_roll: 0.0007, reg_jawpose_close: 0.0000, all_loss: 0.2789, 
+2023-10-30 18:56:16.035 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 0, Iter: 3500/9102, Time: 2023-10-30-18:56:15 
+landmark_dense: 0.0121, eye_distance: 0.0517, lip_distance: 0.0268, expression: 0.0429, auloss: 0.1051, expression_reg: 0.0146, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2533, 
+2023-10-30 19:08:46.665 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 0, Iter: 4000/9102, Time: 2023-10-30-19:08:46 
+landmark_dense: 0.0134, eye_distance: 0.0522, lip_distance: 0.0227, expression: 0.0518, auloss: 0.1050, expression_reg: 0.0153, reg_jawpose_roll: 0.0006, reg_jawpose_close: 0.0000, all_loss: 0.2611, 
+2023-10-30 19:21:18.214 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 0, Iter: 4500/9102, Time: 2023-10-30-19:21:17 
+landmark_dense: 0.0140, eye_distance: 0.0455, lip_distance: 0.0232, expression: 0.0444, auloss: 0.1061, expression_reg: 0.0111, reg_jawpose_roll: 0.0172, reg_jawpose_close: 0.0000, all_loss: 0.2614, 
+2023-10-30 19:33:49.231 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 0, Iter: 5000/9102, Time: 2023-10-30-19:33:48 
+landmark_dense: 0.0116, eye_distance: 0.0604, lip_distance: 0.0239, expression: 0.0529, auloss: 0.1053, expression_reg: 0.0160, reg_jawpose_roll: 0.0001, reg_jawpose_close: 0.0000, all_loss: 0.2702, 
+2023-10-30 19:46:22.069 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 0, Iter: 5500/9102, Time: 2023-10-30-19:46:21 
+landmark_dense: 0.0124, eye_distance: 0.0581, lip_distance: 0.0225, expression: 0.0382, auloss: 0.1060, expression_reg: 0.0097, reg_jawpose_roll: 0.0006, reg_jawpose_close: 0.0000, all_loss: 0.2475, 
+2023-10-30 19:58:54.525 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 0, Iter: 6000/9102, Time: 2023-10-30-19:58:54 
+landmark_dense: 0.0115, eye_distance: 0.0573, lip_distance: 0.0197, expression: 0.0402, auloss: 0.1060, expression_reg: 0.0138, reg_jawpose_roll: 0.0002, reg_jawpose_close: 0.0000, all_loss: 0.2486, 
+2023-10-30 20:11:27.516 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 0, Iter: 6500/9102, Time: 2023-10-30-20:11:27 
+landmark_dense: 0.0121, eye_distance: 0.0474, lip_distance: 0.0205, expression: 0.0591, auloss: 0.1063, expression_reg: 0.0131, reg_jawpose_roll: 0.0001, reg_jawpose_close: 0.0000, all_loss: 0.2585, 
+2023-10-30 20:23:58.164 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 0, Iter: 7000/9102, Time: 2023-10-30-20:23:57 
+landmark_dense: 0.0129, eye_distance: 0.0562, lip_distance: 0.0201, expression: 0.0551, auloss: 0.1060, expression_reg: 0.0124, reg_jawpose_roll: 0.0001, reg_jawpose_close: 0.0000, all_loss: 0.2629, 
+2023-10-30 20:36:32.033 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 0, Iter: 7500/9102, Time: 2023-10-30-20:36:31 
+landmark_dense: 0.0131, eye_distance: 0.0560, lip_distance: 0.0245, expression: 0.0451, auloss: 0.1060, expression_reg: 0.0131, reg_jawpose_roll: 0.0003, reg_jawpose_close: 0.0000, all_loss: 0.2580, 
+2023-10-30 20:49:04.592 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 0, Iter: 8000/9102, Time: 2023-10-30-20:49:04 
+landmark_dense: 0.0131, eye_distance: 0.0559, lip_distance: 0.0198, expression: 0.0470, auloss: 0.1053, expression_reg: 0.0120, reg_jawpose_roll: 0.0005, reg_jawpose_close: 0.0000, all_loss: 0.2536, 
+2023-10-30 21:01:38.325 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 0, Iter: 8500/9102, Time: 2023-10-30-21:01:37 
+landmark_dense: 0.0138, eye_distance: 0.0601, lip_distance: 0.0234, expression: 0.0528, auloss: 0.1046, expression_reg: 0.0148, reg_jawpose_roll: 0.0001, reg_jawpose_close: 0.0000, all_loss: 0.2696, 
+2023-10-30 21:14:09.839 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 0, Iter: 9000/9102, Time: 2023-10-30-21:14:09 
+landmark_dense: 0.0124, eye_distance: 0.0590, lip_distance: 0.0219, expression: 0.0431, auloss: 0.1058, expression_reg: 0.0134, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2556, 
+2023-10-30 21:26:44.289 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 1, Iter: 398/9102, Time: 2023-10-30-21:26:43 
+landmark_dense: 0.0110, eye_distance: 0.0524, lip_distance: 0.0196, expression: 0.0350, auloss: 0.1061, expression_reg: 0.0129, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2370, 
+2023-10-30 21:39:14.504 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 1, Iter: 898/9102, Time: 2023-10-30-21:39:14 
+landmark_dense: 0.0111, eye_distance: 0.0543, lip_distance: 0.0227, expression: 0.0510, auloss: 0.1054, expression_reg: 0.0125, reg_jawpose_roll: 0.0002, reg_jawpose_close: 0.0000, all_loss: 0.2573, 
+2023-10-30 21:51:46.536 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 1, Iter: 1398/9102, Time: 2023-10-30-21:51:46 
+landmark_dense: 0.0116, eye_distance: 0.0526, lip_distance: 0.0214, expression: 0.0513, auloss: 0.1050, expression_reg: 0.0150, reg_jawpose_roll: 0.0002, reg_jawpose_close: 0.0000, all_loss: 0.2570, 
+2023-10-30 22:04:17.150 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 1, Iter: 1898/9102, Time: 2023-10-30-22:04:16 
+landmark_dense: 0.0132, eye_distance: 0.0426, lip_distance: 0.0217, expression: 0.0508, auloss: 0.1057, expression_reg: 0.0124, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2464, 
+2023-10-30 22:16:48.925 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 1, Iter: 2398/9102, Time: 2023-10-30-22:16:48 
+landmark_dense: 0.0101, eye_distance: 0.0427, lip_distance: 0.0212, expression: 0.0435, auloss: 0.1054, expression_reg: 0.0135, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2365, 
+2023-10-30 22:29:20.085 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 1, Iter: 2898/9102, Time: 2023-10-30-22:29:19 
+landmark_dense: 0.0126, eye_distance: 0.0587, lip_distance: 0.0243, expression: 0.0419, auloss: 0.1057, expression_reg: 0.0128, reg_jawpose_roll: 0.0001, reg_jawpose_close: 0.0000, all_loss: 0.2562, 
+2023-10-30 22:41:52.249 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 1, Iter: 3398/9102, Time: 2023-10-30-22:41:51 
+landmark_dense: 0.0112, eye_distance: 0.0541, lip_distance: 0.0220, expression: 0.0473, auloss: 0.1050, expression_reg: 0.0168, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0001, all_loss: 0.2564, 
+2023-10-30 22:54:35.238 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 1, Iter: 3898/9102, Time: 2023-10-30-22:54:34 
+landmark_dense: 0.0149, eye_distance: 0.0597, lip_distance: 0.0213, expression: 0.0438, auloss: 0.1053, expression_reg: 0.0146, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2596, 
+2023-10-30 23:07:31.047 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 1, Iter: 4398/9102, Time: 2023-10-30-23:07:30 
+landmark_dense: 0.0128, eye_distance: 0.0602, lip_distance: 0.0243, expression: 0.0511, auloss: 0.1056, expression_reg: 0.0143, reg_jawpose_roll: 0.0001, reg_jawpose_close: 0.0000, all_loss: 0.2683, 
+2023-10-30 23:20:25.614 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 1, Iter: 4898/9102, Time: 2023-10-30-23:20:25 
+landmark_dense: 0.0121, eye_distance: 0.0524, lip_distance: 0.0264, expression: 0.0409, auloss: 0.1058, expression_reg: 0.0125, reg_jawpose_roll: 0.0004, reg_jawpose_close: 0.0000, all_loss: 0.2506, 
+2023-10-30 23:33:05.835 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 1, Iter: 5398/9102, Time: 2023-10-30-23:33:05 
+landmark_dense: 0.0119, eye_distance: 0.0393, lip_distance: 0.0187, expression: 0.0371, auloss: 0.1051, expression_reg: 0.0121, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2243, 
+2023-10-30 23:45:44.691 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 1, Iter: 5898/9102, Time: 2023-10-30-23:45:44 
+landmark_dense: 0.0111, eye_distance: 0.0479, lip_distance: 0.0222, expression: 0.0475, auloss: 0.1055, expression_reg: 0.0181, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2524, 
+2023-10-30 23:58:24.859 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 1, Iter: 6398/9102, Time: 2023-10-30-23:58:24 
+landmark_dense: 0.0125, eye_distance: 0.0517, lip_distance: 0.0242, expression: 0.0450, auloss: 0.1058, expression_reg: 0.0175, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2569, 
+2023-10-31 00:11:04.065 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 1, Iter: 6898/9102, Time: 2023-10-31-00:11:03 
+landmark_dense: 0.0108, eye_distance: 0.0595, lip_distance: 0.0219, expression: 0.0432, auloss: 0.1053, expression_reg: 0.0134, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2541, 
+2023-10-31 00:23:44.631 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 1, Iter: 7398/9102, Time: 2023-10-31-00:23:44 
+landmark_dense: 0.0122, eye_distance: 0.0492, lip_distance: 0.0190, expression: 0.0423, auloss: 0.1058, expression_reg: 0.0166, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2450, 
+2023-10-31 00:36:25.033 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 1, Iter: 7898/9102, Time: 2023-10-31-00:36:24 
+landmark_dense: 0.0122, eye_distance: 0.0440, lip_distance: 0.0206, expression: 0.0524, auloss: 0.1059, expression_reg: 0.0148, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2499, 
+2023-10-31 00:49:06.676 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 1, Iter: 8398/9102, Time: 2023-10-31-00:49:06 
+landmark_dense: 0.0114, eye_distance: 0.0572, lip_distance: 0.0203, expression: 0.0398, auloss: 0.1066, expression_reg: 0.0157, reg_jawpose_roll: 0.0001, reg_jawpose_close: 0.0000, all_loss: 0.2511, 
+2023-10-31 01:01:47.229 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 1, Iter: 8898/9102, Time: 2023-10-31-01:01:46 
+landmark_dense: 0.0138, eye_distance: 0.0633, lip_distance: 0.0242, expression: 0.0421, auloss: 0.1056, expression_reg: 0.0117, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0001, all_loss: 0.2608, 
+2023-10-31 01:14:31.638 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 2, Iter: 296/9102, Time: 2023-10-31-01:14:31 
+landmark_dense: 0.0103, eye_distance: 0.0486, lip_distance: 0.0195, expression: 0.0580, auloss: 0.1057, expression_reg: 0.0192, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2612, 
+2023-10-31 01:27:10.524 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 2, Iter: 796/9102, Time: 2023-10-31-01:27:10 
+landmark_dense: 0.0118, eye_distance: 0.0616, lip_distance: 0.0181, expression: 0.0399, auloss: 0.1053, expression_reg: 0.0134, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2501, 
+2023-10-31 01:39:50.416 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 2, Iter: 1296/9102, Time: 2023-10-31-01:39:50 
+landmark_dense: 0.0111, eye_distance: 0.0572, lip_distance: 0.0211, expression: 0.0417, auloss: 0.1053, expression_reg: 0.0139, reg_jawpose_roll: 0.0002, reg_jawpose_close: 0.0000, all_loss: 0.2504, 
+2023-10-31 01:52:29.456 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 2, Iter: 1796/9102, Time: 2023-10-31-01:52:29 
+landmark_dense: 0.0118, eye_distance: 0.0465, lip_distance: 0.0202, expression: 0.0515, auloss: 0.1052, expression_reg: 0.0193, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2545, 
+2023-10-31 02:05:09.336 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 2, Iter: 2296/9102, Time: 2023-10-31-02:05:08 
+landmark_dense: 0.0119, eye_distance: 0.0518, lip_distance: 0.0195, expression: 0.0466, auloss: 0.1057, expression_reg: 0.0143, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2497, 
+2023-10-31 02:17:48.168 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 2, Iter: 2796/9102, Time: 2023-10-31-02:17:47 
+landmark_dense: 0.0116, eye_distance: 0.0579, lip_distance: 0.0232, expression: 0.0441, auloss: 0.1052, expression_reg: 0.0155, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2575, 
+2023-10-31 02:30:28.361 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 2, Iter: 3296/9102, Time: 2023-10-31-02:30:27 
+landmark_dense: 0.0129, eye_distance: 0.0466, lip_distance: 0.0196, expression: 0.0425, auloss: 0.1057, expression_reg: 0.0152, reg_jawpose_roll: 0.0001, reg_jawpose_close: 0.0000, all_loss: 0.2426, 
+2023-10-31 02:43:07.438 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 2, Iter: 3796/9102, Time: 2023-10-31-02:43:07 
+landmark_dense: 0.0122, eye_distance: 0.0566, lip_distance: 0.0214, expression: 0.0460, auloss: 0.1056, expression_reg: 0.0148, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2566, 
+2023-10-31 02:55:47.761 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 2, Iter: 4296/9102, Time: 2023-10-31-02:55:47 
+landmark_dense: 0.0123, eye_distance: 0.0481, lip_distance: 0.0205, expression: 0.0384, auloss: 0.1054, expression_reg: 0.0140, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2387, 
+2023-10-31 03:08:26.980 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 2, Iter: 4796/9102, Time: 2023-10-31-03:08:26 
+landmark_dense: 0.0125, eye_distance: 0.0459, lip_distance: 0.0228, expression: 0.0554, auloss: 0.1059, expression_reg: 0.0132, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2558, 
+2023-10-31 03:21:06.688 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 2, Iter: 5296/9102, Time: 2023-10-31-03:21:06 
+landmark_dense: 0.0109, eye_distance: 0.0507, lip_distance: 0.0177, expression: 0.0447, auloss: 0.1061, expression_reg: 0.0125, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2425, 
+2023-10-31 03:33:45.642 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 2, Iter: 5796/9102, Time: 2023-10-31-03:33:45 
+landmark_dense: 0.0139, eye_distance: 0.0524, lip_distance: 0.0239, expression: 0.0432, auloss: 0.1061, expression_reg: 0.0175, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2571, 
+2023-10-31 03:46:25.928 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 2, Iter: 6296/9102, Time: 2023-10-31-03:46:25 
+landmark_dense: 0.0114, eye_distance: 0.0502, lip_distance: 0.0220, expression: 0.0470, auloss: 0.1056, expression_reg: 0.0162, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2524, 
+2023-10-31 03:59:05.243 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 2, Iter: 6796/9102, Time: 2023-10-31-03:59:04 
+landmark_dense: 0.0123, eye_distance: 0.0519, lip_distance: 0.0263, expression: 0.0389, auloss: 0.1057, expression_reg: 0.0132, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2483, 
+2023-10-31 04:11:45.654 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 2, Iter: 7296/9102, Time: 2023-10-31-04:11:45 
+landmark_dense: 0.0101, eye_distance: 0.0473, lip_distance: 0.0205, expression: 0.0435, auloss: 0.1066, expression_reg: 0.0147, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2427, 
+2023-10-31 04:24:24.944 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 2, Iter: 7796/9102, Time: 2023-10-31-04:24:24 
+landmark_dense: 0.0137, eye_distance: 0.0506, lip_distance: 0.0227, expression: 0.0461, auloss: 0.1053, expression_reg: 0.0159, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2542, 
+2023-10-31 04:37:05.073 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 2, Iter: 8296/9102, Time: 2023-10-31-04:37:04 
+landmark_dense: 0.0133, eye_distance: 0.0496, lip_distance: 0.0232, expression: 0.0510, auloss: 0.1063, expression_reg: 0.0126, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2561, 
+2023-10-31 04:49:43.898 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 2, Iter: 8796/9102, Time: 2023-10-31-04:49:43 
+landmark_dense: 0.0146, eye_distance: 0.0441, lip_distance: 0.0219, expression: 0.0471, auloss: 0.1066, expression_reg: 0.0164, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2506, 
+2023-10-31 05:02:26.551 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 3, Iter: 194/9102, Time: 2023-10-31-05:02:26 
+landmark_dense: 0.0110, eye_distance: 0.0584, lip_distance: 0.0181, expression: 0.0436, auloss: 0.1053, expression_reg: 0.0125, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2490, 
+2023-10-31 05:15:04.982 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 3, Iter: 694/9102, Time: 2023-10-31-05:15:04 
+landmark_dense: 0.0120, eye_distance: 0.0423, lip_distance: 0.0239, expression: 0.0438, auloss: 0.1060, expression_reg: 0.0139, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2418, 
+2023-10-31 05:27:44.820 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 3, Iter: 1194/9102, Time: 2023-10-31-05:27:44 
+landmark_dense: 0.0124, eye_distance: 0.0441, lip_distance: 0.0180, expression: 0.0401, auloss: 0.1062, expression_reg: 0.0128, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2336, 
+2023-10-31 05:40:23.609 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 3, Iter: 1694/9102, Time: 2023-10-31-05:40:23 
+landmark_dense: 0.0114, eye_distance: 0.0471, lip_distance: 0.0197, expression: 0.0433, auloss: 0.1049, expression_reg: 0.0169, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2433, 
+2023-10-31 05:53:03.935 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 3, Iter: 2194/9102, Time: 2023-10-31-05:53:03 
+landmark_dense: 0.0111, eye_distance: 0.0553, lip_distance: 0.0248, expression: 0.0470, auloss: 0.1053, expression_reg: 0.0135, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2570, 
+2023-10-31 06:05:42.921 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 3, Iter: 2694/9102, Time: 2023-10-31-06:05:42 
+landmark_dense: 0.0137, eye_distance: 0.0537, lip_distance: 0.0258, expression: 0.0407, auloss: 0.1056, expression_reg: 0.0166, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2562, 
+2023-10-31 06:18:23.623 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 3, Iter: 3194/9102, Time: 2023-10-31-06:18:23 
+landmark_dense: 0.0119, eye_distance: 0.0522, lip_distance: 0.0182, expression: 0.0431, auloss: 0.1067, expression_reg: 0.0142, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2463, 
+2023-10-31 06:31:02.985 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 3, Iter: 3694/9102, Time: 2023-10-31-06:31:02 
+landmark_dense: 0.0106, eye_distance: 0.0393, lip_distance: 0.0220, expression: 0.0472, auloss: 0.1051, expression_reg: 0.0169, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2411, 
+2023-10-31 06:43:43.418 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 3, Iter: 4194/9102, Time: 2023-10-31-06:43:43 
+landmark_dense: 0.0130, eye_distance: 0.0454, lip_distance: 0.0191, expression: 0.0475, auloss: 0.1050, expression_reg: 0.0130, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2431, 
+2023-10-31 06:56:22.503 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 3, Iter: 4694/9102, Time: 2023-10-31-06:56:22 
+landmark_dense: 0.0105, eye_distance: 0.0458, lip_distance: 0.0184, expression: 0.0433, auloss: 0.1057, expression_reg: 0.0119, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2356, 
+2023-10-31 07:09:03.154 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 3, Iter: 5194/9102, Time: 2023-10-31-07:09:02 
+landmark_dense: 0.0116, eye_distance: 0.0500, lip_distance: 0.0220, expression: 0.0389, auloss: 0.1054, expression_reg: 0.0166, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2445, 
+2023-10-31 07:21:42.283 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 3, Iter: 5694/9102, Time: 2023-10-31-07:21:41 
+landmark_dense: 0.0152, eye_distance: 0.0446, lip_distance: 0.0230, expression: 0.0448, auloss: 0.1055, expression_reg: 0.0198, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2528, 
+2023-10-31 07:34:22.307 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 3, Iter: 6194/9102, Time: 2023-10-31-07:34:21 
+landmark_dense: 0.0130, eye_distance: 0.0533, lip_distance: 0.0217, expression: 0.0520, auloss: 0.1067, expression_reg: 0.0107, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2574, 
+2023-10-31 07:47:02.043 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 3, Iter: 6694/9102, Time: 2023-10-31-07:47:01 
+landmark_dense: 0.0138, eye_distance: 0.0551, lip_distance: 0.0187, expression: 0.0407, auloss: 0.1054, expression_reg: 0.0112, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2449, 
+2023-10-31 07:59:42.049 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 3, Iter: 7194/9102, Time: 2023-10-31-07:59:41 
+landmark_dense: 0.0100, eye_distance: 0.0437, lip_distance: 0.0189, expression: 0.0467, auloss: 0.1059, expression_reg: 0.0158, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2410, 
+2023-10-31 08:12:21.180 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 3, Iter: 7694/9102, Time: 2023-10-31-08:12:20 
+landmark_dense: 0.0125, eye_distance: 0.0496, lip_distance: 0.0229, expression: 0.0439, auloss: 0.1066, expression_reg: 0.0158, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2514, 
+2023-10-31 08:25:01.576 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 3, Iter: 8194/9102, Time: 2023-10-31-08:25:01 
+landmark_dense: 0.0117, eye_distance: 0.0441, lip_distance: 0.0179, expression: 0.0401, auloss: 0.1052, expression_reg: 0.0159, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2349, 
+2023-10-31 08:37:40.815 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 3, Iter: 8694/9102, Time: 2023-10-31-08:37:40 
+landmark_dense: 0.0125, eye_distance: 0.0638, lip_distance: 0.0188, expression: 0.0424, auloss: 0.1058, expression_reg: 0.0126, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2559, 
+2023-10-31 08:50:23.982 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 4, Iter: 92/9102, Time: 2023-10-31-08:50:23 
+landmark_dense: 0.0136, eye_distance: 0.0474, lip_distance: 0.0187, expression: 0.0413, auloss: 0.1064, expression_reg: 0.0105, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2380, 
+2023-10-31 09:03:03.258 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 4, Iter: 592/9102, Time: 2023-10-31-09:03:02 
+landmark_dense: 0.0114, eye_distance: 0.0471, lip_distance: 0.0198, expression: 0.0408, auloss: 0.1055, expression_reg: 0.0096, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2342, 
+2023-10-31 09:15:43.175 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 4, Iter: 1092/9102, Time: 2023-10-31-09:15:42 
+landmark_dense: 0.0151, eye_distance: 0.0634, lip_distance: 0.0216, expression: 0.0444, auloss: 0.1058, expression_reg: 0.0126, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2629, 
+2023-10-31 09:28:22.817 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 4, Iter: 1592/9102, Time: 2023-10-31-09:28:22 
+landmark_dense: 0.0111, eye_distance: 0.0442, lip_distance: 0.0208, expression: 0.0366, auloss: 0.1052, expression_reg: 0.0150, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2330, 
+2023-10-31 09:41:03.966 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 4, Iter: 2092/9102, Time: 2023-10-31-09:41:03 
+landmark_dense: 0.0121, eye_distance: 0.0456, lip_distance: 0.0236, expression: 0.0509, auloss: 0.1046, expression_reg: 0.0165, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2533, 
+2023-10-31 09:53:42.914 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 4, Iter: 2592/9102, Time: 2023-10-31-09:53:42 
+landmark_dense: 0.0129, eye_distance: 0.0566, lip_distance: 0.0204, expression: 0.0559, auloss: 0.1055, expression_reg: 0.0127, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2640, 
+2023-10-31 10:06:23.222 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 4, Iter: 3092/9102, Time: 2023-10-31-10:06:22 
+landmark_dense: 0.0105, eye_distance: 0.0510, lip_distance: 0.0191, expression: 0.0417, auloss: 0.1064, expression_reg: 0.0123, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2410, 
+2023-10-31 10:19:02.949 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 4, Iter: 3592/9102, Time: 2023-10-31-10:19:02 
+landmark_dense: 0.0107, eye_distance: 0.0518, lip_distance: 0.0209, expression: 0.0411, auloss: 0.1068, expression_reg: 0.0130, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2442, 
+2023-10-31 10:31:44.056 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 4, Iter: 4092/9102, Time: 2023-10-31-10:31:43 
+landmark_dense: 0.0109, eye_distance: 0.0568, lip_distance: 0.0178, expression: 0.0495, auloss: 0.1055, expression_reg: 0.0184, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2589, 
+2023-10-31 10:44:23.771 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 4, Iter: 4592/9102, Time: 2023-10-31-10:44:23 
+landmark_dense: 0.0106, eye_distance: 0.0540, lip_distance: 0.0185, expression: 0.0433, auloss: 0.1047, expression_reg: 0.0177, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2488, 
+2023-10-31 10:57:04.447 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 4, Iter: 5092/9102, Time: 2023-10-31-10:57:04 
+landmark_dense: 0.0116, eye_distance: 0.0421, lip_distance: 0.0197, expression: 0.0533, auloss: 0.1053, expression_reg: 0.0153, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2473, 
+2023-10-31 11:09:44.482 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 4, Iter: 5592/9102, Time: 2023-10-31-11:09:44 
+landmark_dense: 0.0114, eye_distance: 0.0438, lip_distance: 0.0212, expression: 0.0397, auloss: 0.1050, expression_reg: 0.0165, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2376, 
+2023-10-31 11:22:25.855 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 4, Iter: 6092/9102, Time: 2023-10-31-11:22:25 
+landmark_dense: 0.0119, eye_distance: 0.0559, lip_distance: 0.0201, expression: 0.0453, auloss: 0.1058, expression_reg: 0.0127, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2517, 
+2023-10-31 11:35:05.674 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 4, Iter: 6592/9102, Time: 2023-10-31-11:35:05 
+landmark_dense: 0.0114, eye_distance: 0.0488, lip_distance: 0.0186, expression: 0.0384, auloss: 0.1062, expression_reg: 0.0133, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2367, 
+2023-10-31 11:47:47.004 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 4, Iter: 7092/9102, Time: 2023-10-31-11:47:46 
+landmark_dense: 0.0132, eye_distance: 0.0462, lip_distance: 0.0175, expression: 0.0522, auloss: 0.1056, expression_reg: 0.0134, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2481, 
+2023-10-31 12:00:27.216 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 4, Iter: 7592/9102, Time: 2023-10-31-12:00:26 
+landmark_dense: 0.0142, eye_distance: 0.0571, lip_distance: 0.0191, expression: 0.0476, auloss: 0.1060, expression_reg: 0.0152, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2592, 
+2023-10-31 12:13:08.875 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 4, Iter: 8092/9102, Time: 2023-10-31-12:13:08 
+landmark_dense: 0.0127, eye_distance: 0.0596, lip_distance: 0.0192, expression: 0.0445, auloss: 0.1052, expression_reg: 0.0154, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2565, 
+2023-10-31 12:25:49.222 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 4, Iter: 8592/9102, Time: 2023-10-31-12:25:48 
+landmark_dense: 0.0121, eye_distance: 0.0421, lip_distance: 0.0184, expression: 0.0383, auloss: 0.1062, expression_reg: 0.0154, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2325, 
+2023-10-31 12:38:31.530 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 4, Iter: 9092/9102, Time: 2023-10-31-12:38:31 
+landmark_dense: 0.0117, eye_distance: 0.0557, lip_distance: 0.0195, expression: 0.0475, auloss: 0.1059, expression_reg: 0.0144, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2547, 
+2023-10-31 12:51:14.293 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 5, Iter: 490/9102, Time: 2023-10-31-12:51:13 
+landmark_dense: 0.0127, eye_distance: 0.0510, lip_distance: 0.0214, expression: 0.0479, auloss: 0.1053, expression_reg: 0.0192, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2575, 
+2023-10-31 13:03:54.508 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 5, Iter: 990/9102, Time: 2023-10-31-13:03:54 
+landmark_dense: 0.0114, eye_distance: 0.0635, lip_distance: 0.0207, expression: 0.0411, auloss: 0.1053, expression_reg: 0.0177, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2598, 
+2023-10-31 13:16:33.008 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 5, Iter: 1490/9102, Time: 2023-10-31-13:16:32 
+landmark_dense: 0.0109, eye_distance: 0.0380, lip_distance: 0.0196, expression: 0.0460, auloss: 0.1055, expression_reg: 0.0169, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2368, 
+2023-10-31 13:29:12.862 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 5, Iter: 1990/9102, Time: 2023-10-31-13:29:12 
+landmark_dense: 0.0134, eye_distance: 0.0547, lip_distance: 0.0215, expression: 0.0425, auloss: 0.1054, expression_reg: 0.0134, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2509, 
+2023-10-31 13:41:52.179 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 5, Iter: 2490/9102, Time: 2023-10-31-13:41:51 
+landmark_dense: 0.0121, eye_distance: 0.0464, lip_distance: 0.0214, expression: 0.0409, auloss: 0.1048, expression_reg: 0.0142, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2398, 
+2023-10-31 13:54:38.122 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 5, Iter: 2990/9102, Time: 2023-10-31-13:54:37 
+landmark_dense: 0.0112, eye_distance: 0.0450, lip_distance: 0.0190, expression: 0.0459, auloss: 0.1054, expression_reg: 0.0172, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2437, 
+2023-10-31 14:07:17.527 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 5, Iter: 3490/9102, Time: 2023-10-31-14:07:17 
+landmark_dense: 0.0111, eye_distance: 0.0603, lip_distance: 0.0209, expression: 0.0441, auloss: 0.1069, expression_reg: 0.0164, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2596, 
+2023-10-31 14:19:50.319 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 5, Iter: 3990/9102, Time: 2023-10-31-14:19:49 
+landmark_dense: 0.0128, eye_distance: 0.0487, lip_distance: 0.0192, expression: 0.0455, auloss: 0.1053, expression_reg: 0.0155, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2470, 
+2023-10-31 14:32:27.884 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 5, Iter: 4490/9102, Time: 2023-10-31-14:32:27 
+landmark_dense: 0.0127, eye_distance: 0.0546, lip_distance: 0.0241, expression: 0.0483, auloss: 0.1061, expression_reg: 0.0141, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2599, 
+2023-10-31 14:45:00.478 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 5, Iter: 4990/9102, Time: 2023-10-31-14:45:00 
+landmark_dense: 0.0127, eye_distance: 0.0438, lip_distance: 0.0174, expression: 0.0502, auloss: 0.1050, expression_reg: 0.0158, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2448, 
+2023-10-31 14:57:27.071 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 5, Iter: 5490/9102, Time: 2023-10-31-14:57:26 
+landmark_dense: 0.0158, eye_distance: 0.0574, lip_distance: 0.0237, expression: 0.0446, auloss: 0.1060, expression_reg: 0.0152, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2627, 
+2023-10-31 15:09:54.995 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 5, Iter: 5990/9102, Time: 2023-10-31-15:09:54 
+landmark_dense: 0.0129, eye_distance: 0.0714, lip_distance: 0.0239, expression: 0.0439, auloss: 0.1051, expression_reg: 0.0169, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2743, 
+2023-10-31 15:22:24.110 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 5, Iter: 6490/9102, Time: 2023-10-31-15:22:23 
+landmark_dense: 0.0150, eye_distance: 0.0388, lip_distance: 0.0223, expression: 0.0462, auloss: 0.1060, expression_reg: 0.0161, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2445, 
+2023-10-31 15:35:17.372 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 5, Iter: 6990/9102, Time: 2023-10-31-15:35:16 
+landmark_dense: 0.0121, eye_distance: 0.0456, lip_distance: 0.0229, expression: 0.0543, auloss: 0.1058, expression_reg: 0.0160, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2566, 
+2023-10-31 15:48:13.436 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 5, Iter: 7490/9102, Time: 2023-10-31-15:48:13 
+landmark_dense: 0.0132, eye_distance: 0.0559, lip_distance: 0.0233, expression: 0.0452, auloss: 0.1050, expression_reg: 0.0173, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2599, 
+2023-10-31 16:00:49.395 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 5, Iter: 7990/9102, Time: 2023-10-31-16:00:49 
+landmark_dense: 0.0118, eye_distance: 0.0469, lip_distance: 0.0181, expression: 0.0475, auloss: 0.1052, expression_reg: 0.0164, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2459, 
+2023-10-31 16:13:24.730 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 5, Iter: 8490/9102, Time: 2023-10-31-16:13:24 
+landmark_dense: 0.0109, eye_distance: 0.0461, lip_distance: 0.0258, expression: 0.0479, auloss: 0.1053, expression_reg: 0.0131, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2491, 
+2023-10-31 16:25:54.607 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 5, Iter: 8990/9102, Time: 2023-10-31-16:25:54 
+landmark_dense: 0.0108, eye_distance: 0.0496, lip_distance: 0.0201, expression: 0.0468, auloss: 0.1056, expression_reg: 0.0129, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2458, 
+2023-10-31 16:38:24.991 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 6, Iter: 388/9102, Time: 2023-10-31-16:38:24 
+landmark_dense: 0.0127, eye_distance: 0.0433, lip_distance: 0.0261, expression: 0.0481, auloss: 0.1049, expression_reg: 0.0188, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2538, 
+2023-10-31 16:50:57.593 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 6, Iter: 888/9102, Time: 2023-10-31-16:50:57 
+landmark_dense: 0.0136, eye_distance: 0.0398, lip_distance: 0.0196, expression: 0.0416, auloss: 0.1054, expression_reg: 0.0149, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2347, 
+2023-10-31 17:03:30.997 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 6, Iter: 1388/9102, Time: 2023-10-31-17:03:30 
+landmark_dense: 0.0130, eye_distance: 0.0552, lip_distance: 0.0228, expression: 0.0466, auloss: 0.1054, expression_reg: 0.0156, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0001, all_loss: 0.2586, 
+2023-10-31 17:16:05.069 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 6, Iter: 1888/9102, Time: 2023-10-31-17:16:04 
+landmark_dense: 0.0119, eye_distance: 0.0792, lip_distance: 0.0207, expression: 0.0457, auloss: 0.1059, expression_reg: 0.0181, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2815, 
+2023-10-31 17:28:38.691 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 6, Iter: 2388/9102, Time: 2023-10-31-17:28:38 
+landmark_dense: 0.0115, eye_distance: 0.0503, lip_distance: 0.0194, expression: 0.0447, auloss: 0.1052, expression_reg: 0.0125, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2436, 
+2023-10-31 17:41:14.013 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 6, Iter: 2888/9102, Time: 2023-10-31-17:41:13 
+landmark_dense: 0.0138, eye_distance: 0.0496, lip_distance: 0.0209, expression: 0.0392, auloss: 0.1053, expression_reg: 0.0164, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2453, 
+2023-10-31 17:53:48.864 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 6, Iter: 3388/9102, Time: 2023-10-31-17:53:48 
+landmark_dense: 0.0112, eye_distance: 0.0459, lip_distance: 0.0180, expression: 0.0449, auloss: 0.1060, expression_reg: 0.0150, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2411, 
+2023-10-31 18:06:21.220 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 6, Iter: 3888/9102, Time: 2023-10-31-18:06:20 
+landmark_dense: 0.0115, eye_distance: 0.0455, lip_distance: 0.0206, expression: 0.0498, auloss: 0.1051, expression_reg: 0.0147, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2472, 
+2023-10-31 18:18:52.336 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 6, Iter: 4388/9102, Time: 2023-10-31-18:18:51 
+landmark_dense: 0.0113, eye_distance: 0.0531, lip_distance: 0.0210, expression: 0.0490, auloss: 0.1052, expression_reg: 0.0178, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2574, 
+2023-10-31 18:31:27.248 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 6, Iter: 4888/9102, Time: 2023-10-31-18:31:26 
+landmark_dense: 0.0120, eye_distance: 0.0521, lip_distance: 0.0274, expression: 0.0529, auloss: 0.1047, expression_reg: 0.0136, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2628, 
+2023-10-31 18:44:18.172 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 6, Iter: 5388/9102, Time: 2023-10-31-18:44:17 
+landmark_dense: 0.0106, eye_distance: 0.0450, lip_distance: 0.0215, expression: 0.0451, auloss: 0.1050, expression_reg: 0.0187, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2460, 
+2023-10-31 18:56:48.892 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 6, Iter: 5888/9102, Time: 2023-10-31-18:56:48 
+landmark_dense: 0.0112, eye_distance: 0.0518, lip_distance: 0.0183, expression: 0.0456, auloss: 0.1053, expression_reg: 0.0125, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2447, 
+2023-10-31 19:09:19.299 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 6, Iter: 6388/9102, Time: 2023-10-31-19:09:18 
+landmark_dense: 0.0104, eye_distance: 0.0480, lip_distance: 0.0212, expression: 0.0433, auloss: 0.1066, expression_reg: 0.0097, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2392, 
+2023-10-31 19:21:50.754 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 6, Iter: 6888/9102, Time: 2023-10-31-19:21:50 
+landmark_dense: 0.0129, eye_distance: 0.0491, lip_distance: 0.0188, expression: 0.0475, auloss: 0.1058, expression_reg: 0.0107, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2448, 
+2023-10-31 19:34:20.751 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 6, Iter: 7388/9102, Time: 2023-10-31-19:34:20 
+landmark_dense: 0.0129, eye_distance: 0.0640, lip_distance: 0.0207, expression: 0.0519, auloss: 0.1047, expression_reg: 0.0147, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2689, 
+2023-10-31 19:46:52.228 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 6, Iter: 7888/9102, Time: 2023-10-31-19:46:51 
+landmark_dense: 0.0124, eye_distance: 0.0529, lip_distance: 0.0218, expression: 0.0403, auloss: 0.1058, expression_reg: 0.0106, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2438, 
+2023-10-31 19:59:21.942 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 6, Iter: 8388/9102, Time: 2023-10-31-19:59:21 
+landmark_dense: 0.0127, eye_distance: 0.0571, lip_distance: 0.0194, expression: 0.0491, auloss: 0.1062, expression_reg: 0.0149, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2595, 
+2023-10-31 20:11:53.046 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 6, Iter: 8888/9102, Time: 2023-10-31-20:11:52 
+landmark_dense: 0.0160, eye_distance: 0.0564, lip_distance: 0.0219, expression: 0.0484, auloss: 0.1055, expression_reg: 0.0150, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2632, 
+2023-10-31 20:24:25.597 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 7, Iter: 286/9102, Time: 2023-10-31-20:24:25 
+landmark_dense: 0.0142, eye_distance: 0.0480, lip_distance: 0.0207, expression: 0.0479, auloss: 0.1055, expression_reg: 0.0169, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0001, all_loss: 0.2533, 
+2023-10-31 20:36:55.947 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 7, Iter: 786/9102, Time: 2023-10-31-20:36:55 
+landmark_dense: 0.0135, eye_distance: 0.0618, lip_distance: 0.0220, expression: 0.0505, auloss: 0.1059, expression_reg: 0.0161, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2699, 
+2023-10-31 20:49:25.225 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 7, Iter: 1286/9102, Time: 2023-10-31-20:49:24 
+landmark_dense: 0.0122, eye_distance: 0.0468, lip_distance: 0.0210, expression: 0.0482, auloss: 0.1052, expression_reg: 0.0186, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2520, 
+2023-10-31 21:01:56.325 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 7, Iter: 1786/9102, Time: 2023-10-31-21:01:55 
+landmark_dense: 0.0118, eye_distance: 0.0535, lip_distance: 0.0226, expression: 0.0553, auloss: 0.1054, expression_reg: 0.0161, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2647, 
+2023-10-31 21:14:26.162 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 7, Iter: 2286/9102, Time: 2023-10-31-21:14:25 
+landmark_dense: 0.0121, eye_distance: 0.0528, lip_distance: 0.0214, expression: 0.0548, auloss: 0.1053, expression_reg: 0.0215, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2679, 
+2023-10-31 21:26:56.720 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 7, Iter: 2786/9102, Time: 2023-10-31-21:26:56 
+landmark_dense: 0.0115, eye_distance: 0.0513, lip_distance: 0.0193, expression: 0.0458, auloss: 0.1056, expression_reg: 0.0171, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2505, 
+2023-10-31 21:39:26.588 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 7, Iter: 3286/9102, Time: 2023-10-31-21:39:26 
+landmark_dense: 0.0139, eye_distance: 0.0486, lip_distance: 0.0226, expression: 0.0446, auloss: 0.1061, expression_reg: 0.0185, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2543, 
+2023-10-31 21:51:57.767 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 7, Iter: 3786/9102, Time: 2023-10-31-21:51:57 
+landmark_dense: 0.0118, eye_distance: 0.0473, lip_distance: 0.0174, expression: 0.0425, auloss: 0.1054, expression_reg: 0.0161, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2405, 
+2023-10-31 22:04:27.882 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 7, Iter: 4286/9102, Time: 2023-10-31-22:04:27 
+landmark_dense: 0.0115, eye_distance: 0.0413, lip_distance: 0.0199, expression: 0.0417, auloss: 0.1065, expression_reg: 0.0106, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2316, 
+2023-10-31 22:16:59.264 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 7, Iter: 4786/9102, Time: 2023-10-31-22:16:58 
+landmark_dense: 0.0131, eye_distance: 0.0543, lip_distance: 0.0207, expression: 0.0494, auloss: 0.1056, expression_reg: 0.0164, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2596, 
+2023-10-31 22:29:29.390 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 7, Iter: 5286/9102, Time: 2023-10-31-22:29:29 
+landmark_dense: 0.0106, eye_distance: 0.0501, lip_distance: 0.0183, expression: 0.0423, auloss: 0.1054, expression_reg: 0.0163, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2431, 
+2023-10-31 22:42:00.214 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 7, Iter: 5786/9102, Time: 2023-10-31-22:41:59 
+landmark_dense: 0.0114, eye_distance: 0.0555, lip_distance: 0.0250, expression: 0.0446, auloss: 0.1055, expression_reg: 0.0154, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2574, 
+2023-10-31 22:54:31.183 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 7, Iter: 6286/9102, Time: 2023-10-31-22:54:30 
+landmark_dense: 0.0128, eye_distance: 0.0506, lip_distance: 0.0189, expression: 0.0437, auloss: 0.1056, expression_reg: 0.0099, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2415, 
+2023-10-31 23:07:02.318 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 7, Iter: 6786/9102, Time: 2023-10-31-23:07:01 
+landmark_dense: 0.0114, eye_distance: 0.0563, lip_distance: 0.0201, expression: 0.0453, auloss: 0.1060, expression_reg: 0.0192, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2584, 
+2023-10-31 23:19:32.640 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 7, Iter: 7286/9102, Time: 2023-10-31-23:19:32 
+landmark_dense: 0.0120, eye_distance: 0.0441, lip_distance: 0.0240, expression: 0.0464, auloss: 0.1056, expression_reg: 0.0139, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2461, 
+2023-10-31 23:32:03.773 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 7, Iter: 7786/9102, Time: 2023-10-31-23:32:03 
+landmark_dense: 0.0126, eye_distance: 0.0509, lip_distance: 0.0218, expression: 0.0460, auloss: 0.1055, expression_reg: 0.0124, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2492, 
+2023-10-31 23:44:34.280 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 7, Iter: 8286/9102, Time: 2023-10-31-23:44:33 
+landmark_dense: 0.0144, eye_distance: 0.0454, lip_distance: 0.0219, expression: 0.0467, auloss: 0.1063, expression_reg: 0.0118, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2465, 
+2023-10-31 23:57:05.521 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 7, Iter: 8786/9102, Time: 2023-10-31-23:57:05 
+landmark_dense: 0.0117, eye_distance: 0.0541, lip_distance: 0.0188, expression: 0.0491, auloss: 0.1056, expression_reg: 0.0114, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2508, 
+2023-11-01 00:09:39.298 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 8, Iter: 184/9102, Time: 2023-11-01-00:09:38 
+landmark_dense: 0.0140, eye_distance: 0.0505, lip_distance: 0.0192, expression: 0.0441, auloss: 0.1064, expression_reg: 0.0150, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2492, 
+2023-11-01 00:22:12.448 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 8, Iter: 684/9102, Time: 2023-11-01-00:22:12 
+landmark_dense: 0.0116, eye_distance: 0.0484, lip_distance: 0.0175, expression: 0.0434, auloss: 0.1059, expression_reg: 0.0110, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2378, 
+2023-11-01 00:34:42.133 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 8, Iter: 1184/9102, Time: 2023-11-01-00:34:41 
+landmark_dense: 0.0118, eye_distance: 0.0558, lip_distance: 0.0189, expression: 0.0487, auloss: 0.1058, expression_reg: 0.0096, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2505, 
+2023-11-01 00:47:12.517 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 8, Iter: 1684/9102, Time: 2023-11-01-00:47:12 
+landmark_dense: 0.0124, eye_distance: 0.0547, lip_distance: 0.0208, expression: 0.0493, auloss: 0.1056, expression_reg: 0.0130, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2558, 
+2023-11-01 00:59:42.596 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 8, Iter: 2184/9102, Time: 2023-11-01-00:59:42 
+landmark_dense: 0.0108, eye_distance: 0.0560, lip_distance: 0.0210, expression: 0.0464, auloss: 0.1050, expression_reg: 0.0157, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2548, 
+2023-11-01 01:12:12.773 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 8, Iter: 2684/9102, Time: 2023-11-01-01:12:12 
+landmark_dense: 0.0128, eye_distance: 0.0470, lip_distance: 0.0205, expression: 0.0417, auloss: 0.1054, expression_reg: 0.0146, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2419, 
+2023-11-01 01:24:42.278 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 8, Iter: 3184/9102, Time: 2023-11-01-01:24:41 
+landmark_dense: 0.0113, eye_distance: 0.0551, lip_distance: 0.0193, expression: 0.0451, auloss: 0.1054, expression_reg: 0.0117, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2479, 
+2023-11-01 01:37:13.205 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 8, Iter: 3684/9102, Time: 2023-11-01-01:37:12 
+landmark_dense: 0.0119, eye_distance: 0.0606, lip_distance: 0.0250, expression: 0.0557, auloss: 0.1067, expression_reg: 0.0169, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2768, 
+2023-11-01 01:49:42.927 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 8, Iter: 4184/9102, Time: 2023-11-01-01:49:42 
+landmark_dense: 0.0110, eye_distance: 0.0618, lip_distance: 0.0248, expression: 0.0479, auloss: 0.1051, expression_reg: 0.0145, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2651, 
+2023-11-01 02:02:13.899 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 8, Iter: 4684/9102, Time: 2023-11-01-02:02:13 
+landmark_dense: 0.0101, eye_distance: 0.0534, lip_distance: 0.0178, expression: 0.0476, auloss: 0.1058, expression_reg: 0.0155, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2503, 
+2023-11-01 02:14:44.365 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 8, Iter: 5184/9102, Time: 2023-11-01-02:14:43 
+landmark_dense: 0.0119, eye_distance: 0.0512, lip_distance: 0.0204, expression: 0.0557, auloss: 0.1053, expression_reg: 0.0160, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2605, 
+2023-11-01 02:27:14.960 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 8, Iter: 5684/9102, Time: 2023-11-01-02:27:14 
+landmark_dense: 0.0109, eye_distance: 0.0454, lip_distance: 0.0198, expression: 0.0387, auloss: 0.1056, expression_reg: 0.0164, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2367, 
+2023-11-01 02:39:45.017 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 8, Iter: 6184/9102, Time: 2023-11-01-02:39:44 
+landmark_dense: 0.0130, eye_distance: 0.0639, lip_distance: 0.0230, expression: 0.0485, auloss: 0.1051, expression_reg: 0.0133, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2669, 
+2023-11-01 02:52:16.224 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 8, Iter: 6684/9102, Time: 2023-11-01-02:52:15 
+landmark_dense: 0.0129, eye_distance: 0.0596, lip_distance: 0.0276, expression: 0.0441, auloss: 0.1051, expression_reg: 0.0145, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2639, 
+2023-11-01 03:04:45.872 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 8, Iter: 7184/9102, Time: 2023-11-01-03:04:45 
+landmark_dense: 0.0126, eye_distance: 0.0507, lip_distance: 0.0195, expression: 0.0440, auloss: 0.1056, expression_reg: 0.0164, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2488, 
+2023-11-01 03:17:17.084 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 8, Iter: 7684/9102, Time: 2023-11-01-03:17:16 
+landmark_dense: 0.0114, eye_distance: 0.0494, lip_distance: 0.0180, expression: 0.0476, auloss: 0.1059, expression_reg: 0.0118, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2441, 
+2023-11-01 03:29:47.281 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 8, Iter: 8184/9102, Time: 2023-11-01-03:29:46 
+landmark_dense: 0.0119, eye_distance: 0.0449, lip_distance: 0.0230, expression: 0.0503, auloss: 0.1050, expression_reg: 0.0146, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2498, 
+2023-11-01 03:42:18.216 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 8, Iter: 8684/9102, Time: 2023-11-01-03:42:17 
+landmark_dense: 0.0109, eye_distance: 0.0543, lip_distance: 0.0187, expression: 0.0487, auloss: 0.1057, expression_reg: 0.0135, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2518, 
+2023-11-01 03:54:51.111 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 9, Iter: 82/9102, Time: 2023-11-01-03:54:50 
+landmark_dense: 0.0107, eye_distance: 0.0608, lip_distance: 0.0223, expression: 0.0412, auloss: 0.1058, expression_reg: 0.0095, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2503, 
+2023-11-01 04:07:22.155 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 9, Iter: 582/9102, Time: 2023-11-01-04:07:21 
+landmark_dense: 0.0132, eye_distance: 0.0438, lip_distance: 0.0193, expression: 0.0404, auloss: 0.1056, expression_reg: 0.0153, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2376, 
+2023-11-01 04:19:51.705 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 9, Iter: 1082/9102, Time: 2023-11-01-04:19:51 
+landmark_dense: 0.0128, eye_distance: 0.0481, lip_distance: 0.0221, expression: 0.0475, auloss: 0.1059, expression_reg: 0.0178, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2541, 
+2023-11-01 04:32:22.931 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 9, Iter: 1582/9102, Time: 2023-11-01-04:32:22 
+landmark_dense: 0.0146, eye_distance: 0.0635, lip_distance: 0.0216, expression: 0.0508, auloss: 0.1062, expression_reg: 0.0139, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2707, 
+2023-11-01 04:44:53.713 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 9, Iter: 2082/9102, Time: 2023-11-01-04:44:53 
+landmark_dense: 0.0113, eye_distance: 0.0469, lip_distance: 0.0207, expression: 0.0515, auloss: 0.1057, expression_reg: 0.0143, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2505, 
+2023-11-01 04:57:25.513 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 9, Iter: 2582/9102, Time: 2023-11-01-04:57:25 
+landmark_dense: 0.0135, eye_distance: 0.0527, lip_distance: 0.0186, expression: 0.0517, auloss: 0.1053, expression_reg: 0.0113, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2531, 
+2023-11-01 05:09:55.788 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 9, Iter: 3082/9102, Time: 2023-11-01-05:09:55 
+landmark_dense: 0.0125, eye_distance: 0.0483, lip_distance: 0.0184, expression: 0.0443, auloss: 0.1056, expression_reg: 0.0210, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2502, 
+2023-11-01 05:22:27.198 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 9, Iter: 3582/9102, Time: 2023-11-01-05:22:26 
+landmark_dense: 0.0124, eye_distance: 0.0490, lip_distance: 0.0201, expression: 0.0411, auloss: 0.1060, expression_reg: 0.0143, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2428, 
+2023-11-01 05:34:58.130 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 9, Iter: 4082/9102, Time: 2023-11-01-05:34:57 
+landmark_dense: 0.0126, eye_distance: 0.0521, lip_distance: 0.0277, expression: 0.0488, auloss: 0.1053, expression_reg: 0.0164, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2629, 
+2023-11-01 05:47:29.518 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 9, Iter: 4582/9102, Time: 2023-11-01-05:47:29 
+landmark_dense: 0.0114, eye_distance: 0.0510, lip_distance: 0.0190, expression: 0.0457, auloss: 0.1063, expression_reg: 0.0141, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2474, 
+2023-11-01 05:59:59.936 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 9, Iter: 5082/9102, Time: 2023-11-01-05:59:59 
+landmark_dense: 0.0111, eye_distance: 0.0499, lip_distance: 0.0184, expression: 0.0411, auloss: 0.1062, expression_reg: 0.0174, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2440, 
+2023-11-01 06:12:31.820 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 9, Iter: 5582/9102, Time: 2023-11-01-06:12:31 
+landmark_dense: 0.0111, eye_distance: 0.0560, lip_distance: 0.0196, expression: 0.0406, auloss: 0.1053, expression_reg: 0.0169, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2496, 
+2023-11-01 06:25:02.949 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 9, Iter: 6082/9102, Time: 2023-11-01-06:25:02 
+landmark_dense: 0.0113, eye_distance: 0.0425, lip_distance: 0.0205, expression: 0.0417, auloss: 0.1053, expression_reg: 0.0134, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2347, 
+2023-11-01 06:37:35.163 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 9, Iter: 6582/9102, Time: 2023-11-01-06:37:34 
+landmark_dense: 0.0127, eye_distance: 0.0512, lip_distance: 0.0209, expression: 0.0449, auloss: 0.1050, expression_reg: 0.0182, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0001, all_loss: 0.2529, 
+2023-11-01 06:50:06.480 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 9, Iter: 7082/9102, Time: 2023-11-01-06:50:06 
+landmark_dense: 0.0111, eye_distance: 0.0394, lip_distance: 0.0193, expression: 0.0418, auloss: 0.1051, expression_reg: 0.0143, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2309, 
+2023-11-01 07:02:39.373 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 9, Iter: 7582/9102, Time: 2023-11-01-07:02:38 
+landmark_dense: 0.0111, eye_distance: 0.0428, lip_distance: 0.0195, expression: 0.0454, auloss: 0.1056, expression_reg: 0.0175, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2419, 
+2023-11-01 07:15:10.608 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 9, Iter: 8082/9102, Time: 2023-11-01-07:15:10 
+landmark_dense: 0.0122, eye_distance: 0.0425, lip_distance: 0.0196, expression: 0.0532, auloss: 0.1057, expression_reg: 0.0141, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2473, 
+2023-11-01 07:27:42.705 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 9, Iter: 8582/9102, Time: 2023-11-01-07:27:42 
+landmark_dense: 0.0127, eye_distance: 0.0613, lip_distance: 0.0176, expression: 0.0500, auloss: 0.1063, expression_reg: 0.0173, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2651, 
+2023-11-01 07:40:14.039 | INFO     | decalib.trainer:fit:377 - ExpName: deca_coarse 
+Epoch: 9, Iter: 9082/9102, Time: 2023-11-01-07:40:13 
+landmark_dense: 0.0099, eye_distance: 0.0529, lip_distance: 0.0202, expression: 0.0406, auloss: 0.1043, expression_reg: 0.0178, reg_jawpose_roll: 0.0000, reg_jawpose_close: 0.0000, all_loss: 0.2458, 

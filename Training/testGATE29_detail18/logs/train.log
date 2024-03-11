@@ -1,0 +1,1571 @@
+2023-12-22 17:02:57.508 | INFO     | decalib.trainer_detail:prepare_data:262 - ---- training data numbers: 
+2023-12-22 17:03:02.457 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 0, Iter: 0/10369, Time: 2023-12-22-17:03:02 
+photo_detail: 0.1458, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.5094, au_D: 0.0095, all_loss: 0.6648, 
+2023-12-22 17:06:44.250 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 0, Iter: 200/10369, Time: 2023-12-22-17:06:44 
+photo_detail: 0.1486, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0105, au_D: 0.0086, all_loss: 0.1677, 
+2023-12-22 17:07:39.341 | INFO     | decalib.trainer_detail:prepare_data:262 - ---- training data numbers: 
+2023-12-22 17:08:32.100 | INFO     | decalib.trainer_detail:prepare_data:262 - ---- training data numbers: 
+2023-12-22 17:09:08.865 | INFO     | decalib.trainer_detail:prepare_data:262 - ---- training data numbers: 
+2023-12-22 17:09:14.754 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 0, Iter: 0/10369, Time: 2023-12-22-17:09:14 
+photo_detail: 0.1458, FFLoss: 0.0004, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.5094, au_D: 0.0095, all_loss: 0.6652, 
+2023-12-22 17:09:59.380 | INFO     | decalib.trainer_detail:prepare_data:262 - ---- training data numbers: 
+2023-12-22 17:10:05.367 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 0, Iter: 0/10369, Time: 2023-12-22-17:10:05 
+photo_detail: 0.1458, FFLoss: 0.0084, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.5094, au_D: 0.0095, all_loss: 0.6732, 
+2023-12-22 17:13:52.319 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 0, Iter: 200/10369, Time: 2023-12-22-17:13:52 
+photo_detail: 0.1484, FFLoss: 0.0089, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0109, au_D: 0.0086, all_loss: 0.1769, 
+2023-12-22 17:17:38.738 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 0, Iter: 400/10369, Time: 2023-12-22-17:17:38 
+photo_detail: 0.1402, FFLoss: 0.0084, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0074, au_D: 0.0091, all_loss: 0.1651, 
+2023-12-22 17:21:25.250 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 0, Iter: 600/10369, Time: 2023-12-22-17:21:25 
+photo_detail: 0.1376, FFLoss: 0.0087, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0047, au_D: 0.0087, all_loss: 0.1598, 
+2023-12-22 17:25:12.515 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 0, Iter: 800/10369, Time: 2023-12-22-17:25:12 
+photo_detail: 0.1646, FFLoss: 0.0110, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0034, au_D: 0.0086, all_loss: 0.1876, 
+2023-12-22 17:28:58.427 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 0, Iter: 1000/10369, Time: 2023-12-22-17:28:58 
+photo_detail: 0.1423, FFLoss: 0.0084, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0041, au_D: 0.0094, all_loss: 0.1642, 
+2023-12-22 17:32:46.954 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 0, Iter: 1200/10369, Time: 2023-12-22-17:32:46 
+photo_detail: 0.1503, FFLoss: 0.0095, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0031, au_D: 0.0085, all_loss: 0.1715, 
+2023-12-22 17:36:33.702 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 0, Iter: 1400/10369, Time: 2023-12-22-17:36:33 
+photo_detail: 0.1575, FFLoss: 0.0110, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0038, au_D: 0.0096, all_loss: 0.1818, 
+2023-12-22 17:40:19.603 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 0, Iter: 1600/10369, Time: 2023-12-22-17:40:19 
+photo_detail: 0.1351, FFLoss: 0.0080, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0030, au_D: 0.0081, all_loss: 0.1541, 
+2023-12-22 17:44:05.457 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 0, Iter: 1800/10369, Time: 2023-12-22-17:44:05 
+photo_detail: 0.1439, FFLoss: 0.0083, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0034, au_D: 0.0088, all_loss: 0.1645, 
+2023-12-22 17:47:50.672 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 0, Iter: 2000/10369, Time: 2023-12-22-17:47:50 
+photo_detail: 0.1466, FFLoss: 0.0096, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0038, au_D: 0.0096, all_loss: 0.1696, 
+2023-12-22 17:51:40.785 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 0, Iter: 2200/10369, Time: 2023-12-22-17:51:40 
+photo_detail: 0.1379, FFLoss: 0.0081, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0036, au_D: 0.0094, all_loss: 0.1590, 
+2023-12-22 17:55:25.526 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 0, Iter: 2400/10369, Time: 2023-12-22-17:55:25 
+photo_detail: 0.1525, FFLoss: 0.0094, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0029, au_D: 0.0089, all_loss: 0.1737, 
+2023-12-22 17:59:11.573 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 0, Iter: 2600/10369, Time: 2023-12-22-17:59:11 
+photo_detail: 0.1575, FFLoss: 0.0102, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0030, au_D: 0.0079, all_loss: 0.1786, 
+2023-12-22 18:02:56.782 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 0, Iter: 2800/10369, Time: 2023-12-22-18:02:56 
+photo_detail: 0.1406, FFLoss: 0.0085, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0036, au_D: 0.0088, all_loss: 0.1615, 
+2023-12-22 18:06:41.223 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 0, Iter: 3000/10369, Time: 2023-12-22-18:06:41 
+photo_detail: 0.1355, FFLoss: 0.0080, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0046, au_D: 0.0079, all_loss: 0.1561, 
+2023-12-22 18:10:29.931 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 0, Iter: 3200/10369, Time: 2023-12-22-18:10:29 
+photo_detail: 0.1307, FFLoss: 0.0075, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0050, au_D: 0.0099, all_loss: 0.1531, 
+2023-12-22 18:14:15.241 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 0, Iter: 3400/10369, Time: 2023-12-22-18:14:15 
+photo_detail: 0.1444, FFLoss: 0.0091, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0039, au_D: 0.0083, all_loss: 0.1657, 
+2023-12-22 18:17:59.753 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 0, Iter: 3600/10369, Time: 2023-12-22-18:17:59 
+photo_detail: 0.1458, FFLoss: 0.0085, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0041, au_D: 0.0085, all_loss: 0.1668, 
+2023-12-22 18:21:45.005 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 0, Iter: 3800/10369, Time: 2023-12-22-18:21:44 
+photo_detail: 0.1441, FFLoss: 0.0085, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0048, au_D: 0.0089, all_loss: 0.1663, 
+2023-12-22 18:25:29.322 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 0, Iter: 4000/10369, Time: 2023-12-22-18:25:29 
+photo_detail: 0.1496, FFLoss: 0.0090, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0033, au_D: 0.0098, all_loss: 0.1718, 
+2023-12-22 18:29:19.093 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 0, Iter: 4200/10369, Time: 2023-12-22-18:29:18 
+photo_detail: 0.1628, FFLoss: 0.0115, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0046, au_D: 0.0080, all_loss: 0.1869, 
+2023-12-22 18:33:04.644 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 0, Iter: 4400/10369, Time: 2023-12-22-18:33:04 
+photo_detail: 0.1565, FFLoss: 0.0103, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0046, au_D: 0.0086, all_loss: 0.1800, 
+2023-12-22 18:36:49.771 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 0, Iter: 4600/10369, Time: 2023-12-22-18:36:49 
+photo_detail: 0.1425, FFLoss: 0.0085, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0044, au_D: 0.0086, all_loss: 0.1640, 
+2023-12-22 18:40:34.688 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 0, Iter: 4800/10369, Time: 2023-12-22-18:40:34 
+photo_detail: 0.1369, FFLoss: 0.0081, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0055, au_D: 0.0089, all_loss: 0.1595, 
+2023-12-22 18:44:19.031 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 0, Iter: 5000/10369, Time: 2023-12-22-18:44:18 
+photo_detail: 0.1543, FFLoss: 0.0095, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0028, au_D: 0.0090, all_loss: 0.1756, 
+2023-12-22 18:48:07.179 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 0, Iter: 5200/10369, Time: 2023-12-22-18:48:07 
+photo_detail: 0.1414, FFLoss: 0.0093, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0043, au_D: 0.0081, all_loss: 0.1632, 
+2023-12-22 18:51:53.173 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 0, Iter: 5400/10369, Time: 2023-12-22-18:51:53 
+photo_detail: 0.1485, FFLoss: 0.0080, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0031, au_D: 0.0081, all_loss: 0.1677, 
+2023-12-22 18:55:39.065 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 0, Iter: 5600/10369, Time: 2023-12-22-18:55:38 
+photo_detail: 0.1376, FFLoss: 0.0072, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0031, au_D: 0.0087, all_loss: 0.1567, 
+2023-12-22 18:59:23.083 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 0, Iter: 5800/10369, Time: 2023-12-22-18:59:22 
+photo_detail: 0.1552, FFLoss: 0.0107, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0039, au_D: 0.0084, all_loss: 0.1782, 
+2023-12-22 19:03:07.254 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 0, Iter: 6000/10369, Time: 2023-12-22-19:03:07 
+photo_detail: 0.1490, FFLoss: 0.0111, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0047, au_D: 0.0085, all_loss: 0.1732, 
+2023-12-22 19:06:57.096 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 0, Iter: 6200/10369, Time: 2023-12-22-19:06:56 
+photo_detail: 0.1480, FFLoss: 0.0096, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0043, au_D: 0.0085, all_loss: 0.1704, 
+2023-12-22 19:10:43.382 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 0, Iter: 6400/10369, Time: 2023-12-22-19:10:43 
+photo_detail: 0.1591, FFLoss: 0.0105, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0034, au_D: 0.0096, all_loss: 0.1826, 
+2023-12-22 19:14:27.935 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 0, Iter: 6600/10369, Time: 2023-12-22-19:14:27 
+photo_detail: 0.1490, FFLoss: 0.0096, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0033, au_D: 0.0086, all_loss: 0.1704, 
+2023-12-22 19:18:13.241 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 0, Iter: 6800/10369, Time: 2023-12-22-19:18:13 
+photo_detail: 0.1502, FFLoss: 0.0090, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0039, au_D: 0.0087, all_loss: 0.1718, 
+2023-12-22 19:21:58.700 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 0, Iter: 7000/10369, Time: 2023-12-22-19:21:58 
+photo_detail: 0.1478, FFLoss: 0.0097, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0047, au_D: 0.0079, all_loss: 0.1701, 
+2023-12-22 19:25:48.148 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 0, Iter: 7200/10369, Time: 2023-12-22-19:25:47 
+photo_detail: 0.1538, FFLoss: 0.0102, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0036, au_D: 0.0087, all_loss: 0.1763, 
+2023-12-22 19:29:33.782 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 0, Iter: 7400/10369, Time: 2023-12-22-19:29:33 
+photo_detail: 0.1407, FFLoss: 0.0084, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0037, au_D: 0.0091, all_loss: 0.1620, 
+2023-12-22 19:33:19.264 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 0, Iter: 7600/10369, Time: 2023-12-22-19:33:19 
+photo_detail: 0.1590, FFLoss: 0.0112, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0040, au_D: 0.0082, all_loss: 0.1824, 
+2023-12-22 19:37:03.999 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 0, Iter: 7800/10369, Time: 2023-12-22-19:37:03 
+photo_detail: 0.1479, FFLoss: 0.0092, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0033, au_D: 0.0085, all_loss: 0.1689, 
+2023-12-22 19:40:48.305 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 0, Iter: 8000/10369, Time: 2023-12-22-19:40:48 
+photo_detail: 0.1481, FFLoss: 0.0097, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0049, au_D: 0.0100, all_loss: 0.1728, 
+2023-12-22 19:44:36.144 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 0, Iter: 8200/10369, Time: 2023-12-22-19:44:35 
+photo_detail: 0.1605, FFLoss: 0.0116, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0028, au_D: 0.0086, all_loss: 0.1835, 
+2023-12-22 19:48:21.281 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 0, Iter: 8400/10369, Time: 2023-12-22-19:48:21 
+photo_detail: 0.1449, FFLoss: 0.0093, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0035, au_D: 0.0084, all_loss: 0.1662, 
+2023-12-22 19:52:06.900 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 0, Iter: 8600/10369, Time: 2023-12-22-19:52:06 
+photo_detail: 0.1519, FFLoss: 0.0107, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0032, au_D: 0.0083, all_loss: 0.1741, 
+2023-12-22 19:55:51.645 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 0, Iter: 8800/10369, Time: 2023-12-22-19:55:51 
+photo_detail: 0.1504, FFLoss: 0.0100, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0033, au_D: 0.0065, all_loss: 0.1703, 
+2023-12-22 19:59:35.875 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 0, Iter: 9000/10369, Time: 2023-12-22-19:59:35 
+photo_detail: 0.1407, FFLoss: 0.0090, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0049, au_D: 0.0085, all_loss: 0.1631, 
+2023-12-22 20:03:24.045 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 0, Iter: 9200/10369, Time: 2023-12-22-20:03:23 
+photo_detail: 0.1538, FFLoss: 0.0100, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0029, au_D: 0.0080, all_loss: 0.1747, 
+2023-12-22 20:07:08.967 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 0, Iter: 9400/10369, Time: 2023-12-22-20:07:08 
+photo_detail: 0.1554, FFLoss: 0.0104, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0054, au_D: 0.0084, all_loss: 0.1796, 
+2023-12-22 20:10:53.267 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 0, Iter: 9600/10369, Time: 2023-12-22-20:10:53 
+photo_detail: 0.1429, FFLoss: 0.0099, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0039, au_D: 0.0080, all_loss: 0.1647, 
+2023-12-22 20:14:38.855 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 0, Iter: 9800/10369, Time: 2023-12-22-20:14:38 
+photo_detail: 0.1449, FFLoss: 0.0085, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0034, au_D: 0.0099, all_loss: 0.1668, 
+2023-12-22 20:18:23.549 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 0, Iter: 10000/10369, Time: 2023-12-22-20:18:23 
+photo_detail: 0.1417, FFLoss: 0.0082, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0034, au_D: 0.0087, all_loss: 0.1619, 
+2023-12-22 20:22:11.271 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 0, Iter: 10200/10369, Time: 2023-12-22-20:22:11 
+photo_detail: 0.1473, FFLoss: 0.0093, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0031, au_D: 0.0088, all_loss: 0.1686, 
+2023-12-22 20:26:00.416 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 1, Iter: 31/10369, Time: 2023-12-22-20:26:00 
+photo_detail: 0.1422, FFLoss: 0.0090, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0034, au_D: 0.0088, all_loss: 0.1635, 
+2023-12-22 20:29:45.071 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 1, Iter: 231/10369, Time: 2023-12-22-20:29:44 
+photo_detail: 0.1436, FFLoss: 0.0083, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0027, au_D: 0.0082, all_loss: 0.1629, 
+2023-12-22 20:33:30.352 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 1, Iter: 431/10369, Time: 2023-12-22-20:33:30 
+photo_detail: 0.1396, FFLoss: 0.0082, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0041, au_D: 0.0084, all_loss: 0.1603, 
+2023-12-22 20:37:14.331 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 1, Iter: 631/10369, Time: 2023-12-22-20:37:14 
+photo_detail: 0.1518, FFLoss: 0.0092, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0039, au_D: 0.0094, all_loss: 0.1743, 
+2023-12-22 20:41:03.291 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 1, Iter: 831/10369, Time: 2023-12-22-20:41:03 
+photo_detail: 0.1300, FFLoss: 0.0078, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0034, au_D: 0.0082, all_loss: 0.1494, 
+2023-12-22 20:44:47.899 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 1, Iter: 1031/10369, Time: 2023-12-22-20:44:47 
+photo_detail: 0.1419, FFLoss: 0.0079, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0037, au_D: 0.0085, all_loss: 0.1620, 
+2023-12-22 20:48:32.763 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 1, Iter: 1231/10369, Time: 2023-12-22-20:48:32 
+photo_detail: 0.1478, FFLoss: 0.0091, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0028, au_D: 0.0082, all_loss: 0.1680, 
+2023-12-22 20:52:17.722 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 1, Iter: 1431/10369, Time: 2023-12-22-20:52:17 
+photo_detail: 0.1380, FFLoss: 0.0081, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0036, au_D: 0.0088, all_loss: 0.1585, 
+2023-12-22 20:56:02.329 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 1, Iter: 1631/10369, Time: 2023-12-22-20:56:02 
+photo_detail: 0.1282, FFLoss: 0.0071, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0030, au_D: 0.0083, all_loss: 0.1467, 
+2023-12-22 20:59:52.084 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 1, Iter: 1831/10369, Time: 2023-12-22-20:59:51 
+photo_detail: 0.1712, FFLoss: 0.0135, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0045, au_D: 0.0086, all_loss: 0.1979, 
+2023-12-22 21:03:37.649 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 1, Iter: 2031/10369, Time: 2023-12-22-21:03:37 
+photo_detail: 0.1514, FFLoss: 0.0097, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0025, au_D: 0.0081, all_loss: 0.1717, 
+2023-12-22 21:07:22.860 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 1, Iter: 2231/10369, Time: 2023-12-22-21:07:22 
+photo_detail: 0.1529, FFLoss: 0.0091, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0027, au_D: 0.0096, all_loss: 0.1743, 
+2023-12-22 21:11:08.940 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 1, Iter: 2431/10369, Time: 2023-12-22-21:11:08 
+photo_detail: 0.1476, FFLoss: 0.0088, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0027, au_D: 0.0083, all_loss: 0.1675, 
+2023-12-22 21:14:52.996 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 1, Iter: 2631/10369, Time: 2023-12-22-21:14:52 
+photo_detail: 0.1614, FFLoss: 0.0109, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0036, au_D: 0.0086, all_loss: 0.1845, 
+2023-12-22 21:18:40.306 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 1, Iter: 2831/10369, Time: 2023-12-22-21:18:40 
+photo_detail: 0.1521, FFLoss: 0.0102, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0042, au_D: 0.0092, all_loss: 0.1757, 
+2023-12-22 21:22:25.747 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 1, Iter: 3031/10369, Time: 2023-12-22-21:22:25 
+photo_detail: 0.1481, FFLoss: 0.0090, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0029, au_D: 0.0087, all_loss: 0.1688, 
+2023-12-22 21:26:11.116 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 1, Iter: 3231/10369, Time: 2023-12-22-21:26:10 
+photo_detail: 0.1304, FFLoss: 0.0072, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0027, au_D: 0.0086, all_loss: 0.1489, 
+2023-12-22 21:29:55.618 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 1, Iter: 3431/10369, Time: 2023-12-22-21:29:55 
+photo_detail: 0.1370, FFLoss: 0.0081, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0020, au_D: 0.0080, all_loss: 0.1551, 
+2023-12-22 21:33:40.353 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 1, Iter: 3631/10369, Time: 2023-12-22-21:33:40 
+photo_detail: 0.1323, FFLoss: 0.0073, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0039, au_D: 0.0090, all_loss: 0.1526, 
+2023-12-22 21:37:28.373 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 1, Iter: 3831/10369, Time: 2023-12-22-21:37:28 
+photo_detail: 0.1238, FFLoss: 0.0059, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0042, au_D: 0.0086, all_loss: 0.1425, 
+2023-12-22 21:41:12.771 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 1, Iter: 4031/10369, Time: 2023-12-22-21:41:12 
+photo_detail: 0.1617, FFLoss: 0.0123, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0027, au_D: 0.0086, all_loss: 0.1853, 
+2023-12-22 21:44:57.849 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 1, Iter: 4231/10369, Time: 2023-12-22-21:44:57 
+photo_detail: 0.1770, FFLoss: 0.0151, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0038, au_D: 0.0080, all_loss: 0.2040, 
+2023-12-22 21:48:43.700 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 1, Iter: 4431/10369, Time: 2023-12-22-21:48:43 
+photo_detail: 0.1553, FFLoss: 0.0101, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0023, au_D: 0.0080, all_loss: 0.1757, 
+2023-12-22 21:52:29.775 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 1, Iter: 4631/10369, Time: 2023-12-22-21:52:29 
+photo_detail: 0.1502, FFLoss: 0.0092, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0022, au_D: 0.0089, all_loss: 0.1706, 
+2023-12-22 21:56:17.793 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 1, Iter: 4831/10369, Time: 2023-12-22-21:56:17 
+photo_detail: 0.1444, FFLoss: 0.0087, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0034, au_D: 0.0085, all_loss: 0.1651, 
+2023-12-22 22:00:03.803 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 1, Iter: 5031/10369, Time: 2023-12-22-22:00:03 
+photo_detail: 0.1471, FFLoss: 0.0097, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0033, au_D: 0.0082, all_loss: 0.1683, 
+2023-12-22 22:03:49.036 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 1, Iter: 5231/10369, Time: 2023-12-22-22:03:48 
+photo_detail: 0.1504, FFLoss: 0.0099, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0027, au_D: 0.0084, all_loss: 0.1714, 
+2023-12-22 22:07:34.185 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 1, Iter: 5431/10369, Time: 2023-12-22-22:07:34 
+photo_detail: 0.1500, FFLoss: 0.0095, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0042, au_D: 0.0089, all_loss: 0.1726, 
+2023-12-22 22:11:18.676 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 1, Iter: 5631/10369, Time: 2023-12-22-22:11:18 
+photo_detail: 0.1566, FFLoss: 0.0103, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0043, au_D: 0.0092, all_loss: 0.1804, 
+2023-12-22 22:15:07.025 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 1, Iter: 5831/10369, Time: 2023-12-22-22:15:06 
+photo_detail: 0.1359, FFLoss: 0.0077, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0029, au_D: 0.0082, all_loss: 0.1546, 
+2023-12-22 22:18:50.831 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 1, Iter: 6031/10369, Time: 2023-12-22-22:18:50 
+photo_detail: 0.1607, FFLoss: 0.0111, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0027, au_D: 0.0087, all_loss: 0.1833, 
+2023-12-22 22:22:34.810 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 1, Iter: 6231/10369, Time: 2023-12-22-22:22:34 
+photo_detail: 0.1390, FFLoss: 0.0083, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0031, au_D: 0.0082, all_loss: 0.1587, 
+2023-12-22 22:26:20.116 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 1, Iter: 6431/10369, Time: 2023-12-22-22:26:19 
+photo_detail: 0.1556, FFLoss: 0.0106, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0030, au_D: 0.0093, all_loss: 0.1786, 
+2023-12-22 22:30:05.251 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 1, Iter: 6631/10369, Time: 2023-12-22-22:30:05 
+photo_detail: 0.1386, FFLoss: 0.0086, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0024, au_D: 0.0081, all_loss: 0.1577, 
+2023-12-22 22:33:55.083 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 1, Iter: 6831/10369, Time: 2023-12-22-22:33:54 
+photo_detail: 0.1621, FFLoss: 0.0121, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0043, au_D: 0.0088, all_loss: 0.1874, 
+2023-12-22 22:37:40.823 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 1, Iter: 7031/10369, Time: 2023-12-22-22:37:40 
+photo_detail: 0.1460, FFLoss: 0.0093, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0032, au_D: 0.0088, all_loss: 0.1674, 
+2023-12-22 22:41:25.358 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 1, Iter: 7231/10369, Time: 2023-12-22-22:41:25 
+photo_detail: 0.1389, FFLoss: 0.0091, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0046, au_D: 0.0079, all_loss: 0.1604, 
+2023-12-22 22:45:11.438 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 1, Iter: 7431/10369, Time: 2023-12-22-22:45:11 
+photo_detail: 0.1609, FFLoss: 0.0108, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0029, au_D: 0.0071, all_loss: 0.1817, 
+2023-12-22 22:48:56.853 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 1, Iter: 7631/10369, Time: 2023-12-22-22:48:56 
+photo_detail: 0.1468, FFLoss: 0.0094, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0032, au_D: 0.0077, all_loss: 0.1672, 
+2023-12-22 22:52:45.270 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 1, Iter: 7831/10369, Time: 2023-12-22-22:52:45 
+photo_detail: 0.1613, FFLoss: 0.0121, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0034, au_D: 0.0080, all_loss: 0.1849, 
+2023-12-22 22:56:30.569 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 1, Iter: 8031/10369, Time: 2023-12-22-22:56:30 
+photo_detail: 0.1598, FFLoss: 0.0111, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0023, au_D: 0.0100, all_loss: 0.1832, 
+2023-12-22 23:00:14.602 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 1, Iter: 8231/10369, Time: 2023-12-22-23:00:14 
+photo_detail: 0.1506, FFLoss: 0.0111, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0036, au_D: 0.0091, all_loss: 0.1744, 
+2023-12-22 23:03:59.291 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 1, Iter: 8431/10369, Time: 2023-12-22-23:03:59 
+photo_detail: 0.1381, FFLoss: 0.0086, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0036, au_D: 0.0082, all_loss: 0.1586, 
+2023-12-22 23:07:43.999 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 1, Iter: 8631/10369, Time: 2023-12-22-23:07:43 
+photo_detail: 0.1399, FFLoss: 0.0078, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0032, au_D: 0.0094, all_loss: 0.1603, 
+2023-12-22 23:11:31.818 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 1, Iter: 8831/10369, Time: 2023-12-22-23:11:31 
+photo_detail: 0.1587, FFLoss: 0.0116, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0024, au_D: 0.0086, all_loss: 0.1813, 
+2023-12-22 23:15:17.896 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 1, Iter: 9031/10369, Time: 2023-12-22-23:15:17 
+photo_detail: 0.1412, FFLoss: 0.0083, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0026, au_D: 0.0082, all_loss: 0.1604, 
+2023-12-22 23:19:01.973 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 1, Iter: 9231/10369, Time: 2023-12-22-23:19:01 
+photo_detail: 0.1406, FFLoss: 0.0100, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0046, au_D: 0.0089, all_loss: 0.1641, 
+2023-12-22 23:22:47.106 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 1, Iter: 9431/10369, Time: 2023-12-22-23:22:46 
+photo_detail: 0.1551, FFLoss: 0.0095, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0020, au_D: 0.0101, all_loss: 0.1767, 
+2023-12-22 23:26:31.916 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 1, Iter: 9631/10369, Time: 2023-12-22-23:26:31 
+photo_detail: 0.1282, FFLoss: 0.0068, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0031, au_D: 0.0090, all_loss: 0.1471, 
+2023-12-22 23:30:20.102 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 1, Iter: 9831/10369, Time: 2023-12-22-23:30:19 
+photo_detail: 0.1599, FFLoss: 0.0110, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0025, au_D: 0.0097, all_loss: 0.1831, 
+2023-12-22 23:34:04.713 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 1, Iter: 10031/10369, Time: 2023-12-22-23:34:04 
+photo_detail: 0.1894, FFLoss: 0.0154, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0020, au_D: 0.0099, all_loss: 0.2168, 
+2023-12-22 23:37:49.074 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 1, Iter: 10231/10369, Time: 2023-12-22-23:37:48 
+photo_detail: 0.1246, FFLoss: 0.0066, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0037, au_D: 0.0086, all_loss: 0.1435, 
+2023-12-22 23:41:38.222 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 2, Iter: 62/10369, Time: 2023-12-22-23:41:38 
+photo_detail: 0.1455, FFLoss: 0.0084, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0025, au_D: 0.0085, all_loss: 0.1648, 
+2023-12-22 23:45:22.628 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 2, Iter: 262/10369, Time: 2023-12-22-23:45:22 
+photo_detail: 0.1586, FFLoss: 0.0100, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0024, au_D: 0.0086, all_loss: 0.1796, 
+2023-12-22 23:49:09.736 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 2, Iter: 462/10369, Time: 2023-12-22-23:49:09 
+photo_detail: 0.1455, FFLoss: 0.0099, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0039, au_D: 0.0080, all_loss: 0.1673, 
+2023-12-22 23:52:53.875 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 2, Iter: 662/10369, Time: 2023-12-22-23:52:53 
+photo_detail: 0.1635, FFLoss: 0.0125, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0041, au_D: 0.0093, all_loss: 0.1896, 
+2023-12-22 23:56:37.229 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 2, Iter: 862/10369, Time: 2023-12-22-23:56:37 
+photo_detail: 0.1484, FFLoss: 0.0089, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0032, au_D: 0.0096, all_loss: 0.1701, 
+2023-12-23 00:00:21.978 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 2, Iter: 1062/10369, Time: 2023-12-23-00:00:21 
+photo_detail: 0.1429, FFLoss: 0.0085, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0030, au_D: 0.0091, all_loss: 0.1636, 
+2023-12-23 00:04:06.040 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 2, Iter: 1262/10369, Time: 2023-12-23-00:04:05 
+photo_detail: 0.1419, FFLoss: 0.0083, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0036, au_D: 0.0088, all_loss: 0.1626, 
+2023-12-23 00:07:53.335 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 2, Iter: 1462/10369, Time: 2023-12-23-00:07:53 
+photo_detail: 0.1405, FFLoss: 0.0086, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0035, au_D: 0.0084, all_loss: 0.1610, 
+2023-12-23 00:11:37.868 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 2, Iter: 1662/10369, Time: 2023-12-23-00:11:37 
+photo_detail: 0.1470, FFLoss: 0.0087, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0033, au_D: 0.0092, all_loss: 0.1682, 
+2023-12-23 00:15:21.881 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 2, Iter: 1862/10369, Time: 2023-12-23-00:15:21 
+photo_detail: 0.1510, FFLoss: 0.0096, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0050, au_D: 0.0092, all_loss: 0.1747, 
+2023-12-23 00:19:05.996 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 2, Iter: 2062/10369, Time: 2023-12-23-00:19:05 
+photo_detail: 0.1310, FFLoss: 0.0075, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0043, au_D: 0.0080, all_loss: 0.1509, 
+2023-12-23 00:22:50.440 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 2, Iter: 2262/10369, Time: 2023-12-23-00:22:50 
+photo_detail: 0.1436, FFLoss: 0.0084, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0032, au_D: 0.0081, all_loss: 0.1633, 
+2023-12-23 00:26:38.543 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 2, Iter: 2462/10369, Time: 2023-12-23-00:26:38 
+photo_detail: 0.1444, FFLoss: 0.0097, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0046, au_D: 0.0089, all_loss: 0.1676, 
+2023-12-23 00:30:23.802 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 2, Iter: 2662/10369, Time: 2023-12-23-00:30:23 
+photo_detail: 0.1561, FFLoss: 0.0103, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0032, au_D: 0.0092, all_loss: 0.1788, 
+2023-12-23 00:34:09.142 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 2, Iter: 2862/10369, Time: 2023-12-23-00:34:08 
+photo_detail: 0.1246, FFLoss: 0.0068, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0033, au_D: 0.0084, all_loss: 0.1432, 
+2023-12-23 00:37:54.013 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 2, Iter: 3062/10369, Time: 2023-12-23-00:37:53 
+photo_detail: 0.1511, FFLoss: 0.0093, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0040, au_D: 0.0099, all_loss: 0.1743, 
+2023-12-23 00:41:38.667 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 2, Iter: 3262/10369, Time: 2023-12-23-00:41:38 
+photo_detail: 0.1668, FFLoss: 0.0107, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0036, au_D: 0.0095, all_loss: 0.1907, 
+2023-12-23 00:45:28.253 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 2, Iter: 3462/10369, Time: 2023-12-23-00:45:28 
+photo_detail: 0.1453, FFLoss: 0.0081, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0033, au_D: 0.0092, all_loss: 0.1659, 
+2023-12-23 00:49:12.745 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 2, Iter: 3662/10369, Time: 2023-12-23-00:49:12 
+photo_detail: 0.1551, FFLoss: 0.0101, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0030, au_D: 0.0090, all_loss: 0.1771, 
+2023-12-23 00:52:56.482 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 2, Iter: 3862/10369, Time: 2023-12-23-00:52:56 
+photo_detail: 0.1421, FFLoss: 0.0089, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0045, au_D: 0.0079, all_loss: 0.1634, 
+2023-12-23 00:56:42.003 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 2, Iter: 4062/10369, Time: 2023-12-23-00:56:41 
+photo_detail: 0.1321, FFLoss: 0.0074, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0060, au_D: 0.0102, all_loss: 0.1558, 
+2023-12-23 01:00:27.660 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 2, Iter: 4262/10369, Time: 2023-12-23-01:00:27 
+photo_detail: 0.1286, FFLoss: 0.0075, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0060, au_D: 0.0086, all_loss: 0.1507, 
+2023-12-23 01:04:17.201 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 2, Iter: 4462/10369, Time: 2023-12-23-01:04:17 
+photo_detail: 0.1679, FFLoss: 0.0138, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0044, au_D: 0.0075, all_loss: 0.1937, 
+2023-12-23 01:08:03.647 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 2, Iter: 4662/10369, Time: 2023-12-23-01:08:03 
+photo_detail: 0.1483, FFLoss: 0.0090, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0044, au_D: 0.0077, all_loss: 0.1693, 
+2023-12-23 01:11:48.877 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 2, Iter: 4862/10369, Time: 2023-12-23-01:11:48 
+photo_detail: 0.1257, FFLoss: 0.0064, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0051, au_D: 0.0090, all_loss: 0.1462, 
+2023-12-23 01:15:32.947 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 2, Iter: 5062/10369, Time: 2023-12-23-01:15:32 
+photo_detail: 0.1410, FFLoss: 0.0082, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0048, au_D: 0.0089, all_loss: 0.1630, 
+2023-12-23 01:19:17.916 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 2, Iter: 5262/10369, Time: 2023-12-23-01:19:17 
+photo_detail: 0.1300, FFLoss: 0.0072, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0046, au_D: 0.0088, all_loss: 0.1506, 
+2023-12-23 01:23:06.754 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 2, Iter: 5462/10369, Time: 2023-12-23-01:23:06 
+photo_detail: 0.1291, FFLoss: 0.0077, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0055, au_D: 0.0084, all_loss: 0.1507, 
+2023-12-23 01:26:51.507 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 2, Iter: 5662/10369, Time: 2023-12-23-01:26:51 
+photo_detail: 0.1433, FFLoss: 0.0094, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0053, au_D: 0.0078, all_loss: 0.1658, 
+2023-12-23 01:30:35.504 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 2, Iter: 5862/10369, Time: 2023-12-23-01:30:35 
+photo_detail: 0.1499, FFLoss: 0.0084, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0030, au_D: 0.0090, all_loss: 0.1704, 
+2023-12-23 01:34:19.961 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 2, Iter: 6062/10369, Time: 2023-12-23-01:34:19 
+photo_detail: 0.1651, FFLoss: 0.0132, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0039, au_D: 0.0076, all_loss: 0.1898, 
+2023-12-23 01:38:05.398 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 2, Iter: 6262/10369, Time: 2023-12-23-01:38:05 
+photo_detail: 0.1451, FFLoss: 0.0093, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0049, au_D: 0.0079, all_loss: 0.1672, 
+2023-12-23 01:41:53.672 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 2, Iter: 6462/10369, Time: 2023-12-23-01:41:53 
+photo_detail: 0.1557, FFLoss: 0.0095, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0039, au_D: 0.0080, all_loss: 0.1771, 
+2023-12-23 01:45:38.856 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 2, Iter: 6662/10369, Time: 2023-12-23-01:45:38 
+photo_detail: 0.1574, FFLoss: 0.0116, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0054, au_D: 0.0090, all_loss: 0.1834, 
+2023-12-23 01:49:24.110 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 2, Iter: 6862/10369, Time: 2023-12-23-01:49:23 
+photo_detail: 0.1453, FFLoss: 0.0082, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0039, au_D: 0.0082, all_loss: 0.1656, 
+2023-12-23 01:53:09.050 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 2, Iter: 7062/10369, Time: 2023-12-23-01:53:08 
+photo_detail: 0.1541, FFLoss: 0.0108, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0031, au_D: 0.0076, all_loss: 0.1756, 
+2023-12-23 01:56:53.074 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 2, Iter: 7262/10369, Time: 2023-12-23-01:56:52 
+photo_detail: 0.1698, FFLoss: 0.0135, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0038, au_D: 0.0104, all_loss: 0.1974, 
+2023-12-23 02:00:41.647 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 2, Iter: 7462/10369, Time: 2023-12-23-02:00:41 
+photo_detail: 0.1602, FFLoss: 0.0115, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0034, au_D: 0.0081, all_loss: 0.1832, 
+2023-12-23 02:04:26.653 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 2, Iter: 7662/10369, Time: 2023-12-23-02:04:26 
+photo_detail: 0.1443, FFLoss: 0.0095, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0064, au_D: 0.0092, all_loss: 0.1695, 
+2023-12-23 02:08:11.270 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 2, Iter: 7862/10369, Time: 2023-12-23-02:08:11 
+photo_detail: 0.1304, FFLoss: 0.0069, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0041, au_D: 0.0081, all_loss: 0.1496, 
+2023-12-23 02:11:56.587 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 2, Iter: 8062/10369, Time: 2023-12-23-02:11:56 
+photo_detail: 0.1628, FFLoss: 0.0125, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0047, au_D: 0.0085, all_loss: 0.1885, 
+2023-12-23 02:15:41.066 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 2, Iter: 8262/10369, Time: 2023-12-23-02:15:40 
+photo_detail: 0.1518, FFLoss: 0.0093, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0041, au_D: 0.0088, all_loss: 0.1740, 
+2023-12-23 02:19:29.002 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 2, Iter: 8462/10369, Time: 2023-12-23-02:19:28 
+photo_detail: 0.1596, FFLoss: 0.0109, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0033, au_D: 0.0086, all_loss: 0.1825, 
+2023-12-23 02:23:13.856 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 2, Iter: 8662/10369, Time: 2023-12-23-02:23:13 
+photo_detail: 0.1467, FFLoss: 0.0093, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0061, au_D: 0.0088, all_loss: 0.1710, 
+2023-12-23 02:26:58.777 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 2, Iter: 8862/10369, Time: 2023-12-23-02:26:58 
+photo_detail: 0.1599, FFLoss: 0.0111, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0054, au_D: 0.0087, all_loss: 0.1852, 
+2023-12-23 02:30:43.397 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 2, Iter: 9062/10369, Time: 2023-12-23-02:30:43 
+photo_detail: 0.1662, FFLoss: 0.0115, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0059, au_D: 0.0090, all_loss: 0.1927, 
+2023-12-23 02:34:28.431 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 2, Iter: 9262/10369, Time: 2023-12-23-02:34:28 
+photo_detail: 0.1605, FFLoss: 0.0117, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0062, au_D: 0.0085, all_loss: 0.1870, 
+2023-12-23 02:38:16.798 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 2, Iter: 9462/10369, Time: 2023-12-23-02:38:16 
+photo_detail: 0.1490, FFLoss: 0.0088, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0038, au_D: 0.0077, all_loss: 0.1694, 
+2023-12-23 02:42:01.784 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 2, Iter: 9662/10369, Time: 2023-12-23-02:42:01 
+photo_detail: 0.1371, FFLoss: 0.0077, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0038, au_D: 0.0087, all_loss: 0.1573, 
+2023-12-23 02:45:45.917 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 2, Iter: 9862/10369, Time: 2023-12-23-02:45:45 
+photo_detail: 0.1437, FFLoss: 0.0098, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0042, au_D: 0.0084, all_loss: 0.1661, 
+2023-12-23 02:49:30.275 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 2, Iter: 10062/10369, Time: 2023-12-23-02:49:30 
+photo_detail: 0.1419, FFLoss: 0.0081, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0045, au_D: 0.0091, all_loss: 0.1636, 
+2023-12-23 02:53:13.942 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 2, Iter: 10262/10369, Time: 2023-12-23-02:53:13 
+photo_detail: 0.1572, FFLoss: 0.0118, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0042, au_D: 0.0079, all_loss: 0.1810, 
+2023-12-23 02:57:05.593 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 3, Iter: 93/10369, Time: 2023-12-23-02:57:05 
+photo_detail: 0.1435, FFLoss: 0.0092, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0042, au_D: 0.0092, all_loss: 0.1660, 
+2023-12-23 03:00:50.177 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 3, Iter: 293/10369, Time: 2023-12-23-03:00:50 
+photo_detail: 0.1361, FFLoss: 0.0080, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0051, au_D: 0.0079, all_loss: 0.1572, 
+2023-12-23 03:04:34.461 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 3, Iter: 493/10369, Time: 2023-12-23-03:04:34 
+photo_detail: 0.1414, FFLoss: 0.0077, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0050, au_D: 0.0084, all_loss: 0.1626, 
+2023-12-23 03:08:19.774 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 3, Iter: 693/10369, Time: 2023-12-23-03:08:19 
+photo_detail: 0.1692, FFLoss: 0.0144, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0045, au_D: 0.0076, all_loss: 0.1957, 
+2023-12-23 03:12:03.957 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 3, Iter: 893/10369, Time: 2023-12-23-03:12:03 
+photo_detail: 0.1462, FFLoss: 0.0089, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0039, au_D: 0.0095, all_loss: 0.1686, 
+2023-12-23 03:15:52.217 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 3, Iter: 1093/10369, Time: 2023-12-23-03:15:52 
+photo_detail: 0.1360, FFLoss: 0.0074, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0042, au_D: 0.0074, all_loss: 0.1551, 
+2023-12-23 03:19:37.001 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 3, Iter: 1293/10369, Time: 2023-12-23-03:19:36 
+photo_detail: 0.1717, FFLoss: 0.0132, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0043, au_D: 0.0096, all_loss: 0.1988, 
+2023-12-23 03:23:21.478 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 3, Iter: 1493/10369, Time: 2023-12-23-03:23:21 
+photo_detail: 0.1371, FFLoss: 0.0093, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0041, au_D: 0.0088, all_loss: 0.1593, 
+2023-12-23 03:27:05.947 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 3, Iter: 1693/10369, Time: 2023-12-23-03:27:05 
+photo_detail: 0.1416, FFLoss: 0.0080, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0052, au_D: 0.0084, all_loss: 0.1632, 
+2023-12-23 03:30:51.154 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 3, Iter: 1893/10369, Time: 2023-12-23-03:30:51 
+photo_detail: 0.1450, FFLoss: 0.0094, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0046, au_D: 0.0099, all_loss: 0.1690, 
+2023-12-23 03:34:40.004 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 3, Iter: 2093/10369, Time: 2023-12-23-03:34:39 
+photo_detail: 0.1639, FFLoss: 0.0113, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0047, au_D: 0.0102, all_loss: 0.1902, 
+2023-12-23 03:38:24.071 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 3, Iter: 2293/10369, Time: 2023-12-23-03:38:23 
+photo_detail: 0.1560, FFLoss: 0.0102, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0045, au_D: 0.0092, all_loss: 0.1800, 
+2023-12-23 03:42:08.570 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 3, Iter: 2493/10369, Time: 2023-12-23-03:42:08 
+photo_detail: 0.1557, FFLoss: 0.0124, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0051, au_D: 0.0084, all_loss: 0.1816, 
+2023-12-23 03:45:53.235 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 3, Iter: 2693/10369, Time: 2023-12-23-03:45:53 
+photo_detail: 0.1378, FFLoss: 0.0080, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0049, au_D: 0.0089, all_loss: 0.1597, 
+2023-12-23 03:49:38.158 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 3, Iter: 2893/10369, Time: 2023-12-23-03:49:38 
+photo_detail: 0.1479, FFLoss: 0.0094, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0042, au_D: 0.0085, all_loss: 0.1700, 
+2023-12-23 03:53:26.767 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 3, Iter: 3093/10369, Time: 2023-12-23-03:53:26 
+photo_detail: 0.1434, FFLoss: 0.0090, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0048, au_D: 0.0083, all_loss: 0.1655, 
+2023-12-23 03:57:12.165 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 3, Iter: 3293/10369, Time: 2023-12-23-03:57:12 
+photo_detail: 0.1343, FFLoss: 0.0078, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0043, au_D: 0.0074, all_loss: 0.1538, 
+2023-12-23 04:00:56.785 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 3, Iter: 3493/10369, Time: 2023-12-23-04:00:56 
+photo_detail: 0.1441, FFLoss: 0.0090, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0047, au_D: 0.0092, all_loss: 0.1670, 
+2023-12-23 04:04:41.149 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 3, Iter: 3693/10369, Time: 2023-12-23-04:04:41 
+photo_detail: 0.1541, FFLoss: 0.0096, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0051, au_D: 0.0087, all_loss: 0.1776, 
+2023-12-23 04:08:25.681 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 3, Iter: 3893/10369, Time: 2023-12-23-04:08:25 
+photo_detail: 0.1289, FFLoss: 0.0066, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0052, au_D: 0.0076, all_loss: 0.1484, 
+2023-12-23 04:12:13.395 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 3, Iter: 4093/10369, Time: 2023-12-23-04:12:13 
+photo_detail: 0.1552, FFLoss: 0.0108, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0062, au_D: 0.0093, all_loss: 0.1816, 
+2023-12-23 04:15:58.644 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 3, Iter: 4293/10369, Time: 2023-12-23-04:15:58 
+photo_detail: 0.1489, FFLoss: 0.0087, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0040, au_D: 0.0082, all_loss: 0.1699, 
+2023-12-23 04:19:44.080 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 3, Iter: 4493/10369, Time: 2023-12-23-04:19:43 
+photo_detail: 0.1640, FFLoss: 0.0116, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0046, au_D: 0.0089, all_loss: 0.1891, 
+2023-12-23 04:23:28.861 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 3, Iter: 4693/10369, Time: 2023-12-23-04:23:28 
+photo_detail: 0.1370, FFLoss: 0.0073, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0050, au_D: 0.0087, all_loss: 0.1580, 
+2023-12-23 04:27:14.277 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 3, Iter: 4893/10369, Time: 2023-12-23-04:27:14 
+photo_detail: 0.1344, FFLoss: 0.0072, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0044, au_D: 0.0083, all_loss: 0.1544, 
+2023-12-23 04:31:01.801 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 3, Iter: 5093/10369, Time: 2023-12-23-04:31:01 
+photo_detail: 0.1626, FFLoss: 0.0121, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0042, au_D: 0.0095, all_loss: 0.1884, 
+2023-12-23 04:34:46.169 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 3, Iter: 5293/10369, Time: 2023-12-23-04:34:46 
+photo_detail: 0.1439, FFLoss: 0.0090, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0041, au_D: 0.0089, all_loss: 0.1659, 
+2023-12-23 04:38:30.998 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 3, Iter: 5493/10369, Time: 2023-12-23-04:38:30 
+photo_detail: 0.1503, FFLoss: 0.0091, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0049, au_D: 0.0085, all_loss: 0.1730, 
+2023-12-23 04:42:15.416 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 3, Iter: 5693/10369, Time: 2023-12-23-04:42:15 
+photo_detail: 0.1561, FFLoss: 0.0114, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0060, au_D: 0.0087, all_loss: 0.1823, 
+2023-12-23 04:46:01.145 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 3, Iter: 5893/10369, Time: 2023-12-23-04:46:00 
+photo_detail: 0.1328, FFLoss: 0.0072, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0052, au_D: 0.0085, all_loss: 0.1536, 
+2023-12-23 04:49:49.244 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 3, Iter: 6093/10369, Time: 2023-12-23-04:49:49 
+photo_detail: 0.1378, FFLoss: 0.0076, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0041, au_D: 0.0085, all_loss: 0.1580, 
+2023-12-23 04:53:35.166 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 3, Iter: 6293/10369, Time: 2023-12-23-04:53:35 
+photo_detail: 0.1405, FFLoss: 0.0085, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0068, au_D: 0.0089, all_loss: 0.1648, 
+2023-12-23 04:57:19.661 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 3, Iter: 6493/10369, Time: 2023-12-23-04:57:19 
+photo_detail: 0.1499, FFLoss: 0.0089, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0042, au_D: 0.0092, all_loss: 0.1722, 
+2023-12-23 05:01:04.923 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 3, Iter: 6693/10369, Time: 2023-12-23-05:01:04 
+photo_detail: 0.1639, FFLoss: 0.0120, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0062, au_D: 0.0092, all_loss: 0.1913, 
+2023-12-23 05:04:49.072 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 3, Iter: 6893/10369, Time: 2023-12-23-05:04:48 
+photo_detail: 0.1445, FFLoss: 0.0089, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0057, au_D: 0.0090, all_loss: 0.1681, 
+2023-12-23 05:08:38.275 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 3, Iter: 7093/10369, Time: 2023-12-23-05:08:38 
+photo_detail: 0.1525, FFLoss: 0.0097, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0033, au_D: 0.0088, all_loss: 0.1742, 
+2023-12-23 05:12:22.285 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 3, Iter: 7293/10369, Time: 2023-12-23-05:12:22 
+photo_detail: 0.1400, FFLoss: 0.0081, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0051, au_D: 0.0077, all_loss: 0.1609, 
+2023-12-23 05:16:06.521 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 3, Iter: 7493/10369, Time: 2023-12-23-05:16:06 
+photo_detail: 0.1473, FFLoss: 0.0094, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0044, au_D: 0.0083, all_loss: 0.1694, 
+2023-12-23 05:19:50.244 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 3, Iter: 7693/10369, Time: 2023-12-23-05:19:50 
+photo_detail: 0.1556, FFLoss: 0.0109, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0051, au_D: 0.0075, all_loss: 0.1792, 
+2023-12-23 05:23:34.827 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 3, Iter: 7893/10369, Time: 2023-12-23-05:23:34 
+photo_detail: 0.1315, FFLoss: 0.0071, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0052, au_D: 0.0075, all_loss: 0.1513, 
+2023-12-23 05:27:22.696 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 3, Iter: 8093/10369, Time: 2023-12-23-05:27:22 
+photo_detail: 0.1382, FFLoss: 0.0078, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0055, au_D: 0.0092, all_loss: 0.1607, 
+2023-12-23 05:31:07.803 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 3, Iter: 8293/10369, Time: 2023-12-23-05:31:07 
+photo_detail: 0.1234, FFLoss: 0.0066, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0041, au_D: 0.0075, all_loss: 0.1416, 
+2023-12-23 05:34:52.373 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 3, Iter: 8493/10369, Time: 2023-12-23-05:34:52 
+photo_detail: 0.1360, FFLoss: 0.0074, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0035, au_D: 0.0086, all_loss: 0.1555, 
+2023-12-23 05:38:36.323 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 3, Iter: 8693/10369, Time: 2023-12-23-05:38:36 
+photo_detail: 0.1481, FFLoss: 0.0094, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0049, au_D: 0.0087, all_loss: 0.1712, 
+2023-12-23 05:42:21.303 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 3, Iter: 8893/10369, Time: 2023-12-23-05:42:21 
+photo_detail: 0.1420, FFLoss: 0.0083, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0049, au_D: 0.0096, all_loss: 0.1648, 
+2023-12-23 05:46:08.593 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 3, Iter: 9093/10369, Time: 2023-12-23-05:46:08 
+photo_detail: 0.1375, FFLoss: 0.0081, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0043, au_D: 0.0083, all_loss: 0.1583, 
+2023-12-23 05:49:53.008 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 3, Iter: 9293/10369, Time: 2023-12-23-05:49:52 
+photo_detail: 0.1558, FFLoss: 0.0102, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0035, au_D: 0.0087, all_loss: 0.1783, 
+2023-12-23 05:53:37.204 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 3, Iter: 9493/10369, Time: 2023-12-23-05:53:37 
+photo_detail: 0.1468, FFLoss: 0.0094, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0057, au_D: 0.0084, all_loss: 0.1703, 
+2023-12-23 05:57:21.382 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 3, Iter: 9693/10369, Time: 2023-12-23-05:57:21 
+photo_detail: 0.1426, FFLoss: 0.0096, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0063, au_D: 0.0076, all_loss: 0.1662, 
+2023-12-23 06:01:05.463 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 3, Iter: 9893/10369, Time: 2023-12-23-06:01:05 
+photo_detail: 0.1570, FFLoss: 0.0098, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0050, au_D: 0.0091, all_loss: 0.1809, 
+2023-12-23 06:04:53.869 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 3, Iter: 10093/10369, Time: 2023-12-23-06:04:53 
+photo_detail: 0.1547, FFLoss: 0.0106, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0035, au_D: 0.0075, all_loss: 0.1762, 
+2023-12-23 06:08:37.086 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 3, Iter: 10293/10369, Time: 2023-12-23-06:08:36 
+photo_detail: 0.1272, FFLoss: 0.0066, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0059, au_D: 0.0087, all_loss: 0.1484, 
+2023-12-23 06:12:25.389 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 4, Iter: 124/10369, Time: 2023-12-23-06:12:25 
+photo_detail: 0.1563, FFLoss: 0.0092, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0041, au_D: 0.0074, all_loss: 0.1770, 
+2023-12-23 06:16:08.896 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 4, Iter: 324/10369, Time: 2023-12-23-06:16:08 
+photo_detail: 0.1548, FFLoss: 0.0097, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0040, au_D: 0.0098, all_loss: 0.1784, 
+2023-12-23 06:19:53.251 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 4, Iter: 524/10369, Time: 2023-12-23-06:19:53 
+photo_detail: 0.1364, FFLoss: 0.0080, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0045, au_D: 0.0085, all_loss: 0.1574, 
+2023-12-23 06:23:39.370 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 4, Iter: 724/10369, Time: 2023-12-23-06:23:39 
+photo_detail: 0.1401, FFLoss: 0.0081, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0050, au_D: 0.0081, all_loss: 0.1613, 
+2023-12-23 06:27:20.988 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 4, Iter: 924/10369, Time: 2023-12-23-06:27:20 
+photo_detail: 0.1693, FFLoss: 0.0117, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0046, au_D: 0.0085, all_loss: 0.1941, 
+2023-12-23 06:31:02.545 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 4, Iter: 1124/10369, Time: 2023-12-23-06:31:02 
+photo_detail: 0.1376, FFLoss: 0.0074, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0042, au_D: 0.0083, all_loss: 0.1575, 
+2023-12-23 06:34:44.864 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 4, Iter: 1324/10369, Time: 2023-12-23-06:34:44 
+photo_detail: 0.1553, FFLoss: 0.0103, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0038, au_D: 0.0087, all_loss: 0.1782, 
+2023-12-23 06:38:27.566 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 4, Iter: 1524/10369, Time: 2023-12-23-06:38:27 
+photo_detail: 0.1383, FFLoss: 0.0074, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0055, au_D: 0.0085, all_loss: 0.1598, 
+2023-12-23 06:42:13.166 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 4, Iter: 1724/10369, Time: 2023-12-23-06:42:13 
+photo_detail: 0.1464, FFLoss: 0.0090, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0050, au_D: 0.0084, all_loss: 0.1688, 
+2023-12-23 06:45:56.737 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 4, Iter: 1924/10369, Time: 2023-12-23-06:45:56 
+photo_detail: 0.1238, FFLoss: 0.0058, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0044, au_D: 0.0078, all_loss: 0.1419, 
+2023-12-23 06:49:40.161 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 4, Iter: 2124/10369, Time: 2023-12-23-06:49:40 
+photo_detail: 0.1574, FFLoss: 0.0115, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0045, au_D: 0.0083, all_loss: 0.1818, 
+2023-12-23 06:53:23.693 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 4, Iter: 2324/10369, Time: 2023-12-23-06:53:23 
+photo_detail: 0.1485, FFLoss: 0.0091, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0043, au_D: 0.0081, all_loss: 0.1700, 
+2023-12-23 06:57:06.565 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 4, Iter: 2524/10369, Time: 2023-12-23-06:57:06 
+photo_detail: 0.1460, FFLoss: 0.0088, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0044, au_D: 0.0078, all_loss: 0.1671, 
+2023-12-23 07:00:52.743 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 4, Iter: 2724/10369, Time: 2023-12-23-07:00:52 
+photo_detail: 0.1543, FFLoss: 0.0110, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0038, au_D: 0.0080, all_loss: 0.1771, 
+2023-12-23 07:04:32.892 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 4, Iter: 2924/10369, Time: 2023-12-23-07:04:32 
+photo_detail: 0.1275, FFLoss: 0.0070, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0046, au_D: 0.0081, all_loss: 0.1472, 
+2023-12-23 07:08:15.241 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 4, Iter: 3124/10369, Time: 2023-12-23-07:08:15 
+photo_detail: 0.1412, FFLoss: 0.0083, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0047, au_D: 0.0085, all_loss: 0.1627, 
+2023-12-23 07:11:57.810 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 4, Iter: 3324/10369, Time: 2023-12-23-07:11:57 
+photo_detail: 0.1482, FFLoss: 0.0091, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0059, au_D: 0.0084, all_loss: 0.1716, 
+2023-12-23 07:15:41.597 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 4, Iter: 3524/10369, Time: 2023-12-23-07:15:41 
+photo_detail: 0.1615, FFLoss: 0.0107, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0053, au_D: 0.0085, all_loss: 0.1860, 
+2023-12-23 07:19:28.306 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 4, Iter: 3724/10369, Time: 2023-12-23-07:19:28 
+photo_detail: 0.1476, FFLoss: 0.0092, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0055, au_D: 0.0092, all_loss: 0.1716, 
+2023-12-23 07:23:11.389 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 4, Iter: 3924/10369, Time: 2023-12-23-07:23:11 
+photo_detail: 0.1399, FFLoss: 0.0074, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0034, au_D: 0.0098, all_loss: 0.1606, 
+2023-12-23 07:26:54.723 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 4, Iter: 4124/10369, Time: 2023-12-23-07:26:54 
+photo_detail: 0.1364, FFLoss: 0.0083, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0036, au_D: 0.0077, all_loss: 0.1562, 
+2023-12-23 07:30:38.376 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 4, Iter: 4324/10369, Time: 2023-12-23-07:30:38 
+photo_detail: 0.1405, FFLoss: 0.0083, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0044, au_D: 0.0087, all_loss: 0.1620, 
+2023-12-23 07:34:21.531 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 4, Iter: 4524/10369, Time: 2023-12-23-07:34:21 
+photo_detail: 0.1476, FFLoss: 0.0100, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0070, au_D: 0.0080, all_loss: 0.1728, 
+2023-12-23 07:38:08.633 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 4, Iter: 4724/10369, Time: 2023-12-23-07:38:08 
+photo_detail: 0.1281, FFLoss: 0.0068, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0051, au_D: 0.0090, all_loss: 0.1491, 
+2023-12-23 07:41:53.136 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 4, Iter: 4924/10369, Time: 2023-12-23-07:41:52 
+photo_detail: 0.1483, FFLoss: 0.0094, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0038, au_D: 0.0088, all_loss: 0.1703, 
+2023-12-23 07:45:37.084 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 4, Iter: 5124/10369, Time: 2023-12-23-07:45:36 
+photo_detail: 0.1586, FFLoss: 0.0102, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0041, au_D: 0.0084, all_loss: 0.1813, 
+2023-12-23 07:49:19.956 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 4, Iter: 5324/10369, Time: 2023-12-23-07:49:19 
+photo_detail: 0.1411, FFLoss: 0.0075, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0053, au_D: 0.0088, all_loss: 0.1627, 
+2023-12-23 07:53:01.350 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 4, Iter: 5524/10369, Time: 2023-12-23-07:53:01 
+photo_detail: 0.1400, FFLoss: 0.0082, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0035, au_D: 0.0085, all_loss: 0.1602, 
+2023-12-23 07:56:46.797 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 4, Iter: 5724/10369, Time: 2023-12-23-07:56:46 
+photo_detail: 0.1733, FFLoss: 0.0140, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0045, au_D: 0.0097, all_loss: 0.2014, 
+2023-12-23 08:00:28.456 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 4, Iter: 5924/10369, Time: 2023-12-23-08:00:28 
+photo_detail: 0.1322, FFLoss: 0.0074, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0042, au_D: 0.0083, all_loss: 0.1521, 
+2023-12-23 08:04:10.461 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 4, Iter: 6124/10369, Time: 2023-12-23-08:04:10 
+photo_detail: 0.1555, FFLoss: 0.0094, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0046, au_D: 0.0094, all_loss: 0.1790, 
+2023-12-23 08:07:51.811 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 4, Iter: 6324/10369, Time: 2023-12-23-08:07:51 
+photo_detail: 0.1319, FFLoss: 0.0068, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0063, au_D: 0.0083, all_loss: 0.1534, 
+2023-12-23 08:11:33.517 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 4, Iter: 6524/10369, Time: 2023-12-23-08:11:33 
+photo_detail: 0.1574, FFLoss: 0.0103, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0042, au_D: 0.0091, all_loss: 0.1812, 
+2023-12-23 08:15:18.322 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 4, Iter: 6724/10369, Time: 2023-12-23-08:15:18 
+photo_detail: 0.1300, FFLoss: 0.0074, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0052, au_D: 0.0086, all_loss: 0.1512, 
+2023-12-23 08:19:00.189 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 4, Iter: 6924/10369, Time: 2023-12-23-08:19:00 
+photo_detail: 0.1398, FFLoss: 0.0079, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0046, au_D: 0.0081, all_loss: 0.1604, 
+2023-12-23 08:22:43.397 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 4, Iter: 7124/10369, Time: 2023-12-23-08:22:43 
+photo_detail: 0.1511, FFLoss: 0.0101, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0036, au_D: 0.0089, all_loss: 0.1737, 
+2023-12-23 08:26:27.081 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 4, Iter: 7324/10369, Time: 2023-12-23-08:26:26 
+photo_detail: 0.1583, FFLoss: 0.0117, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0044, au_D: 0.0079, all_loss: 0.1824, 
+2023-12-23 08:30:10.386 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 4, Iter: 7524/10369, Time: 2023-12-23-08:30:10 
+photo_detail: 0.1312, FFLoss: 0.0076, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0052, au_D: 0.0091, all_loss: 0.1532, 
+2023-12-23 08:33:56.954 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 4, Iter: 7724/10369, Time: 2023-12-23-08:33:56 
+photo_detail: 0.1176, FFLoss: 0.0060, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0053, au_D: 0.0079, all_loss: 0.1369, 
+2023-12-23 08:37:39.933 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 4, Iter: 7924/10369, Time: 2023-12-23-08:37:39 
+photo_detail: 0.1420, FFLoss: 0.0102, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0044, au_D: 0.0076, all_loss: 0.1641, 
+2023-12-23 08:41:24.037 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 4, Iter: 8124/10369, Time: 2023-12-23-08:41:23 
+photo_detail: 0.1508, FFLoss: 0.0091, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0042, au_D: 0.0095, all_loss: 0.1736, 
+2023-12-23 08:45:07.996 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 4, Iter: 8324/10369, Time: 2023-12-23-08:45:07 
+photo_detail: 0.1485, FFLoss: 0.0095, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0048, au_D: 0.0078, all_loss: 0.1707, 
+2023-12-23 08:48:52.203 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 4, Iter: 8524/10369, Time: 2023-12-23-08:48:52 
+photo_detail: 0.1491, FFLoss: 0.0097, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0056, au_D: 0.0092, all_loss: 0.1737, 
+2023-12-23 08:52:39.680 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 4, Iter: 8724/10369, Time: 2023-12-23-08:52:39 
+photo_detail: 0.1311, FFLoss: 0.0067, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0059, au_D: 0.0082, all_loss: 0.1519, 
+2023-12-23 08:56:23.952 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 4, Iter: 8924/10369, Time: 2023-12-23-08:56:23 
+photo_detail: 0.1568, FFLoss: 0.0107, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0046, au_D: 0.0080, all_loss: 0.1801, 
+2023-12-23 09:00:08.399 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 4, Iter: 9124/10369, Time: 2023-12-23-09:00:08 
+photo_detail: 0.1330, FFLoss: 0.0065, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0041, au_D: 0.0075, all_loss: 0.1513, 
+2023-12-23 09:03:52.088 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 4, Iter: 9324/10369, Time: 2023-12-23-09:03:51 
+photo_detail: 0.1504, FFLoss: 0.0088, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0037, au_D: 0.0085, all_loss: 0.1715, 
+2023-12-23 09:07:36.115 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 4, Iter: 9524/10369, Time: 2023-12-23-09:07:35 
+photo_detail: 0.1385, FFLoss: 0.0092, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0044, au_D: 0.0084, all_loss: 0.1604, 
+2023-12-23 09:11:22.924 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 4, Iter: 9724/10369, Time: 2023-12-23-09:11:22 
+photo_detail: 0.1477, FFLoss: 0.0090, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0043, au_D: 0.0083, all_loss: 0.1694, 
+2023-12-23 09:15:05.441 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 4, Iter: 9924/10369, Time: 2023-12-23-09:15:05 
+photo_detail: 0.1611, FFLoss: 0.0110, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0046, au_D: 0.0096, all_loss: 0.1864, 
+2023-12-23 09:18:46.703 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 4, Iter: 10124/10369, Time: 2023-12-23-09:18:46 
+photo_detail: 0.1428, FFLoss: 0.0081, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0049, au_D: 0.0073, all_loss: 0.1631, 
+2023-12-23 09:22:28.880 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 4, Iter: 10324/10369, Time: 2023-12-23-09:22:28 
+photo_detail: 0.1467, FFLoss: 0.0097, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0040, au_D: 0.0080, all_loss: 0.1685, 
+2023-12-23 09:26:15.299 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 5, Iter: 155/10369, Time: 2023-12-23-09:26:15 
+photo_detail: 0.1578, FFLoss: 0.0097, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0035, au_D: 0.0088, all_loss: 0.1798, 
+2023-12-23 09:30:01.108 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 5, Iter: 355/10369, Time: 2023-12-23-09:30:00 
+photo_detail: 0.1537, FFLoss: 0.0098, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0047, au_D: 0.0094, all_loss: 0.1776, 
+2023-12-23 09:33:43.761 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 5, Iter: 555/10369, Time: 2023-12-23-09:33:43 
+photo_detail: 0.1586, FFLoss: 0.0115, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0034, au_D: 0.0084, all_loss: 0.1819, 
+2023-12-23 09:37:27.509 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 5, Iter: 755/10369, Time: 2023-12-23-09:37:27 
+photo_detail: 0.1422, FFLoss: 0.0080, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0056, au_D: 0.0083, all_loss: 0.1641, 
+2023-12-23 09:41:11.295 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 5, Iter: 955/10369, Time: 2023-12-23-09:41:11 
+photo_detail: 0.1306, FFLoss: 0.0074, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0039, au_D: 0.0082, all_loss: 0.1502, 
+2023-12-23 09:44:55.159 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 5, Iter: 1155/10369, Time: 2023-12-23-09:44:55 
+photo_detail: 0.1602, FFLoss: 0.0113, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0047, au_D: 0.0085, all_loss: 0.1847, 
+2023-12-23 09:48:41.418 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 5, Iter: 1355/10369, Time: 2023-12-23-09:48:41 
+photo_detail: 0.1326, FFLoss: 0.0072, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0040, au_D: 0.0080, all_loss: 0.1519, 
+2023-12-23 09:52:24.656 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 5, Iter: 1555/10369, Time: 2023-12-23-09:52:24 
+photo_detail: 0.1561, FFLoss: 0.0101, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0034, au_D: 0.0086, all_loss: 0.1783, 
+2023-12-23 09:56:08.240 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 5, Iter: 1755/10369, Time: 2023-12-23-09:56:08 
+photo_detail: 0.1441, FFLoss: 0.0088, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0028, au_D: 0.0102, all_loss: 0.1659, 
+2023-12-23 09:59:52.151 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 5, Iter: 1955/10369, Time: 2023-12-23-09:59:52 
+photo_detail: 0.1497, FFLoss: 0.0095, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0043, au_D: 0.0091, all_loss: 0.1727, 
+2023-12-23 10:03:35.369 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 5, Iter: 2155/10369, Time: 2023-12-23-10:03:35 
+photo_detail: 0.1365, FFLoss: 0.0080, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0052, au_D: 0.0098, all_loss: 0.1595, 
+2023-12-23 10:07:22.731 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 5, Iter: 2355/10369, Time: 2023-12-23-10:07:22 
+photo_detail: 0.1449, FFLoss: 0.0083, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0040, au_D: 0.0085, all_loss: 0.1657, 
+2023-12-23 10:11:06.463 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 5, Iter: 2555/10369, Time: 2023-12-23-10:11:06 
+photo_detail: 0.1365, FFLoss: 0.0077, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0047, au_D: 0.0086, all_loss: 0.1576, 
+2023-12-23 10:14:50.500 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 5, Iter: 2755/10369, Time: 2023-12-23-10:14:50 
+photo_detail: 0.1357, FFLoss: 0.0077, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0047, au_D: 0.0089, all_loss: 0.1570, 
+2023-12-23 10:18:33.869 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 5, Iter: 2955/10369, Time: 2023-12-23-10:18:33 
+photo_detail: 0.1534, FFLoss: 0.0097, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0038, au_D: 0.0076, all_loss: 0.1745, 
+2023-12-23 10:22:19.096 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 5, Iter: 3155/10369, Time: 2023-12-23-10:22:18 
+photo_detail: 0.1419, FFLoss: 0.0087, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0041, au_D: 0.0087, all_loss: 0.1634, 
+2023-12-23 10:26:06.813 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 5, Iter: 3355/10369, Time: 2023-12-23-10:26:06 
+photo_detail: 0.1502, FFLoss: 0.0091, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0055, au_D: 0.0091, all_loss: 0.1739, 
+2023-12-23 10:29:50.888 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 5, Iter: 3555/10369, Time: 2023-12-23-10:29:50 
+photo_detail: 0.1482, FFLoss: 0.0089, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0045, au_D: 0.0079, all_loss: 0.1696, 
+2023-12-23 10:33:34.896 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 5, Iter: 3755/10369, Time: 2023-12-23-10:33:34 
+photo_detail: 0.1567, FFLoss: 0.0106, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0050, au_D: 0.0097, all_loss: 0.1821, 
+2023-12-23 10:37:17.111 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 5, Iter: 3955/10369, Time: 2023-12-23-10:37:16 
+photo_detail: 0.1580, FFLoss: 0.0103, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0039, au_D: 0.0098, all_loss: 0.1821, 
+2023-12-23 10:40:58.876 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 5, Iter: 4155/10369, Time: 2023-12-23-10:40:58 
+photo_detail: 0.1228, FFLoss: 0.0063, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0046, au_D: 0.0076, all_loss: 0.1413, 
+2023-12-23 10:44:46.036 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 5, Iter: 4355/10369, Time: 2023-12-23-10:44:45 
+photo_detail: 0.1529, FFLoss: 0.0097, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0042, au_D: 0.0102, all_loss: 0.1770, 
+2023-12-23 10:48:29.432 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 5, Iter: 4555/10369, Time: 2023-12-23-10:48:29 
+photo_detail: 0.1327, FFLoss: 0.0071, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0041, au_D: 0.0088, all_loss: 0.1526, 
+2023-12-23 10:52:12.373 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 5, Iter: 4755/10369, Time: 2023-12-23-10:52:12 
+photo_detail: 0.1479, FFLoss: 0.0089, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0040, au_D: 0.0085, all_loss: 0.1693, 
+2023-12-23 10:55:56.185 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 5, Iter: 4955/10369, Time: 2023-12-23-10:55:56 
+photo_detail: 0.1389, FFLoss: 0.0082, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0048, au_D: 0.0085, all_loss: 0.1605, 
+2023-12-23 10:59:38.404 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 5, Iter: 5155/10369, Time: 2023-12-23-10:59:38 
+photo_detail: 0.1464, FFLoss: 0.0092, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0040, au_D: 0.0094, all_loss: 0.1691, 
+2023-12-23 11:03:24.512 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 5, Iter: 5355/10369, Time: 2023-12-23-11:03:24 
+photo_detail: 0.1296, FFLoss: 0.0075, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0039, au_D: 0.0089, all_loss: 0.1499, 
+2023-12-23 11:07:07.130 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 5, Iter: 5555/10369, Time: 2023-12-23-11:07:06 
+photo_detail: 0.1336, FFLoss: 0.0071, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0048, au_D: 0.0079, all_loss: 0.1534, 
+2023-12-23 11:10:49.956 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 5, Iter: 5755/10369, Time: 2023-12-23-11:10:49 
+photo_detail: 0.1515, FFLoss: 0.0099, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0036, au_D: 0.0077, all_loss: 0.1729, 
+2023-12-23 11:14:32.383 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 5, Iter: 5955/10369, Time: 2023-12-23-11:14:32 
+photo_detail: 0.1475, FFLoss: 0.0088, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0046, au_D: 0.0082, all_loss: 0.1692, 
+2023-12-23 11:18:14.219 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 5, Iter: 6155/10369, Time: 2023-12-23-11:18:14 
+photo_detail: 0.1587, FFLoss: 0.0126, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0058, au_D: 0.0088, all_loss: 0.1859, 
+2023-12-23 11:21:59.653 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 5, Iter: 6355/10369, Time: 2023-12-23-11:21:59 
+photo_detail: 0.1675, FFLoss: 0.0127, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0053, au_D: 0.0094, all_loss: 0.1950, 
+2023-12-23 11:25:41.300 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 5, Iter: 6555/10369, Time: 2023-12-23-11:25:41 
+photo_detail: 0.1397, FFLoss: 0.0089, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0048, au_D: 0.0080, all_loss: 0.1613, 
+2023-12-23 11:29:22.480 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 5, Iter: 6755/10369, Time: 2023-12-23-11:29:22 
+photo_detail: 0.1548, FFLoss: 0.0096, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0039, au_D: 0.0091, all_loss: 0.1774, 
+2023-12-23 11:33:03.717 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 5, Iter: 6955/10369, Time: 2023-12-23-11:33:03 
+photo_detail: 0.1479, FFLoss: 0.0108, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0042, au_D: 0.0078, all_loss: 0.1708, 
+2023-12-23 11:36:45.192 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 5, Iter: 7155/10369, Time: 2023-12-23-11:36:45 
+photo_detail: 0.1478, FFLoss: 0.0104, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0053, au_D: 0.0078, all_loss: 0.1712, 
+2023-12-23 11:40:31.174 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 5, Iter: 7355/10369, Time: 2023-12-23-11:40:31 
+photo_detail: 0.1427, FFLoss: 0.0092, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0051, au_D: 0.0083, all_loss: 0.1652, 
+2023-12-23 11:44:13.628 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 5, Iter: 7555/10369, Time: 2023-12-23-11:44:13 
+photo_detail: 0.1402, FFLoss: 0.0088, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0042, au_D: 0.0074, all_loss: 0.1606, 
+2023-12-23 11:47:55.662 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 5, Iter: 7755/10369, Time: 2023-12-23-11:47:55 
+photo_detail: 0.1428, FFLoss: 0.0086, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0064, au_D: 0.0080, all_loss: 0.1659, 
+2023-12-23 11:51:38.701 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 5, Iter: 7955/10369, Time: 2023-12-23-11:51:38 
+photo_detail: 0.1307, FFLoss: 0.0066, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0061, au_D: 0.0097, all_loss: 0.1532, 
+2023-12-23 11:55:21.685 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 5, Iter: 8155/10369, Time: 2023-12-23-11:55:21 
+photo_detail: 0.1374, FFLoss: 0.0074, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0055, au_D: 0.0101, all_loss: 0.1604, 
+2023-12-23 11:59:08.962 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 5, Iter: 8355/10369, Time: 2023-12-23-11:59:08 
+photo_detail: 0.1396, FFLoss: 0.0082, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0037, au_D: 0.0073, all_loss: 0.1589, 
+2023-12-23 12:02:53.231 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 5, Iter: 8555/10369, Time: 2023-12-23-12:02:53 
+photo_detail: 0.1419, FFLoss: 0.0085, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0045, au_D: 0.0082, all_loss: 0.1632, 
+2023-12-23 12:06:36.976 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 5, Iter: 8755/10369, Time: 2023-12-23-12:06:36 
+photo_detail: 0.1507, FFLoss: 0.0113, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0038, au_D: 0.0089, all_loss: 0.1748, 
+2023-12-23 12:10:22.404 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 5, Iter: 8955/10369, Time: 2023-12-23-12:10:22 
+photo_detail: 0.1626, FFLoss: 0.0128, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0038, au_D: 0.0085, all_loss: 0.1878, 
+2023-12-23 12:14:05.264 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 5, Iter: 9155/10369, Time: 2023-12-23-12:14:05 
+photo_detail: 0.1611, FFLoss: 0.0110, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0044, au_D: 0.0086, all_loss: 0.1852, 
+2023-12-23 12:17:51.062 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 5, Iter: 9355/10369, Time: 2023-12-23-12:17:50 
+photo_detail: 0.1507, FFLoss: 0.0094, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0054, au_D: 0.0091, all_loss: 0.1747, 
+2023-12-23 12:21:32.704 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 5, Iter: 9555/10369, Time: 2023-12-23-12:21:32 
+photo_detail: 0.1440, FFLoss: 0.0083, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0052, au_D: 0.0088, all_loss: 0.1664, 
+2023-12-23 12:25:14.727 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 5, Iter: 9755/10369, Time: 2023-12-23-12:25:14 
+photo_detail: 0.1370, FFLoss: 0.0076, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0040, au_D: 0.0092, all_loss: 0.1580, 
+2023-12-23 12:28:57.658 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 5, Iter: 9955/10369, Time: 2023-12-23-12:28:57 
+photo_detail: 0.1483, FFLoss: 0.0092, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0031, au_D: 0.0081, all_loss: 0.1687, 
+2023-12-23 12:32:40.927 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 5, Iter: 10155/10369, Time: 2023-12-23-12:32:40 
+photo_detail: 0.1452, FFLoss: 0.0087, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0050, au_D: 0.0085, all_loss: 0.1674, 
+2023-12-23 12:36:28.535 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 5, Iter: 10355/10369, Time: 2023-12-23-12:36:28 
+photo_detail: 0.1305, FFLoss: 0.0072, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0037, au_D: 0.0084, all_loss: 0.1499, 
+2023-12-23 12:40:15.549 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 6, Iter: 186/10369, Time: 2023-12-23-12:40:15 
+photo_detail: 0.1542, FFLoss: 0.0100, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0050, au_D: 0.0104, all_loss: 0.1796, 
+2023-12-23 12:43:57.333 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 6, Iter: 386/10369, Time: 2023-12-23-12:43:57 
+photo_detail: 0.1454, FFLoss: 0.0099, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0046, au_D: 0.0085, all_loss: 0.1684, 
+2023-12-23 12:47:38.588 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 6, Iter: 586/10369, Time: 2023-12-23-12:47:38 
+photo_detail: 0.1790, FFLoss: 0.0160, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0045, au_D: 0.0093, all_loss: 0.2088, 
+2023-12-23 12:51:20.038 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 6, Iter: 786/10369, Time: 2023-12-23-12:51:19 
+photo_detail: 0.1463, FFLoss: 0.0098, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0040, au_D: 0.0079, all_loss: 0.1679, 
+2023-12-23 12:55:05.089 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 6, Iter: 986/10369, Time: 2023-12-23-12:55:04 
+photo_detail: 0.1379, FFLoss: 0.0078, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0046, au_D: 0.0087, all_loss: 0.1592, 
+2023-12-23 12:58:49.705 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 6, Iter: 1186/10369, Time: 2023-12-23-12:58:49 
+photo_detail: 0.1326, FFLoss: 0.0073, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0048, au_D: 0.0093, all_loss: 0.1540, 
+2023-12-23 13:02:32.894 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 6, Iter: 1386/10369, Time: 2023-12-23-13:02:32 
+photo_detail: 0.1397, FFLoss: 0.0077, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0056, au_D: 0.0084, all_loss: 0.1615, 
+2023-12-23 13:06:17.061 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 6, Iter: 1586/10369, Time: 2023-12-23-13:06:16 
+photo_detail: 0.1442, FFLoss: 0.0088, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0044, au_D: 0.0080, all_loss: 0.1654, 
+2023-12-23 13:10:02.989 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 6, Iter: 1786/10369, Time: 2023-12-23-13:10:02 
+photo_detail: 0.1461, FFLoss: 0.0086, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0060, au_D: 0.0087, all_loss: 0.1694, 
+2023-12-23 13:13:48.909 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 6, Iter: 1986/10369, Time: 2023-12-23-13:13:48 
+photo_detail: 0.1427, FFLoss: 0.0082, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0041, au_D: 0.0080, all_loss: 0.1630, 
+2023-12-23 13:17:32.161 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 6, Iter: 2186/10369, Time: 2023-12-23-13:17:32 
+photo_detail: 0.1346, FFLoss: 0.0080, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0049, au_D: 0.0078, all_loss: 0.1552, 
+2023-12-23 13:21:17.099 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 6, Iter: 2386/10369, Time: 2023-12-23-13:21:16 
+photo_detail: 0.1455, FFLoss: 0.0088, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0030, au_D: 0.0081, all_loss: 0.1655, 
+2023-12-23 13:25:00.028 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 6, Iter: 2586/10369, Time: 2023-12-23-13:24:59 
+photo_detail: 0.1169, FFLoss: 0.0052, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0047, au_D: 0.0095, all_loss: 0.1363, 
+2023-12-23 13:28:47.003 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 6, Iter: 2786/10369, Time: 2023-12-23-13:28:46 
+photo_detail: 0.1239, FFLoss: 0.0062, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0073, au_D: 0.0088, all_loss: 0.1464, 
+2023-12-23 13:32:33.896 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 6, Iter: 2986/10369, Time: 2023-12-23-13:32:33 
+photo_detail: 0.1619, FFLoss: 0.0148, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0045, au_D: 0.0082, all_loss: 0.1895, 
+2023-12-23 13:36:18.182 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 6, Iter: 3186/10369, Time: 2023-12-23-13:36:18 
+photo_detail: 0.1573, FFLoss: 0.0109, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0033, au_D: 0.0093, all_loss: 0.1808, 
+2023-12-23 13:40:02.225 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 6, Iter: 3386/10369, Time: 2023-12-23-13:40:02 
+photo_detail: 0.1406, FFLoss: 0.0087, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0036, au_D: 0.0086, all_loss: 0.1617, 
+2023-12-23 13:43:46.287 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 6, Iter: 3586/10369, Time: 2023-12-23-13:43:46 
+photo_detail: 0.1616, FFLoss: 0.0140, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0041, au_D: 0.0081, all_loss: 0.1878, 
+2023-12-23 13:47:32.164 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 6, Iter: 3786/10369, Time: 2023-12-23-13:47:32 
+photo_detail: 0.1455, FFLoss: 0.0090, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0043, au_D: 0.0091, all_loss: 0.1680, 
+2023-12-23 13:51:19.915 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 6, Iter: 3986/10369, Time: 2023-12-23-13:51:19 
+photo_detail: 0.1390, FFLoss: 0.0072, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0041, au_D: 0.0090, all_loss: 0.1594, 
+2023-12-23 13:55:03.676 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 6, Iter: 4186/10369, Time: 2023-12-23-13:55:03 
+photo_detail: 0.1613, FFLoss: 0.0113, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0032, au_D: 0.0082, all_loss: 0.1840, 
+2023-12-23 13:58:47.897 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 6, Iter: 4386/10369, Time: 2023-12-23-13:58:47 
+photo_detail: 0.1528, FFLoss: 0.0102, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0041, au_D: 0.0072, all_loss: 0.1743, 
+2023-12-23 14:02:31.322 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 6, Iter: 4586/10369, Time: 2023-12-23-14:02:31 
+photo_detail: 0.1307, FFLoss: 0.0070, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0042, au_D: 0.0085, all_loss: 0.1505, 
+2023-12-23 14:06:14.292 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 6, Iter: 4786/10369, Time: 2023-12-23-14:06:14 
+photo_detail: 0.1404, FFLoss: 0.0077, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0033, au_D: 0.0081, all_loss: 0.1595, 
+2023-12-23 14:10:03.871 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 6, Iter: 4986/10369, Time: 2023-12-23-14:10:03 
+photo_detail: 0.1445, FFLoss: 0.0102, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0040, au_D: 0.0069, all_loss: 0.1656, 
+2023-12-23 14:13:47.779 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 6, Iter: 5186/10369, Time: 2023-12-23-14:13:47 
+photo_detail: 0.1587, FFLoss: 0.0110, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0044, au_D: 0.0080, all_loss: 0.1822, 
+2023-12-23 14:17:31.212 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 6, Iter: 5386/10369, Time: 2023-12-23-14:17:31 
+photo_detail: 0.1338, FFLoss: 0.0077, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0087, au_D: 0.0090, all_loss: 0.1591, 
+2023-12-23 14:21:15.393 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 6, Iter: 5586/10369, Time: 2023-12-23-14:21:15 
+photo_detail: 0.1684, FFLoss: 0.0138, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0042, au_D: 0.0084, all_loss: 0.1948, 
+2023-12-23 14:24:58.387 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 6, Iter: 5786/10369, Time: 2023-12-23-14:24:58 
+photo_detail: 0.1585, FFLoss: 0.0107, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0044, au_D: 0.0089, all_loss: 0.1826, 
+2023-12-23 14:28:47.115 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 6, Iter: 5986/10369, Time: 2023-12-23-14:28:46 
+photo_detail: 0.1268, FFLoss: 0.0064, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0044, au_D: 0.0103, all_loss: 0.1480, 
+2023-12-23 14:32:30.543 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 6, Iter: 6186/10369, Time: 2023-12-23-14:32:30 
+photo_detail: 0.1375, FFLoss: 0.0082, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0053, au_D: 0.0084, all_loss: 0.1594, 
+2023-12-23 14:36:12.944 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 6, Iter: 6386/10369, Time: 2023-12-23-14:36:12 
+photo_detail: 0.1465, FFLoss: 0.0087, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0051, au_D: 0.0079, all_loss: 0.1682, 
+2023-12-23 14:39:56.245 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 6, Iter: 6586/10369, Time: 2023-12-23-14:39:56 
+photo_detail: 0.1267, FFLoss: 0.0069, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0081, au_D: 0.0089, all_loss: 0.1506, 
+2023-12-23 14:43:38.213 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 6, Iter: 6786/10369, Time: 2023-12-23-14:43:38 
+photo_detail: 0.1647, FFLoss: 0.0121, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0039, au_D: 0.0092, all_loss: 0.1899, 
+2023-12-23 14:47:25.398 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 6, Iter: 6986/10369, Time: 2023-12-23-14:47:25 
+photo_detail: 0.1497, FFLoss: 0.0100, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0035, au_D: 0.0084, all_loss: 0.1717, 
+2023-12-23 14:51:08.440 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 6, Iter: 7186/10369, Time: 2023-12-23-14:51:08 
+photo_detail: 0.1557, FFLoss: 0.0102, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0033, au_D: 0.0094, all_loss: 0.1787, 
+2023-12-23 14:54:50.728 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 6, Iter: 7386/10369, Time: 2023-12-23-14:54:50 
+photo_detail: 0.1433, FFLoss: 0.0081, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0032, au_D: 0.0085, all_loss: 0.1632, 
+2023-12-23 14:58:31.845 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 6, Iter: 7586/10369, Time: 2023-12-23-14:58:31 
+photo_detail: 0.1344, FFLoss: 0.0075, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0038, au_D: 0.0079, all_loss: 0.1537, 
+2023-12-23 15:02:13.831 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 6, Iter: 7786/10369, Time: 2023-12-23-15:02:13 
+photo_detail: 0.1715, FFLoss: 0.0121, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0043, au_D: 0.0084, all_loss: 0.1964, 
+2023-12-23 15:05:59.598 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 6, Iter: 7986/10369, Time: 2023-12-23-15:05:59 
+photo_detail: 0.1544, FFLoss: 0.0105, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0045, au_D: 0.0079, all_loss: 0.1773, 
+2023-12-23 15:09:41.716 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 6, Iter: 8186/10369, Time: 2023-12-23-15:09:41 
+photo_detail: 0.1374, FFLoss: 0.0081, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0040, au_D: 0.0090, all_loss: 0.1586, 
+2023-12-23 15:13:22.307 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 6, Iter: 8386/10369, Time: 2023-12-23-15:13:22 
+photo_detail: 0.1477, FFLoss: 0.0089, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0048, au_D: 0.0091, all_loss: 0.1706, 
+2023-12-23 15:17:04.282 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 6, Iter: 8586/10369, Time: 2023-12-23-15:17:04 
+photo_detail: 0.1676, FFLoss: 0.0118, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0040, au_D: 0.0085, all_loss: 0.1919, 
+2023-12-23 15:20:46.998 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 6, Iter: 8786/10369, Time: 2023-12-23-15:20:46 
+photo_detail: 0.1399, FFLoss: 0.0077, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0026, au_D: 0.0082, all_loss: 0.1584, 
+2023-12-23 15:24:33.083 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 6, Iter: 8986/10369, Time: 2023-12-23-15:24:32 
+photo_detail: 0.1515, FFLoss: 0.0100, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0042, au_D: 0.0084, all_loss: 0.1742, 
+2023-12-23 15:28:14.840 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 6, Iter: 9186/10369, Time: 2023-12-23-15:28:14 
+photo_detail: 0.1582, FFLoss: 0.0122, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0044, au_D: 0.0088, all_loss: 0.1837, 
+2023-12-23 15:31:56.518 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 6, Iter: 9386/10369, Time: 2023-12-23-15:31:56 
+photo_detail: 0.1184, FFLoss: 0.0057, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0063, au_D: 0.0083, all_loss: 0.1387, 
+2023-12-23 15:35:39.264 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 6, Iter: 9586/10369, Time: 2023-12-23-15:35:39 
+photo_detail: 0.1484, FFLoss: 0.0095, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0047, au_D: 0.0090, all_loss: 0.1717, 
+2023-12-23 15:39:22.497 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 6, Iter: 9786/10369, Time: 2023-12-23-15:39:22 
+photo_detail: 0.1336, FFLoss: 0.0066, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0039, au_D: 0.0084, all_loss: 0.1525, 
+2023-12-23 15:43:09.052 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 6, Iter: 9986/10369, Time: 2023-12-23-15:43:08 
+photo_detail: 0.1606, FFLoss: 0.0117, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0047, au_D: 0.0082, all_loss: 0.1852, 
+2023-12-23 15:46:51.946 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 6, Iter: 10186/10369, Time: 2023-12-23-15:46:51 
+photo_detail: 0.1323, FFLoss: 0.0073, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0046, au_D: 0.0088, all_loss: 0.1530, 
+2023-12-23 15:50:39.494 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 7, Iter: 17/10369, Time: 2023-12-23-15:50:39 
+photo_detail: 0.1413, FFLoss: 0.0081, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0052, au_D: 0.0089, all_loss: 0.1637, 
+2023-12-23 15:54:23.076 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 7, Iter: 217/10369, Time: 2023-12-23-15:54:22 
+photo_detail: 0.1394, FFLoss: 0.0089, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0057, au_D: 0.0080, all_loss: 0.1620, 
+2023-12-23 15:58:07.812 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 7, Iter: 417/10369, Time: 2023-12-23-15:58:07 
+photo_detail: 0.1567, FFLoss: 0.0108, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0053, au_D: 0.0082, all_loss: 0.1811, 
+2023-12-23 16:01:53.791 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 7, Iter: 617/10369, Time: 2023-12-23-16:01:53 
+photo_detail: 0.1327, FFLoss: 0.0072, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0049, au_D: 0.0087, all_loss: 0.1535, 
+2023-12-23 16:05:36.611 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 7, Iter: 817/10369, Time: 2023-12-23-16:05:36 
+photo_detail: 0.1563, FFLoss: 0.0111, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0057, au_D: 0.0077, all_loss: 0.1808, 
+2023-12-23 16:09:18.968 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 7, Iter: 1017/10369, Time: 2023-12-23-16:09:18 
+photo_detail: 0.1328, FFLoss: 0.0078, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0049, au_D: 0.0085, all_loss: 0.1540, 
+2023-12-23 16:12:59.619 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 7, Iter: 1217/10369, Time: 2023-12-23-16:12:59 
+photo_detail: 0.1490, FFLoss: 0.0101, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0029, au_D: 0.0081, all_loss: 0.1702, 
+2023-12-23 16:16:41.021 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 7, Iter: 1417/10369, Time: 2023-12-23-16:16:40 
+photo_detail: 0.1305, FFLoss: 0.0081, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0035, au_D: 0.0094, all_loss: 0.1516, 
+2023-12-23 16:20:26.876 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 7, Iter: 1617/10369, Time: 2023-12-23-16:20:26 
+photo_detail: 0.1402, FFLoss: 0.0081, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0041, au_D: 0.0085, all_loss: 0.1609, 
+2023-12-23 16:24:09.170 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 7, Iter: 1817/10369, Time: 2023-12-23-16:24:09 
+photo_detail: 0.1333, FFLoss: 0.0084, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0055, au_D: 0.0091, all_loss: 0.1563, 
+2023-12-23 16:27:51.191 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 7, Iter: 2017/10369, Time: 2023-12-23-16:27:51 
+photo_detail: 0.1248, FFLoss: 0.0060, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0048, au_D: 0.0081, all_loss: 0.1436, 
+2023-12-23 16:31:33.967 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 7, Iter: 2217/10369, Time: 2023-12-23-16:31:33 
+photo_detail: 0.1452, FFLoss: 0.0092, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0049, au_D: 0.0084, all_loss: 0.1679, 
+2023-12-23 16:35:17.317 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 7, Iter: 2417/10369, Time: 2023-12-23-16:35:17 
+photo_detail: 0.1406, FFLoss: 0.0083, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0036, au_D: 0.0079, all_loss: 0.1604, 
+2023-12-23 16:39:02.449 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 7, Iter: 2617/10369, Time: 2023-12-23-16:39:02 
+photo_detail: 0.1432, FFLoss: 0.0091, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0036, au_D: 0.0091, all_loss: 0.1651, 
+2023-12-23 16:42:43.658 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 7, Iter: 2817/10369, Time: 2023-12-23-16:42:43 
+photo_detail: 0.1539, FFLoss: 0.0092, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0037, au_D: 0.0078, all_loss: 0.1747, 
+2023-12-23 16:46:26.014 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 7, Iter: 3017/10369, Time: 2023-12-23-16:46:25 
+photo_detail: 0.1686, FFLoss: 0.0135, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0040, au_D: 0.0081, all_loss: 0.1942, 
+2023-12-23 16:50:08.395 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 7, Iter: 3217/10369, Time: 2023-12-23-16:50:08 
+photo_detail: 0.1291, FFLoss: 0.0074, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0062, au_D: 0.0088, all_loss: 0.1515, 
+2023-12-23 16:53:52.043 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 7, Iter: 3417/10369, Time: 2023-12-23-16:53:51 
+photo_detail: 0.1384, FFLoss: 0.0080, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0036, au_D: 0.0085, all_loss: 0.1586, 
+2023-12-23 16:57:37.761 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 7, Iter: 3617/10369, Time: 2023-12-23-16:57:37 
+photo_detail: 0.1356, FFLoss: 0.0081, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0066, au_D: 0.0094, all_loss: 0.1597, 
+2023-12-23 17:01:20.180 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 7, Iter: 3817/10369, Time: 2023-12-23-17:01:20 
+photo_detail: 0.1647, FFLoss: 0.0133, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0044, au_D: 0.0089, all_loss: 0.1914, 
+2023-12-23 17:05:03.697 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 7, Iter: 4017/10369, Time: 2023-12-23-17:05:03 
+photo_detail: 0.1399, FFLoss: 0.0079, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0042, au_D: 0.0077, all_loss: 0.1599, 
+2023-12-23 17:08:46.620 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 7, Iter: 4217/10369, Time: 2023-12-23-17:08:46 
+photo_detail: 0.1574, FFLoss: 0.0105, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0054, au_D: 0.0074, all_loss: 0.1807, 
+2023-12-23 17:12:29.360 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 7, Iter: 4417/10369, Time: 2023-12-23-17:12:29 
+photo_detail: 0.1669, FFLoss: 0.0127, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0045, au_D: 0.0087, all_loss: 0.1929, 
+2023-12-23 17:16:16.500 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 7, Iter: 4617/10369, Time: 2023-12-23-17:16:16 
+photo_detail: 0.1596, FFLoss: 0.0104, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0050, au_D: 0.0086, all_loss: 0.1835, 
+2023-12-23 17:19:58.153 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 7, Iter: 4817/10369, Time: 2023-12-23-17:19:58 
+photo_detail: 0.1574, FFLoss: 0.0106, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0046, au_D: 0.0079, all_loss: 0.1805, 
+2023-12-23 17:23:41.307 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 7, Iter: 5017/10369, Time: 2023-12-23-17:23:41 
+photo_detail: 0.1217, FFLoss: 0.0063, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0037, au_D: 0.0086, all_loss: 0.1403, 
+2023-12-23 17:27:24.075 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 7, Iter: 5217/10369, Time: 2023-12-23-17:27:23 
+photo_detail: 0.1490, FFLoss: 0.0088, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0053, au_D: 0.0080, all_loss: 0.1711, 
+2023-12-23 17:31:07.327 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 7, Iter: 5417/10369, Time: 2023-12-23-17:31:07 
+photo_detail: 0.1448, FFLoss: 0.0082, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0038, au_D: 0.0089, all_loss: 0.1657, 
+2023-12-23 17:34:53.769 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 7, Iter: 5617/10369, Time: 2023-12-23-17:34:53 
+photo_detail: 0.1427, FFLoss: 0.0081, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0034, au_D: 0.0080, all_loss: 0.1622, 
+2023-12-23 17:38:36.376 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 7, Iter: 5817/10369, Time: 2023-12-23-17:38:36 
+photo_detail: 0.1543, FFLoss: 0.0116, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0057, au_D: 0.0080, all_loss: 0.1796, 
+2023-12-23 17:42:19.828 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 7, Iter: 6017/10369, Time: 2023-12-23-17:42:19 
+photo_detail: 0.1495, FFLoss: 0.0107, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0051, au_D: 0.0090, all_loss: 0.1744, 
+2023-12-23 17:46:02.575 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 7, Iter: 6217/10369, Time: 2023-12-23-17:46:02 
+photo_detail: 0.1437, FFLoss: 0.0082, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0054, au_D: 0.0079, all_loss: 0.1652, 
+2023-12-23 17:49:45.999 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 7, Iter: 6417/10369, Time: 2023-12-23-17:49:45 
+photo_detail: 0.1359, FFLoss: 0.0078, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0053, au_D: 0.0073, all_loss: 0.1564, 
+2023-12-23 17:53:31.296 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 7, Iter: 6617/10369, Time: 2023-12-23-17:53:31 
+photo_detail: 0.1521, FFLoss: 0.0091, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0036, au_D: 0.0077, all_loss: 0.1725, 
+2023-12-23 17:57:13.400 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 7, Iter: 6817/10369, Time: 2023-12-23-17:57:13 
+photo_detail: 0.1519, FFLoss: 0.0106, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0042, au_D: 0.0085, all_loss: 0.1752, 
+2023-12-23 18:00:54.421 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 7, Iter: 7017/10369, Time: 2023-12-23-18:00:54 
+photo_detail: 0.1533, FFLoss: 0.0101, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0046, au_D: 0.0096, all_loss: 0.1777, 
+2023-12-23 18:04:37.893 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 7, Iter: 7217/10369, Time: 2023-12-23-18:04:37 
+photo_detail: 0.1478, FFLoss: 0.0095, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0066, au_D: 0.0090, all_loss: 0.1730, 
+2023-12-23 18:08:19.508 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 7, Iter: 7417/10369, Time: 2023-12-23-18:08:19 
+photo_detail: 0.1506, FFLoss: 0.0096, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0046, au_D: 0.0078, all_loss: 0.1727, 
+2023-12-23 18:12:05.952 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 7, Iter: 7617/10369, Time: 2023-12-23-18:12:05 
+photo_detail: 0.1514, FFLoss: 0.0093, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0044, au_D: 0.0091, all_loss: 0.1743, 
+2023-12-23 18:15:48.785 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 7, Iter: 7817/10369, Time: 2023-12-23-18:15:48 
+photo_detail: 0.1375, FFLoss: 0.0090, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0041, au_D: 0.0088, all_loss: 0.1594, 
+2023-12-23 18:19:32.994 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 7, Iter: 8017/10369, Time: 2023-12-23-18:19:32 
+photo_detail: 0.1360, FFLoss: 0.0070, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0035, au_D: 0.0084, all_loss: 0.1550, 
+2023-12-23 18:23:15.287 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 7, Iter: 8217/10369, Time: 2023-12-23-18:23:15 
+photo_detail: 0.1539, FFLoss: 0.0105, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0042, au_D: 0.0098, all_loss: 0.1785, 
+2023-12-23 18:26:57.304 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 7, Iter: 8417/10369, Time: 2023-12-23-18:26:57 
+photo_detail: 0.1423, FFLoss: 0.0083, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0038, au_D: 0.0081, all_loss: 0.1626, 
+2023-12-23 18:30:43.495 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 7, Iter: 8617/10369, Time: 2023-12-23-18:30:43 
+photo_detail: 0.1647, FFLoss: 0.0107, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0026, au_D: 0.0095, all_loss: 0.1875, 
+2023-12-23 18:34:26.707 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 7, Iter: 8817/10369, Time: 2023-12-23-18:34:26 
+photo_detail: 0.1485, FFLoss: 0.0092, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0041, au_D: 0.0094, all_loss: 0.1713, 
+2023-12-23 18:38:09.912 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 7, Iter: 9017/10369, Time: 2023-12-23-18:38:09 
+photo_detail: 0.1386, FFLoss: 0.0078, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0046, au_D: 0.0089, all_loss: 0.1599, 
+2023-12-23 18:41:53.917 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 7, Iter: 9217/10369, Time: 2023-12-23-18:41:53 
+photo_detail: 0.1509, FFLoss: 0.0101, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0045, au_D: 0.0090, all_loss: 0.1746, 
+2023-12-23 18:45:37.494 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 7, Iter: 9417/10369, Time: 2023-12-23-18:45:37 
+photo_detail: 0.1293, FFLoss: 0.0064, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0044, au_D: 0.0085, all_loss: 0.1487, 
+2023-12-23 18:49:23.685 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 7, Iter: 9617/10369, Time: 2023-12-23-18:49:23 
+photo_detail: 0.1379, FFLoss: 0.0083, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0044, au_D: 0.0091, all_loss: 0.1597, 
+2023-12-23 18:53:05.740 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 7, Iter: 9817/10369, Time: 2023-12-23-18:53:05 
+photo_detail: 0.1368, FFLoss: 0.0080, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0043, au_D: 0.0090, all_loss: 0.1582, 
+2023-12-23 18:56:47.984 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 7, Iter: 10017/10369, Time: 2023-12-23-18:56:47 
+photo_detail: 0.1435, FFLoss: 0.0086, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0044, au_D: 0.0092, all_loss: 0.1658, 
+2023-12-23 19:00:31.038 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 7, Iter: 10217/10369, Time: 2023-12-23-19:00:30 
+photo_detail: 0.1369, FFLoss: 0.0077, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0040, au_D: 0.0081, all_loss: 0.1568, 
+2023-12-23 19:04:17.219 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 8, Iter: 48/10369, Time: 2023-12-23-19:04:17 
+photo_detail: 0.1395, FFLoss: 0.0081, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0031, au_D: 0.0072, all_loss: 0.1579, 
+2023-12-23 19:08:03.561 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 8, Iter: 248/10369, Time: 2023-12-23-19:08:03 
+photo_detail: 0.1673, FFLoss: 0.0128, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0039, au_D: 0.0081, all_loss: 0.1921, 
+2023-12-23 19:11:44.643 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 8, Iter: 448/10369, Time: 2023-12-23-19:11:44 
+photo_detail: 0.1357, FFLoss: 0.0081, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0037, au_D: 0.0084, all_loss: 0.1559, 
+2023-12-23 19:15:26.521 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 8, Iter: 648/10369, Time: 2023-12-23-19:15:26 
+photo_detail: 0.1497, FFLoss: 0.0091, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0039, au_D: 0.0081, all_loss: 0.1709, 
+2023-12-23 19:19:08.269 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 8, Iter: 848/10369, Time: 2023-12-23-19:19:08 
+photo_detail: 0.1447, FFLoss: 0.0097, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0044, au_D: 0.0089, all_loss: 0.1679, 
+2023-12-23 19:22:50.215 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 8, Iter: 1048/10369, Time: 2023-12-23-19:22:50 
+photo_detail: 0.1462, FFLoss: 0.0082, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0071, au_D: 0.0091, all_loss: 0.1707, 
+2023-12-23 19:26:34.692 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 8, Iter: 1248/10369, Time: 2023-12-23-19:26:34 
+photo_detail: 0.1398, FFLoss: 0.0083, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0045, au_D: 0.0084, all_loss: 0.1610, 
+2023-12-23 19:30:16.104 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 8, Iter: 1448/10369, Time: 2023-12-23-19:30:15 
+photo_detail: 0.1602, FFLoss: 0.0113, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0046, au_D: 0.0093, all_loss: 0.1855, 
+2023-12-23 19:33:57.268 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 8, Iter: 1648/10369, Time: 2023-12-23-19:33:57 
+photo_detail: 0.1433, FFLoss: 0.0085, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0032, au_D: 0.0096, all_loss: 0.1646, 
+2023-12-23 19:37:39.113 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 8, Iter: 1848/10369, Time: 2023-12-23-19:37:38 
+photo_detail: 0.1340, FFLoss: 0.0082, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0055, au_D: 0.0083, all_loss: 0.1560, 
+2023-12-23 19:41:21.242 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 8, Iter: 2048/10369, Time: 2023-12-23-19:41:21 
+photo_detail: 0.1491, FFLoss: 0.0087, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0043, au_D: 0.0069, all_loss: 0.1690, 
+2023-12-23 19:45:06.758 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 8, Iter: 2248/10369, Time: 2023-12-23-19:45:06 
+photo_detail: 0.1308, FFLoss: 0.0071, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0046, au_D: 0.0084, all_loss: 0.1509, 
+2023-12-23 19:48:48.795 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 8, Iter: 2448/10369, Time: 2023-12-23-19:48:48 
+photo_detail: 0.1325, FFLoss: 0.0070, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0041, au_D: 0.0090, all_loss: 0.1527, 
+2023-12-23 19:52:30.125 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 8, Iter: 2648/10369, Time: 2023-12-23-19:52:29 
+photo_detail: 0.1409, FFLoss: 0.0089, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0062, au_D: 0.0088, all_loss: 0.1648, 
+2023-12-23 19:56:12.754 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 8, Iter: 2848/10369, Time: 2023-12-23-19:56:12 
+photo_detail: 0.1367, FFLoss: 0.0071, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0042, au_D: 0.0085, all_loss: 0.1566, 
+2023-12-23 19:59:56.838 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 8, Iter: 3048/10369, Time: 2023-12-23-19:59:56 
+photo_detail: 0.1401, FFLoss: 0.0084, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0039, au_D: 0.0076, all_loss: 0.1601, 
+2023-12-23 20:03:43.435 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 8, Iter: 3248/10369, Time: 2023-12-23-20:03:43 
+photo_detail: 0.1397, FFLoss: 0.0077, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0034, au_D: 0.0093, all_loss: 0.1600, 
+2023-12-23 20:07:25.521 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 8, Iter: 3448/10369, Time: 2023-12-23-20:07:25 
+photo_detail: 0.1506, FFLoss: 0.0093, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0053, au_D: 0.0080, all_loss: 0.1732, 
+2023-12-23 20:11:07.847 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 8, Iter: 3648/10369, Time: 2023-12-23-20:11:07 
+photo_detail: 0.1437, FFLoss: 0.0082, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0043, au_D: 0.0096, all_loss: 0.1658, 
+2023-12-23 20:14:50.004 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 8, Iter: 3848/10369, Time: 2023-12-23-20:14:49 
+photo_detail: 0.1423, FFLoss: 0.0088, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0036, au_D: 0.0090, all_loss: 0.1637, 
+2023-12-23 20:18:32.774 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 8, Iter: 4048/10369, Time: 2023-12-23-20:18:32 
+photo_detail: 0.1437, FFLoss: 0.0089, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0036, au_D: 0.0087, all_loss: 0.1649, 
+2023-12-23 20:22:18.362 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 8, Iter: 4248/10369, Time: 2023-12-23-20:22:18 
+photo_detail: 0.1414, FFLoss: 0.0096, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0050, au_D: 0.0090, all_loss: 0.1650, 
+2023-12-23 20:26:01.330 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 8, Iter: 4448/10369, Time: 2023-12-23-20:26:01 
+photo_detail: 0.1661, FFLoss: 0.0118, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0032, au_D: 0.0083, all_loss: 0.1894, 
+2023-12-23 20:29:44.244 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 8, Iter: 4648/10369, Time: 2023-12-23-20:29:44 
+photo_detail: 0.1577, FFLoss: 0.0093, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0026, au_D: 0.0088, all_loss: 0.1784, 
+2023-12-23 20:33:26.353 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 8, Iter: 4848/10369, Time: 2023-12-23-20:33:26 
+photo_detail: 0.1488, FFLoss: 0.0096, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0035, au_D: 0.0082, all_loss: 0.1702, 
+2023-12-23 20:37:09.286 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 8, Iter: 5048/10369, Time: 2023-12-23-20:37:09 
+photo_detail: 0.1484, FFLoss: 0.0099, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0045, au_D: 0.0092, all_loss: 0.1721, 
+2023-12-23 20:40:54.308 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 8, Iter: 5248/10369, Time: 2023-12-23-20:40:54 
+photo_detail: 0.1342, FFLoss: 0.0076, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0041, au_D: 0.0093, all_loss: 0.1552, 
+2023-12-23 20:44:36.553 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 8, Iter: 5448/10369, Time: 2023-12-23-20:44:36 
+photo_detail: 0.1506, FFLoss: 0.0092, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0045, au_D: 0.0093, all_loss: 0.1736, 
+2023-12-23 20:48:18.832 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 8, Iter: 5648/10369, Time: 2023-12-23-20:48:18 
+photo_detail: 0.1448, FFLoss: 0.0086, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0032, au_D: 0.0097, all_loss: 0.1664, 
+2023-12-23 20:52:00.907 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 8, Iter: 5848/10369, Time: 2023-12-23-20:52:00 
+photo_detail: 0.1383, FFLoss: 0.0086, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0044, au_D: 0.0096, all_loss: 0.1609, 
+2023-12-23 20:55:43.315 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 8, Iter: 6048/10369, Time: 2023-12-23-20:55:43 
+photo_detail: 0.1379, FFLoss: 0.0089, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0042, au_D: 0.0088, all_loss: 0.1599, 
+2023-12-23 20:59:29.225 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 8, Iter: 6248/10369, Time: 2023-12-23-20:59:29 
+photo_detail: 0.1343, FFLoss: 0.0075, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0033, au_D: 0.0092, all_loss: 0.1544, 
+2023-12-23 21:03:10.843 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 8, Iter: 6448/10369, Time: 2023-12-23-21:03:10 
+photo_detail: 0.1572, FFLoss: 0.0103, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0035, au_D: 0.0097, all_loss: 0.1808, 
+2023-12-23 21:06:52.288 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 8, Iter: 6648/10369, Time: 2023-12-23-21:06:52 
+photo_detail: 0.1234, FFLoss: 0.0054, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0029, au_D: 0.0080, all_loss: 0.1397, 
+2023-12-23 21:10:33.816 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 8, Iter: 6848/10369, Time: 2023-12-23-21:10:33 
+photo_detail: 0.1456, FFLoss: 0.0086, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0044, au_D: 0.0079, all_loss: 0.1665, 
+2023-12-23 21:14:17.938 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 8, Iter: 7048/10369, Time: 2023-12-23-21:14:17 
+photo_detail: 0.1409, FFLoss: 0.0089, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0035, au_D: 0.0088, all_loss: 0.1621, 
+2023-12-23 21:18:05.183 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 8, Iter: 7248/10369, Time: 2023-12-23-21:18:05 
+photo_detail: 0.1415, FFLoss: 0.0085, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0041, au_D: 0.0095, all_loss: 0.1636, 
+2023-12-23 21:21:47.200 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 8, Iter: 7448/10369, Time: 2023-12-23-21:21:47 
+photo_detail: 0.1479, FFLoss: 0.0094, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0056, au_D: 0.0081, all_loss: 0.1711, 
+2023-12-23 21:25:29.101 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 8, Iter: 7648/10369, Time: 2023-12-23-21:25:28 
+photo_detail: 0.1443, FFLoss: 0.0089, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0032, au_D: 0.0089, all_loss: 0.1654, 
+2023-12-23 21:29:11.572 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 8, Iter: 7848/10369, Time: 2023-12-23-21:29:11 
+photo_detail: 0.1580, FFLoss: 0.0110, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0047, au_D: 0.0087, all_loss: 0.1824, 
+2023-12-23 21:32:52.027 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 8, Iter: 8048/10369, Time: 2023-12-23-21:32:51 
+photo_detail: 0.1367, FFLoss: 0.0073, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0035, au_D: 0.0094, all_loss: 0.1570, 
+2023-12-23 21:36:36.327 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 8, Iter: 8248/10369, Time: 2023-12-23-21:36:36 
+photo_detail: 0.1380, FFLoss: 0.0078, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0029, au_D: 0.0086, all_loss: 0.1573, 
+2023-12-23 21:40:17.033 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 8, Iter: 8448/10369, Time: 2023-12-23-21:40:16 
+photo_detail: 0.1436, FFLoss: 0.0095, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0032, au_D: 0.0093, all_loss: 0.1656, 
+2023-12-23 21:43:59.260 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 8, Iter: 8648/10369, Time: 2023-12-23-21:43:59 
+photo_detail: 0.1533, FFLoss: 0.0103, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0037, au_D: 0.0085, all_loss: 0.1759, 
+2023-12-23 21:47:42.546 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 8, Iter: 8848/10369, Time: 2023-12-23-21:47:42 
+photo_detail: 0.1269, FFLoss: 0.0069, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0032, au_D: 0.0092, all_loss: 0.1463, 
+2023-12-23 21:51:25.230 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 8, Iter: 9048/10369, Time: 2023-12-23-21:51:25 
+photo_detail: 0.1575, FFLoss: 0.0113, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0035, au_D: 0.0095, all_loss: 0.1819, 
+2023-12-23 21:55:11.991 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 8, Iter: 9248/10369, Time: 2023-12-23-21:55:11 
+photo_detail: 0.1356, FFLoss: 0.0084, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0036, au_D: 0.0086, all_loss: 0.1562, 
+2023-12-23 21:58:54.567 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 8, Iter: 9448/10369, Time: 2023-12-23-21:58:54 
+photo_detail: 0.1568, FFLoss: 0.0093, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0037, au_D: 0.0076, all_loss: 0.1773, 
+2023-12-23 22:02:37.568 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 8, Iter: 9648/10369, Time: 2023-12-23-22:02:37 
+photo_detail: 0.1393, FFLoss: 0.0086, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0058, au_D: 0.0084, all_loss: 0.1621, 
+2023-12-23 22:06:18.511 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 8, Iter: 9848/10369, Time: 2023-12-23-22:06:18 
+photo_detail: 0.1345, FFLoss: 0.0074, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0037, au_D: 0.0086, all_loss: 0.1542, 
+2023-12-23 22:10:00.071 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 8, Iter: 10048/10369, Time: 2023-12-23-22:09:59 
+photo_detail: 0.1614, FFLoss: 0.0108, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0045, au_D: 0.0088, all_loss: 0.1856, 
+2023-12-23 22:13:46.529 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 8, Iter: 10248/10369, Time: 2023-12-23-22:13:46 
+photo_detail: 0.1531, FFLoss: 0.0103, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0042, au_D: 0.0093, all_loss: 0.1769, 
+2023-12-23 22:17:33.794 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 9, Iter: 79/10369, Time: 2023-12-23-22:17:33 
+photo_detail: 0.1333, FFLoss: 0.0071, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0051, au_D: 0.0078, all_loss: 0.1533, 
+2023-12-23 22:21:15.959 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 9, Iter: 279/10369, Time: 2023-12-23-22:21:15 
+photo_detail: 0.1198, FFLoss: 0.0060, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0057, au_D: 0.0087, all_loss: 0.1403, 
+2023-12-23 22:24:57.245 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 9, Iter: 479/10369, Time: 2023-12-23-22:24:57 
+photo_detail: 0.1303, FFLoss: 0.0072, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0037, au_D: 0.0088, all_loss: 0.1501, 
+2023-12-23 22:28:37.928 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 9, Iter: 679/10369, Time: 2023-12-23-22:28:37 
+photo_detail: 0.1439, FFLoss: 0.0087, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0035, au_D: 0.0090, all_loss: 0.1652, 
+2023-12-23 22:32:22.456 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 9, Iter: 879/10369, Time: 2023-12-23-22:32:22 
+photo_detail: 0.1543, FFLoss: 0.0094, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0038, au_D: 0.0091, all_loss: 0.1766, 
+2023-12-23 22:36:03.207 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 9, Iter: 1079/10369, Time: 2023-12-23-22:36:03 
+photo_detail: 0.1259, FFLoss: 0.0070, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0039, au_D: 0.0087, all_loss: 0.1456, 
+2023-12-23 22:39:44.282 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 9, Iter: 1279/10369, Time: 2023-12-23-22:39:44 
+photo_detail: 0.1383, FFLoss: 0.0078, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0026, au_D: 0.0084, all_loss: 0.1570, 
+2023-12-23 22:43:25.678 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 9, Iter: 1479/10369, Time: 2023-12-23-22:43:25 
+photo_detail: 0.1462, FFLoss: 0.0096, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0041, au_D: 0.0085, all_loss: 0.1685, 
+2023-12-23 22:47:07.260 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 9, Iter: 1679/10369, Time: 2023-12-23-22:47:07 
+photo_detail: 0.1457, FFLoss: 0.0083, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0029, au_D: 0.0093, all_loss: 0.1663, 
+2023-12-23 22:50:52.601 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 9, Iter: 1879/10369, Time: 2023-12-23-22:50:52 
+photo_detail: 0.1470, FFLoss: 0.0101, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0046, au_D: 0.0089, all_loss: 0.1706, 
+2023-12-23 22:54:35.237 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 9, Iter: 2079/10369, Time: 2023-12-23-22:54:35 
+photo_detail: 0.1480, FFLoss: 0.0095, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0029, au_D: 0.0085, all_loss: 0.1690, 
+2023-12-23 22:58:17.765 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 9, Iter: 2279/10369, Time: 2023-12-23-22:58:17 
+photo_detail: 0.1380, FFLoss: 0.0076, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0047, au_D: 0.0080, all_loss: 0.1585, 
+2023-12-23 23:01:59.853 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 9, Iter: 2479/10369, Time: 2023-12-23-23:01:59 
+photo_detail: 0.1369, FFLoss: 0.0069, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0029, au_D: 0.0082, all_loss: 0.1549, 
+2023-12-23 23:05:43.613 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 9, Iter: 2679/10369, Time: 2023-12-23-23:05:43 
+photo_detail: 0.1626, FFLoss: 0.0120, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0037, au_D: 0.0086, all_loss: 0.1869, 
+2023-12-23 23:09:29.931 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 9, Iter: 2879/10369, Time: 2023-12-23-23:09:29 
+photo_detail: 0.1408, FFLoss: 0.0084, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0035, au_D: 0.0086, all_loss: 0.1615, 
+2023-12-23 23:13:12.155 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 9, Iter: 3079/10369, Time: 2023-12-23-23:13:12 
+photo_detail: 0.1535, FFLoss: 0.0104, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0054, au_D: 0.0090, all_loss: 0.1784, 
+2023-12-23 23:16:55.031 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 9, Iter: 3279/10369, Time: 2023-12-23-23:16:54 
+photo_detail: 0.1382, FFLoss: 0.0076, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0039, au_D: 0.0084, all_loss: 0.1582, 
+2023-12-23 23:20:36.736 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 9, Iter: 3479/10369, Time: 2023-12-23-23:20:36 
+photo_detail: 0.1307, FFLoss: 0.0076, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0045, au_D: 0.0077, all_loss: 0.1506, 
+2023-12-23 23:24:16.651 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 9, Iter: 3679/10369, Time: 2023-12-23-23:24:16 
+photo_detail: 0.1459, FFLoss: 0.0084, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0048, au_D: 0.0081, all_loss: 0.1672, 
+2023-12-23 23:28:01.927 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 9, Iter: 3879/10369, Time: 2023-12-23-23:28:01 
+photo_detail: 0.1404, FFLoss: 0.0077, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0038, au_D: 0.0092, all_loss: 0.1612, 
+2023-12-23 23:31:43.302 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 9, Iter: 4079/10369, Time: 2023-12-23-23:31:43 
+photo_detail: 0.1497, FFLoss: 0.0095, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0045, au_D: 0.0083, all_loss: 0.1720, 
+2023-12-23 23:35:25.336 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 9, Iter: 4279/10369, Time: 2023-12-23-23:35:25 
+photo_detail: 0.1362, FFLoss: 0.0080, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0037, au_D: 0.0081, all_loss: 0.1560, 
+2023-12-23 23:39:08.255 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 9, Iter: 4479/10369, Time: 2023-12-23-23:39:08 
+photo_detail: 0.1409, FFLoss: 0.0080, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0031, au_D: 0.0091, all_loss: 0.1613, 
+2023-12-23 23:42:50.741 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 9, Iter: 4679/10369, Time: 2023-12-23-23:42:50 
+photo_detail: 0.1469, FFLoss: 0.0095, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0022, au_D: 0.0092, all_loss: 0.1678, 
+2023-12-23 23:46:36.110 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 9, Iter: 4879/10369, Time: 2023-12-23-23:46:35 
+photo_detail: 0.1465, FFLoss: 0.0085, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0031, au_D: 0.0091, all_loss: 0.1672, 
+2023-12-23 23:50:17.485 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 9, Iter: 5079/10369, Time: 2023-12-23-23:50:17 
+photo_detail: 0.1268, FFLoss: 0.0061, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0025, au_D: 0.0085, all_loss: 0.1440, 
+2023-12-23 23:53:59.056 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 9, Iter: 5279/10369, Time: 2023-12-23-23:53:58 
+photo_detail: 0.1462, FFLoss: 0.0089, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0031, au_D: 0.0091, all_loss: 0.1674, 
+2023-12-23 23:57:39.550 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 9, Iter: 5479/10369, Time: 2023-12-23-23:57:39 
+photo_detail: 0.1439, FFLoss: 0.0096, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0032, au_D: 0.0096, all_loss: 0.1663, 
+2023-12-24 00:01:20.811 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 9, Iter: 5679/10369, Time: 2023-12-24-00:01:20 
+photo_detail: 0.1340, FFLoss: 0.0067, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0032, au_D: 0.0084, all_loss: 0.1523, 
+2023-12-24 00:05:04.994 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 9, Iter: 5879/10369, Time: 2023-12-24-00:05:04 
+photo_detail: 0.1584, FFLoss: 0.0120, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0036, au_D: 0.0085, all_loss: 0.1824, 
+2023-12-24 00:08:46.655 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 9, Iter: 6079/10369, Time: 2023-12-24-00:08:46 
+photo_detail: 0.1393, FFLoss: 0.0079, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0033, au_D: 0.0087, all_loss: 0.1593, 
+2023-12-24 00:12:29.082 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 9, Iter: 6279/10369, Time: 2023-12-24-00:12:28 
+photo_detail: 0.1341, FFLoss: 0.0078, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0036, au_D: 0.0085, all_loss: 0.1540, 
+2023-12-24 00:16:12.239 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 9, Iter: 6479/10369, Time: 2023-12-24-00:16:12 
+photo_detail: 0.1369, FFLoss: 0.0077, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0041, au_D: 0.0092, all_loss: 0.1580, 
+2023-12-24 00:19:54.639 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 9, Iter: 6679/10369, Time: 2023-12-24-00:19:54 
+photo_detail: 0.1581, FFLoss: 0.0110, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0039, au_D: 0.0087, all_loss: 0.1819, 
+2023-12-24 00:23:42.778 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 9, Iter: 6879/10369, Time: 2023-12-24-00:23:42 
+photo_detail: 0.1551, FFLoss: 0.0098, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0035, au_D: 0.0091, all_loss: 0.1777, 
+2023-12-24 00:27:26.602 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 9, Iter: 7079/10369, Time: 2023-12-24-00:27:26 
+photo_detail: 0.1371, FFLoss: 0.0076, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0048, au_D: 0.0083, all_loss: 0.1579, 
+2023-12-24 00:31:10.049 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 9, Iter: 7279/10369, Time: 2023-12-24-00:31:09 
+photo_detail: 0.1383, FFLoss: 0.0074, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0038, au_D: 0.0089, all_loss: 0.1585, 
+2023-12-24 00:34:51.569 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 9, Iter: 7479/10369, Time: 2023-12-24-00:34:51 
+photo_detail: 0.1575, FFLoss: 0.0104, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0038, au_D: 0.0086, all_loss: 0.1804, 
+2023-12-24 00:38:34.869 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 9, Iter: 7679/10369, Time: 2023-12-24-00:38:34 
+photo_detail: 0.1562, FFLoss: 0.0099, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0052, au_D: 0.0083, all_loss: 0.1797, 
+2023-12-24 00:42:20.785 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 9, Iter: 7879/10369, Time: 2023-12-24-00:42:20 
+photo_detail: 0.1498, FFLoss: 0.0103, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0038, au_D: 0.0078, all_loss: 0.1717, 
+2023-12-24 00:46:04.146 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 9, Iter: 8079/10369, Time: 2023-12-24-00:46:03 
+photo_detail: 0.1498, FFLoss: 0.0089, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0046, au_D: 0.0086, all_loss: 0.1719, 
+2023-12-24 00:49:46.796 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 9, Iter: 8279/10369, Time: 2023-12-24-00:49:46 
+photo_detail: 0.1347, FFLoss: 0.0079, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0057, au_D: 0.0084, all_loss: 0.1566, 
+2023-12-24 00:53:28.789 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 9, Iter: 8479/10369, Time: 2023-12-24-00:53:28 
+photo_detail: 0.1329, FFLoss: 0.0076, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0048, au_D: 0.0091, all_loss: 0.1545, 
+2023-12-24 00:57:11.459 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 9, Iter: 8679/10369, Time: 2023-12-24-00:57:11 
+photo_detail: 0.1462, FFLoss: 0.0086, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0028, au_D: 0.0079, all_loss: 0.1656, 
+2023-12-24 01:00:57.934 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 9, Iter: 8879/10369, Time: 2023-12-24-01:00:57 
+photo_detail: 0.1352, FFLoss: 0.0079, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0051, au_D: 0.0088, all_loss: 0.1570, 
+2023-12-24 01:04:40.679 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 9, Iter: 9079/10369, Time: 2023-12-24-01:04:40 
+photo_detail: 0.1658, FFLoss: 0.0124, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0030, au_D: 0.0082, all_loss: 0.1895, 
+2023-12-24 01:08:23.391 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 9, Iter: 9279/10369, Time: 2023-12-24-01:08:23 
+photo_detail: 0.1556, FFLoss: 0.0104, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0044, au_D: 0.0085, all_loss: 0.1789, 
+2023-12-24 01:12:05.997 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 9, Iter: 9479/10369, Time: 2023-12-24-01:12:05 
+photo_detail: 0.1479, FFLoss: 0.0089, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0025, au_D: 0.0088, all_loss: 0.1681, 
+2023-12-24 01:15:48.456 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 9, Iter: 9679/10369, Time: 2023-12-24-01:15:48 
+photo_detail: 0.1443, FFLoss: 0.0084, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0042, au_D: 0.0077, all_loss: 0.1646, 
+2023-12-24 01:19:35.196 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 9, Iter: 9879/10369, Time: 2023-12-24-01:19:35 
+photo_detail: 0.1350, FFLoss: 0.0071, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0031, au_D: 0.0092, all_loss: 0.1545, 
+2023-12-24 01:23:19.153 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 9, Iter: 10079/10369, Time: 2023-12-24-01:23:19 
+photo_detail: 0.1340, FFLoss: 0.0072, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0037, au_D: 0.0084, all_loss: 0.1533, 
+2023-12-24 01:27:01.855 | INFO     | decalib.trainer_detail:fit:298 - ExpName: deca_detail 
+Epoch: 9, Iter: 10279/10369, Time: 2023-12-24-01:27:01 
+photo_detail: 0.1310, FFLoss: 0.0072, z_reg: 0.0000, z_diff: 0.0000, z_sym: 0.0049, au_D: 0.0079, all_loss: 0.1511, 

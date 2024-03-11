@@ -1,0 +1,35 @@
+
+
+output_dir: "Training/testGATE3" #MEFL->ANFL
+pretrained_modelpath: ""
+
+# dataset added
+# AU weight change
+dataset:
+
+  batch_size: 16
+  K: 1
+loss:
+ photo: 0.
+ mainAU: 0.7
+ subAU: 0.7
+ weightedAU: False
+ lipd: 1.2
+ reg_jaw_pose: 0.8
+ reg_exp: 0.00005
+ lmk: 0.0
+ lmk_dense: 1.2
+ expression: 0.4
+
+train:
+  resume: True
+  max_epochs: 10
+  max_steps: 200000000
+  log_steps: 500
+  vis_steps: 500
+  checkpoint_steps: 2000
+  lr: 0.00005
+#  val_steps: 500
+#  eval_steps: 50000
+
+# python main_train_deca_release.py --cfg configs/release_version/deca_coarse.yml

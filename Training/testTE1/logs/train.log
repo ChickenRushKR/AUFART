@@ -1,0 +1,11 @@
+2024-01-16 16:55:37.292 | INFO     | decalib.trainer_ablation:prepare_data:259 - ---- training data numbers: 
+2024-01-16 16:56:24.728 | INFO     | decalib.trainer_ablation:prepare_data:259 - ---- training data numbers: 
+2024-01-16 16:57:27.591 | INFO     | decalib.trainer:prepare_data:375 - ---- training data numbers: 
+2024-01-16 16:58:44.163 | INFO     | decalib.trainer:prepare_data:375 - ---- training data numbers: 
+2024-01-16 16:58:50.364 | INFO     | decalib.trainer:fit:411 - ExpName: deca_coarse 
+Epoch: 0, Iter: 0/18204, Time: 2024-01-16-16:58:50 
+landmark: 0.0229, relative_loss: 0.0374, landmark_dense: 0.0078, eye_distance: 0.0541, lip_distance: 0.0291, expression: 0.0468, au_lmk_loss: 0.2611, au_dist_loss: 0.1559, au_loss: 0.0390, reg_jawpose: 0.0036, expression_reg: 0.0000, all_loss: 0.6578, 
+2024-01-16 17:00:38.912 | INFO     | decalib.trainer:prepare_data:375 - ---- training data numbers: 
+2024-01-16 17:00:44.377 | INFO     | decalib.trainer:fit:411 - ExpName: deca_coarse 
+Epoch: 0, Iter: 0/18204, Time: 2024-01-16-17:00:44 
+landmark: 0.0083, relative_loss: 0.0266, landmark_dense: 0.0024, eye_distance: 0.0533, lip_distance: 0.0169, expression: 0.0447, au_lmk_loss: 0.0808, au_dist_loss: 0.1263, au_loss: 0.0354, reg_jawpose: 0.0091, expression_reg: 0.0000, all_loss: 0.4038, 
