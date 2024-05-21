@@ -6,7 +6,8 @@
 
 This is the official Pytorch implementation of AUFART. <br>
 
-AUFART reconstructs 3D head models sensitive to AU activations from a single monocular wild face image. Please refer to the [paper preprint](https://assets-eu.researchsquare.com/files/rs-4310180/v1/26cf1775-0300-43db-ba2b-3b021cbc3c29.pdf?c=1714607300) for more details.<br>
+AUFART reconstructs 3D head models sensitive to AU activations from a single monocular in-the-wild face image.<br>
+Please refer to the [paper preprint](https://assets-eu.researchsquare.com/files/rs-4310180/v1/26cf1775-0300-43db-ba2b-3b021cbc3c29.pdf?c=1714607300) for more details.<br>
 
 ![image](https://github.com/ChickenRushKR/AUFART/assets/67854851/098ece63-f9be-44ac-bc81-4b18975610c5)
 
