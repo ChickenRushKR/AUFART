@@ -5,7 +5,7 @@
 
 
 This is the official Pytorch implementation of AUFART. <br>
-The implementation is heavily dependent on DECA.
+The implementation is heavily dependent on DECA. <br>
 AUFART reconstructs 3D head models sensitive to AU activations from a single monocular in-the-wild face image.<br>
 Please refer to the paper 'A new method for 3D face reconstruction using transformers based on action unit features'.
 [paper preprint]([https://assets-eu.researchsquare.com/files/rs-4310180/v1/26cf1775-0300-43db-ba2b-3b021cbc3c29.pdf?c=1714607300](https://www.sciencedirect.com/science/article/pii/S2405959525000499)) for more details.<br>
